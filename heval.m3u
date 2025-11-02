@@ -357,7 +357,7 @@ https://tv-e-okul02.medya.trt.com.tr/master.m3u8
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="TRT Kurdî (720p)"tvg-id="TRTKurdi.tr@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TRT_Kurd%C3%AE_logo.svg/512px-TRT_Kurd%C3%AE_logo.svg.png"group-title="Turkye",TRT Kurdî (720p)
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name="TRT Müzik (720p)"tvg-id="TRTMuzik.tr@SD"tvg-logo="https://i.imgur.com/JgUzRH8.png"group-title="Music",TRT Müzik (720p)
+#EXTINF:-1 tvg-name="TRT Müzik"tvg-id="TRTMuzik.tr@SD"tvg-logo="https://i.imgur.com/JgUzRH8.png"group-title="Music",TRT Müzik (720p)
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="TRT Turk"tvg-id="TRTTurk.tr@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_T%C3%BCrk_logo.svg/512px-TRT_T%C3%BCrk_logo.svg.png"group-title="Turkye",TRT Turk
 https://viamotionhsi.netplus.ch/live/eds/trtturk/browser-dash/trtturk.mpd
@@ -1237,7 +1237,7 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b2
 http://213.57.91.138:8000/play/a05s
 #EXTINF:-1 tvg-name="Ronahi TV (1080p)"tvg-id="RonahiTV.sy"tvg-logo="https://i.imgur.com/JSvJpD8.png"group-title="Kurd",Ronahi TV (1080p)
 https://hlspackager.akamaized.net/live/DB/RONAHI_TV/HLS/RONAHI_TV.m3u8
-#EXTINF:-1 tvg-name="TRT Müzik"tvg-id="TRT Müzik"tvg-logo="https://i.imgur.com/fIVFCEd.png"group-title=" Turkey ",TRT Müzik
+#EXTINF:-1 tvg-name="TRT Müzik"tvg-id="TRT Müzik"tvg-logo="https://i.imgur.com/fIVFCEd.png"group-title="Music",TRT Müzik
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="AFN TV (720p)"tvg-id="AFNTV.ir"tvg-logo="https://i.imgur.com/LctanF8.png"group-title="Music",AFN TV (720p)
 https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
