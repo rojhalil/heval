@@ -125,8 +125,6 @@ https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 https://edge1.socialsmart.tv/birtv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-name="CİNE1 TV"tvg-id="Cine.1.tr"tvg-logo="https://i.ibb.co/zhxTBMR/cine1.png"group-title="Turkye",CINE1
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
-#EXTINF:-1 tvg-name="TVNET"tvg-id="TVNET.tr"tvg-logo="https://i.ibb.co/2jtzN6F/tvnet.png"group-title="Turkye",TVNET
-https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 #EXTINF:-1 tvg-name="4U TV (720p)"tvg-id="4UTV.tr@SD"tvg-logo="https://i.imgur.com/PexhKwp.png"group-title="Turkye",4U TV (720p)
 https://hls.4utv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="360 TV (720p) [Not 24/7]"tvg-id="360.tr@SD"tvg-logo="https://i.imgur.com/agn47sQ.png"group-title="Turkye",360 TV (720p) [Not 24/7]
@@ -151,8 +149,6 @@ https://edge1.socialsmart.tv/altastv/bant1/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8
 #EXTINF:-1 tvg-name="ARAS TV (576p) [Not 24/7]"tvg-id="ArasTV.tr@SD"tvg-logo="https://i.imgur.com/JsDCyWG.png"group-title="Turkye",ARAS TV (576p) [Not 24/7]
 http://1.rtmp.org/tv217/yayin.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="ATV (360p)"tvg-id="ATV.tr@SD"tvg-logo="https://i.imgur.com/HyVUwFC.png"group-title="Turkye",ATV (360p)
-http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8
 #EXTINF:-1 tvg-name="Beyaz TV (1080p)"tvg-id="BeyazTV.tr@SD"tvg-logo="https://i.imgur.com/uykIdML.png"group-title="Turkye",Beyaz TV (1080p)
 https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8?app=fcd5c66b-da9d-44ba-a410-4f34805c397d&ce=3
 #EXTINF:-1 tvg-name="Bloomberg HT (720p) [Not 24/7]"tvg-id="BloombergHT.tr@SD"tvg-logo="https://i.imgur.com/bmkXfIE.png"group-title="Turkye",Bloomberg HT (720p) [Not 24/7]
@@ -373,8 +369,6 @@ https://tv100-live.daioncdn.net/tv100/tv100.m3u8
 https://b01c02nl.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Den (576p) [Not 24/7]"tvg-id="TVDen.tr@SD"tvg-logo="https://i.postimg.cc/QM3dHRfF/tvden.png"group-title="Turkye",TV Den (576p) [Not 24/7]
 http://canli.tvden.com.tr/hls/live.m3u8
-#EXTINF:-1 tvg-name="TVnet (720p)"tvg-id="TVNET.tr@SD"tvg-logo="https://i.imgur.com/mQo8yWQ.png"group-title="Turkye",TVnet (720p)
-https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 #EXTINF:-1 tvg-name="TYT Turk"tvg-id="TYTTurk.tr@SD"tvg-logo="https://tytturk.com/upload/tyt-logo.png"group-title="Turkye",TYT Turk
 https://cdn-tytturk.yayin.com.tr/tytturk/index.m3u8
 #EXTINF:-1 tvg-name="Urfa Natik TV (720p)"tvg-id="UrfaNatikTV.tr@SD"tvg-logo="https://i.imgur.com/8KO0uxn.png"group-title="Turkye",Urfa Natik TV (720p)
@@ -383,8 +377,6 @@ https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Vizyon 58 TV (720p) [Geo-blocked]"tvg-id="Vizyon58TV.tr@SD"tvg-logo="https://i.imgur.com/tITBc59.png"group-title="Turkye",Vizyon 58 TV (720p) [Geo-blocked]
 https://live.artidijitalmedya.com/artidijital_vizyon58/vizyon58/playlist.m3u8
-#EXTINF:-1 tvg-name="Woman TV (1080p)"tvg-id="WomanTV.tr@SD"tvg-logo="https://i.imgur.com/f2zGoV3.png"group-title="Turkye",Woman TV (1080p)
-https://embedlp.becdn.net/womantv.m3u8
 #EXTINF:-1 tvg-name="Zarok TV (720p)"tvg-id="ZarokTV.tr@SD"tvg-logo="https://i.imgur.com/o0eevnb.png"group-title="Turkye",Zarok TV (720p)
 https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Al Yaum TV (1080p)"tvg-id="AlYaumTV.ae"tvg-logo="https://i.imgur.com/rBixF3P.png"group-title="Arabic",Al Yaum TV (1080p)
@@ -447,14 +439,6 @@ https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://lenz.splus.ir/PLTV/88888888/224/3221227000/index.m3u8
 #EXTINF:-1 tvg-name="Abdulmajeed Abdullah (1080p)"tvg-id="AbdulmajeedAbdullah.sa@SD"tvg-logo="https://assets.mbcmood.com/channels/1720184087Abdullah%20Majeed%20Abdullah%20banner.png"group-title="Arabic",Abdulmajeed Abdullah (1080p)
 https://d2hng5r56zpsbw.cloudfront.net/out/v1/9c4c990f44bb4767bb46271f326dd574/index.m3u8
-#EXTINF:-1 tvg-name="Abu Dhabi Emirates (1080p)"tvg-id="AbuDhabiEmirates.ae@SD"tvg-logo="https://i.imgur.com/iSbZqn4.png"group-title="Arabic",Abu Dhabi Emirates (1080p)
-https://vo-live-media.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.m3u8
-#EXTINF:-1 tvg-name="Abu Dhabi Sports 1 (1080p) [Geo-blocked]"tvg-id="AbuDhabiSports1.ae@SD"tvg-logo="https://i.imgur.com/6BVWk8z.png"group-title="Arabic",Abu Dhabi Sports 1 (1080p) [Geo-blocked]
-https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
-#EXTINF:-1 tvg-name="Abu Dhabi Sports 2 (1080p) [Geo-blocked]"tvg-id="AbuDhabiSports2.ae@SD"tvg-logo="https://i.imgur.com/y1I2jFK.png"group-title="Arabic",Abu Dhabi Sports 2 (1080p) [Geo-blocked]
-https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
-#EXTINF:-1 tvg-name="Abu Dhabi TV (1080p)"tvg-id="AbuDhabiTV.ae@SD"tvg-logo="https://i.imgur.com/8DAriPs.png"group-title="Arabic",Abu Dhabi TV (1080p)
-https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
 #EXTINF:-1 tvg-name="Access Sacramento Channel 18"tvg-id="AccessSacramentoChannel18.us@SD"tvg-logo="https://i.imgur.com/0pbtcvp.png"group-title="Arabic",Access Sacramento Channel 18
 https://reflect-access-sacramento.cablecast.tv/live-8/live/live.m3u8
 #EXTINF:-1 tvg-name="Afghanistan International (720p)"tvg-id="AfghanistanInternational.uk@SD"tvg-logo="https://i.imgur.com/r8MmFRX.png"group-title="Arabic",Afghanistan International (720p)
@@ -499,8 +483,6 @@ http://185.9.2.18/chid_391/mono.m3u8
 http://63b03f7689049.streamlock.net:1935/live/18/playlist.m3u8
 #EXTINF:-1 tvg-name="Al Jazeera (1080p)"tvg-id="AlJazeera.qa@Arabic"tvg-logo="https://i.imgur.com/7bRVpnu.png"group-title="Arabic",Al Jazeera (1080p)
 https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8
-#EXTINF:-1 tvg-name="Al Jazeera Documentary (1080p)"tvg-id="AlJazeeraDocumentary.qa@HD"tvg-logo="https://i.imgur.com/5dNJlLo.png"group-title="Arabic",Al Jazeera Documentary (1080p)
-http://213.57.91.138:8000/play/a06h
 #EXTINF:-1 tvg-name="Al Jazeera Mubasher (1080p)"tvg-id="AlJazeeraMubasher.qa@SD"tvg-logo="https://i.imgur.com/X80DQvF.png"group-title="Arabic",Al Jazeera Mubasher (1080p)
 https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8
 #EXTINF:-1 tvg-name="Al Jazeera Mubasher 24 (1080p)"tvg-id="AlJazeeraMubasher24.qa@SD"tvg-logo="https://i.imgur.com/LMCcIZ2.png"group-title="Arabic",Al Jazeera Mubasher 24 (1080p)
@@ -543,8 +525,6 @@ https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
 https://iko-live.akamaized.net/AlyuamTV/master.m3u8
 #EXTINF:-1 tvg-name="Al-Naeem TV (576p)"tvg-id="AlNaeemTV.iq@SD"tvg-logo="https://i.postimg.cc/wjYB9x9C/alnaeemtv.png"group-title="Arabic",Al-Naeem TV (576p)
 https://nl2.livekadeh.com/hls2/alnaeem.m3u8
-#EXTINF:-1 tvg-name="Al-Nahar (576p)"tvg-id="AlNahar.eg@SD"tvg-logo="https://i.ibb.co/WN6bh6mq/alnahar.png"group-title="Arabic",Al-Nahar (576p)
-http://213.57.91.138:8000/play/a06m
 #EXTINF:-1 tvg-name="Al-Sharqiya (1080p)"tvg-id="AlSharqiya.iq@SD"tvg-logo="https://i.imgur.com/mJIG5IV.png"group-title="Arabic",Al-Sharqiya (1080p)
 https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8
 #EXTINF:-1 tvg-name="Al-Sharqiya News (1080p)"tvg-id="AlSharqiyaNews.iq@SD"tvg-logo="https://i.imgur.com/PeAcXB9.png"group-title="Arabic",Al-Sharqiya News (1080p)
@@ -553,18 +533,12 @@ https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8
 http://95.216.180.111:1935/live/10/playlist.m3u8
 #EXTINF:-1 tvg-name="Alhaqeqa Aldawlia (1080p)"tvg-id="AlhaqeqaAldawlia.jo@SD"tvg-logo="https://i.postimg.cc/DyZr1gsv/alhaqeqaaldawlia.png"group-title="Arabic",Alhaqeqa Aldawlia (1080p)
 https://ghaasiflu.online/alhqeqa/index.m3u8
-#EXTINF:-1 tvg-name="Alhayat Drama (576)"tvg-id="AlhayatDrama.eg@SD"tvg-logo="https://i.imgur.com/vVM7I4a.png"group-title="Arabic",Alhayat Drama (576)
-http://213.57.91.138:8000/play/a06s
 #EXTINF:-1 tvg-name="Alhurra (720p)"tvg-id="Alhurra.us@SD"tvg-logo="https://i.imgur.com/tiQp2sR.png"group-title="Arabic",Alhurra (720p)
 https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master.m3u8
 #EXTINF:-1 tvg-name="Alhurra Iraq (720p)"tvg-id="AlhurraIraq.us@SD"tvg-logo="https://i.postimg.cc/d0MGPcf3/alhurrairaq.png"group-title="Arabic",Alhurra Iraq (720p)
 https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038899/MBN_Iraq_Worldsafe_HLS/master.m3u8
-#EXTINF:-1 tvg-name="Alkass Four HD (720p)"tvg-id="AlkassFour.qa@HD"tvg-logo="https://i.imgur.com/iDL65Wu.png"group-title="Arabic",Alkass Four HD (720p)
-https://Streamer3.qna.org.qa:443/148164621_live/148164621_296.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="Alkass Three (720p)"tvg-id="AlkassThree.qa@SD"tvg-logo="https://i.imgur.com/d57BdFh.png"group-title="Arabic",Alkass Three (720p)
 https://streamer2.qna.org.qa/148161470_live/148161470_296.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="Alkass Two (720p)"tvg-id="AlkassTwo.qa"tvg-logo="https://i.imgur.com/8w61kFX.png"group-title="Arabic",Alkass Two (720p)
-https://Streamer3.qna.org.qa:443/148164528_live/148164528_296.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="Alkhuzama Radio (1080p)"tvg-id="AlkhuzamaRadio.sa@SD"tvg-logo="https://shahid.mbc.net/mediaObject/61010cbc-91c5-4ce1-94a4-ed40adadb97b"group-title="Arabic",Alkhuzama Radio (1080p)
 https://live.kwikmotion.com/sbrksakhuzamaradiolive/srpkhuzama/playlist.m3u8
 #EXTINF:-1 tvg-name="Almahriah TV (576p)"tvg-id="AlmahriahTV.tr@SD"tvg-logo="https://i.imgur.com/GgEeTNr.png"group-title="Arabic",Almahriah TV (576p)
@@ -595,16 +569,10 @@ https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
 #EXTINF:-1 tvg-name="Bahrain TV (720p) [Not 24/7]"tvg-id="BahrainTV.bh@SD"tvg-logo="https://i.postimg.cc/rw57LMpY/bahraintv.png"group-title="Arabic",Bahrain TV (720p) [Not 24/7]
 https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
-#EXTINF:-1 tvg-name="Bahry (1080p)"tvg-id="Bahry.kw@HD"tvg-logo="https://bahry.faulio.com/storage/mediagallery/9a/c7/fullhd_6a5a505408b027c0d4a4453c72258f9db0d2cb20.png"group-title="Arabic",Bahry (1080p)
-https://live.kwikmotion.com/bahry1live/bahry1.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="BBC Arabic (720p)"tvg-id="BBCArabic.uk@SD"tvg-logo="https://i.imgur.com/ScyTG6P.png"group-title="Arabic",BBC Arabic (720p)
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
-#EXTINF:-1 tvg-name="Belqees TV (576p)"tvg-id="BelqeesTV.ye@SD"tvg-logo="https://i.postimg.cc/c4tLwgDg/belqeestv.png"group-title="Arabic",Belqees TV (576p)
-http://213.57.91.138:8000/play/a068
 #EXTINF:-1 tvg-name="Big Time Plus (1080p)"tvg-id="BigTimePlus.sa@SD"tvg-logo="https://shahid.mbc.net/mediaObject/4e042cb6-500b-4e4c-a8ca-21a5a7a7a71b"group-title="Arabic",Big Time Plus (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-big-time-plus/924283f994779a311c1389698ff7e736/index.m3u8
-#EXTINF:-1 tvg-name="CBC Drama (576p)"tvg-id="CBCDrama.eg@SD"tvg-logo="https://i.imgur.com/I8YdakH.png"group-title="Arabic",CBC Drama (576p)
-http://213.57.91.138:8000/play/a06q
 #EXTINF:-1 tvg-name="CGTN Arabic (1080p) [Not 24/7]"tvg-id="CGTNArabic.cn@SD"tvg-logo="https://i.imgur.com/AkFFrS7.png"group-title="Arabic",CGTN Arabic (1080p) [Not 24/7]
 https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
 #EXTINF:-1 tvg-name="Chada TV (720p)"tvg-id="ChadaTV.ma@SD"tvg-logo="https://i.postimg.cc/3w0XqCFX/chadatv.png"group-title="Arabic",Chada TV (720p)
@@ -639,8 +607,6 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtfknklgwrlive/broadcast_5dc818c7
 https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-name="Fujairah TV (720p)"tvg-id="FujairahTV.ae@SD"tvg-logo="https://i.postimg.cc/6TxTbnzQ/fujairahtv.png"group-title="Arabic",Fujairah TV (720p)
 https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Future TV (1080p)"tvg-id="FutureTV.lb@SD"tvg-logo="https://i.postimg.cc/43Ww9bQV/futuretv.png"group-title="Arabic",Future TV (1080p)
-https://live.kwikmotion.com/futurelive/ftv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Hala London (1080p)"tvg-id="HalaLondon.uk@SD"tvg-logo="https://i.imgur.com/bM4VZDH.png"group-title="Arabic",Hala London (1080p)
 https://halalondon-live.ercdn.net/halalondon/halalondon.m3u8
 #EXTINF:-1 tvg-name="Hala TV (1080p) [Not 24/7]"tvg-id="HalaTV.il@SD"tvg-logo="https://i.imgur.com/028M4Ew.png"group-title="Arabic",Hala TV (1080p) [Not 24/7]
@@ -693,14 +659,10 @@ https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8
 #EXTINF:-1 tvg-name="MBC 1 USA (1080p) [Geo-blocked]"tvg-id="MBC1USA.us@SD"tvg-logo="https://i.imgur.com/CiA3plN.png"group-title="Movies",MBC 1 USA (1080p) [Geo-blocked]
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-usa/fdac3a4fc0473f1f56e07ec1d63a4b7b/index.m3u8
-#EXTINF:-1 tvg-name="MBC 2 (576p)"tvg-id="MBC2.ae@SD"tvg-logo="https://i.imgur.com/n9mSHuP.png"group-title="Movies",MBC 2 (576p)
-http://213.57.91.138:8000/play/a05k
 #EXTINF:-1 tvg-name="MBC 4 (1080p)"tvg-id="MBC4.ae@SD"tvg-logo="https://i.imgur.com/BcXASJp.png"group-title="Movies",MBC 4 (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
 #EXTINF:-1 tvg-name="MBC 5 (1080p)"tvg-id="MBC5.ae@SD"tvg-logo="https://i.imgur.com/fRWaDyF.png"group-title="Movies",MBC 5 (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
-#EXTINF:-1 tvg-name="MBC Action (576p)"tvg-id="MBCAction.ae@SD"tvg-logo="https://i.imgur.com/OWZAghw.png"group-title="Movies",MBC Action (576p)
-http://213.57.91.138:8000/play/a05l
 #EXTINF:-1 tvg-name="MBC Bollywood (1080p) [Geo-blocked]"tvg-id="MBCBollywood.ae@SD"tvg-logo="https://i.imgur.com/TTAGFHG.png"group-title="Movies",MBC Bollywood (1080p) [Geo-blocked]
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
 #EXTINF:-1 tvg-name="MBC Drama KSA (1080p)"tvg-id="MBCDrama.ae@SD"tvg-logo="https://i.imgur.com/g5PWnqp.png"group-title="Movies",MBC Drama KSA (1080p)
@@ -735,8 +697,6 @@ https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/in
 https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/92.0.4515.131 Safari/537.36"tvg-id="MusawaChannel.ps@SD"tvg-logo="https://i.imgur.com/GB2Q9kl.png"group-title="Arabic",MusawaChannel (1080p) [Not 24/7]
 https://pbc.furrera.ps/musawahd/index.m3u8
-#EXTINF:-1 tvg-name="Nabaa TV (720p) [Not 24/7]"tvg-id="NabaaTV.lb@SD"tvg-logo="https://i.imgur.com/p8eRgSs.png"group-title="Arabic",Nabaa TV (720p) [Not 24/7]
-http://31.14.40.237:1935/live/Nabaa/playlist.m3u8
 #EXTINF:-1 tvg-name="Palestine"tvg-id="Palestinetv.ir@SD"tvg-logo="https://i.ibb.co/svrZNZTX/Palestine.png"group-title="Arabic",Palestine
 https://ncdn.telewebion.com/palestine/live/playlist.m3u8
 #EXTINF:-1 tvg-name="like Gecko) Chrome/92.0.4515.131 Safari/537.36"tvg-id="PalestineMubasher.ps@SD"tvg-logo="https://i.imgur.com/68llVTZ.png"group-title="Arabic",Palestine Mubasher (1080p)
@@ -815,24 +775,14 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b2
 https://rp.tactivemedia.com/watantv_source/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Watar Radio (1080p)"tvg-id="WatarRadio.ae@SD"tvg-logo="https://sbauae.faulio.com/storage/mediagallery/d2/ad/fullhd_48adf2291d08266c05ed1b0c24f326c86b1095b7.png"group-title="Arabic",Watar Radio (1080p)
 https://svs.itworkscdn.net/smcwatarlive/smcwatar/playlist.m3u8
-#EXTINF:-1 tvg-name="Watar TV (720p) [Not 24/7]"tvg-id="WatarTV.ps@SD"tvg-logo="https://i.imgur.com/jdr22Sk.jpeg"group-title="Arabic",Watar TV (720p) [Not 24/7]
-http://htvint.mada.ps:8889/orient/index.m3u8
 #EXTINF:-1 tvg-name="Welat TV (1080i)"tvg-id="WelatTV.sy@HD"tvg-logo="https://avatars.githubusercontent.com/u/213803648?s=400&u=e27c09d39f813b9698de9c6559cbf7f196bf6fce&v=4"group-title="Arabic",Welat TV (1080i)
 https://stream.badinan.xyz/welat/tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Yas TV (1080p) [Geo-blocked]"tvg-id="YasTV.ae@SD"tvg-logo="https://i.imgur.com/CSHQhP4.png"group-title="Arabic",Yas TV (1080p) [Geo-blocked]
-https://vo-live-media.cdb.cdn.orange.com/Content/Channel/YASSportsChannel/HLS/index.m3u8
 #EXTINF:-1 tvg-name="Yemen Today TV (480p)"tvg-id="YemenTodayTV.ye@SD"tvg-logo="https://i.imgur.com/8TzcJu5.png"group-title="Arabic",Yemen Today TV (480p)
 https://video.yementdy.tv/hls/yementoday.m3u8
 #EXTINF:-1 tvg-name="Zagros (720p) [Not 24/7]"tvg-id="ZagrosTV.iq@SD"tvg-logo="https://i.imgur.com/9Mspf32.png"group-title="Arabic",Zagros (720p) [Not 24/7]
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Zarin TV"tvg-id="ZarinTV.us@SD"tvg-logo="https://www.lyngsat.com/logo/tv/zz/zarin_tv.png"group-title="Arabic",Zarin TV
 https://fl1002.bozztv.com/gf-zarintv/index.m3u8
-#EXTINF:-1 tvg-name="Zee Aflam (576p)"tvg-id="ZeeAflam.ae@SD"tvg-logo="https://i.imgur.com/ZxknutA.png"group-title="Movies",Zee Aflam (576p)
-http://213.57.91.138:8000/play/a05s
-#EXTINF:-1 tvg-name="Zee Alwan (576p)"tvg-id="ZeeAlwan.ae@SD"tvg-logo="https://i.imgur.com/OLuCox7.png"group-title="Movies",Zee Alwan (576p)
-http://213.57.91.138:8000/play/a05t
-#EXTINF:-1 tvg-name="Zee Alwan Egypt (576p)"tvg-id="ZeeAlwan.ae@Egypt"tvg-logo="https://i.imgur.com/OLuCox7.png"group-title="Arabic",Zee Alwan Egypt (576p)
-http://213.57.91.138:8000/play/a05u
 #EXTINF:-1 tvg-name="Iran International (720p)"tvg-id="IranInternational.uk"tvg-logo="https://i.imgur.com/55RpaF3.png"group-title="Pers",Iran International (720p)
 https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
 #EXTINF:-1 tvg-name="IraneFarda TV (720p)"tvg-id="IraneFardaTV.uk"tvg-logo="https://i.imgur.com/ixgcgZY.png"group-title="Pers",IraneFarda TV (720p)
@@ -845,14 +795,10 @@ https://4kuhls.persiana.live/hls/stream.m3u8
 https://musichls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="4 Kurd"tvg-id="4Kurd.fr@SD"tvg-logo="https://www.aparatchi.com/images/chanells-logo/4kurd.svg"group-title="Music",4 Kurd
 https://4kuhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-name="4 Music"tvg-id="4Music.fr@SD"tvg-logo="https://i.postimg.cc/W1XctWXT/4music-01.jpg"group-title="Music",4 Music
-https://4muhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="4 Sport"tvg-id="4Sports.fr@SD"tvg-logo="https://i.ibb.co/RTVXW2gj/Screenshot-2025-05-18-231648.png"group-title="Pers",4 Sport
 https://pepsi.abntv.live/hls/4spstream.m3u8
 #EXTINF:-1 tvg-name="4U TV (720p)"tvg-id="4UTV.tr@SD"tvg-logo="https://i.imgur.com/PexhKwp.png"group-title="Pers",4U TV (720p)
 https://hls.4utv.live/hls/stream.m3u8
-#EXTINF:-1 tvg-name="Abadan"tvg-id="AbadanTV.ir@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/fa/3/39/Abadan_tv.png"group-title="Pers",Abadan
-https://lenz.splus.ir/PLTV/88888888/224/3221227000/index.m3u8
 #EXTINF:-1 tvg-name="Aflak"tvg-id="AflakTV.ir@SD"tvg-logo="https://i.imgur.com/LkLCHpf.png"group-title="Pers",Aflak
 https://lenz.splus.ir/PLTV/88888888/224/3221226675/index.m3u8
 #EXTINF:-1 tvg-name="AFN TV"tvg-id="AFNTV.ir@SD"tvg-logo="https://i.imgur.com/LctanF8.png"group-title="Music",AFN TV
@@ -869,8 +815,6 @@ https://live2.alalam.ir/alalam.m3u8
 https://nl.livekadeh.com/hls2/alwilayah_tv.m3u8
 #EXTINF:-1 tvg-name="Alborz"tvg-id="AlborzTV.ir@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Alborz_TV_logo.svg/310px-Alborz_TV_logo.svg.png"group-title="Pers",Alborz
 https://ncdn.telewebion.com/alborz/live/playlist.m3u8
-#EXTINF:-1 tvg-name="AlKawthar"tvg-id="AlKawtharTV.ir@SD"tvg-logo="https://i.imgur.com/x4zUmY1.png"group-title="Pers",AlKawthar
-https://lenz.splus.ir/PLTV/88888888/224/3221226158/index.m3u8
 #EXTINF:-1 tvg-name="Amouzesh"tvg-id="AmouzeshTV.ir@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Amouzesh_TV_logo_%282023%29.svg/201px-Amouzesh_TV_logo_%282023%29.svg.png"group-title="Pers",Amouzesh
 https://lenz.splus.ir/PLTV/88888888/224/3221226151/index.m3u8
 #EXTINF:-1 tvg-name="Ara"tvg-id="AraTV.ir@SD"tvg-logo="https://i.ibb.co/dwSHt2SG/Ara.png"group-title="Pers",Ara
@@ -905,8 +849,6 @@ https://clshls.wns.live/hls/stream.m3u8
 https://dathls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Dena"tvg-id="DenaTV.ir@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/1/1c/Yasuj_DENA.svg/274px-Yasuj_DENA.svg.png"group-title="Pers",Dena
 https://ncdn.telewebion.com/dena/live/playlist.m3u8
-#EXTINF:-1 tvg-name="Ekran Movies"tvg-id="EkranMovies.ir@SD"tvg-logo="https://i.ibb.co/WNyssx28/Screenshot-2025-05-18-211143.png"group-title="Pers",Ekran Movies
-https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/EkranMovies/index-0.m3u8
 #EXTINF:-1 tvg-name="Energy"tvg-id="Energy.ir@SD"tvg-logo="https://static.telewebion.com/channelsLogo/9c150d8a-c4ab-4f72-9fb6-4e3fb65fc5ee/default"group-title="Pers",Energy
 https://ncdn.telewebion.com/baenergy/live/playlist.m3u8
 #EXTINF:-1 tvg-name="EPlanet TV"tvg-id="EPlanetTV.ir@SD"tvg-logo="https://i.postimg.cc/1RBJmjGM/EPlanet-TV.png"group-title="Pers",EPlanet TV
@@ -915,36 +857,12 @@ https://eplhls.wns.live/hls/stream.m3u8
 https://hls.erfanhalgheh.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Eshragh"tvg-id="EshraghNetwork.ir@SD"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3AM7W8mE877olzjDXmTN_Sxn_cmR_WAlDKPmE62G8E3cJPJwKdRnIa42quYie9z71Lwo&usqp=CAU"group-title="Pers",Eshragh
 https://ncdn.telewebion.com/eshragh/live/playlist.m3u8
-#EXTINF:-1 tvg-name="Fars"tvg-id="FarsTV.ir@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/fa/7/7b/Iribfars.png"group-title="Pers",Fars
-https://lenz.splus.ir/PLTV/88888888/224/3221226701/index.m3u8
 #EXTINF:-1 tvg-name="FX TV 1"tvg-id="FX1.ir@SD"tvg-logo="https://www.lyngsat.com/logo/tv/ff/fx-1.png"group-title="Pers",FX TV 1
 https://fxtvhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="FX TV 2"tvg-id="FX2.ir@SD"tvg-logo="https://www.lyngsat.com/logo/tv/ff/fx-two-fr.png"group-title="Pers",FX TV 2
 https://toonixhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-name="GEM Comedy"tvg-id="GEMComedy.tr@SD"tvg-logo="https://i.imgur.com/FuscfJW.png"group-title="Pers",GEM Comedy
-https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemcomedy/index-0.m3u8
-#EXTINF:-1 tvg-name="GEM Drama Plus"tvg-id="GEMDramaPlus.tr@SD"tvg-logo="https://gemgroup.tv/assets/images/channels/icon_7.png"group-title="Movies",GEM Drama Plus
-https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemdramaplus/index-0.m3u8
-#EXTINF:-1 tvg-name="GEM Fit"tvg-id="GEMFit.tr@SD"tvg-logo="https://i.imgur.com/7FQxaII.png"group-title="Pers",GEM Fit
-https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemfit/index-0.m3u8
-#EXTINF:-1 tvg-name="GEM Life"tvg-id="GEMLife.tr@SD"tvg-logo="https://i.imgur.com/gI8qePa.png"group-title="Pers",GEM Life
-https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemlife/index-0.m3u8
-#EXTINF:-1 tvg-name="GEM Mifa Plus"tvg-id="GEMMifaPlus.tr@SD"tvg-logo="https://i.imgur.com/8FIAqR5.png"group-title="Music",GEM Mifa Plus
-https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemmifaplus/index-0.m3u8
-#EXTINF:-1 tvg-name="GEM Nature"tvg-id="GEMNature.tr@SD"tvg-logo="https://i.imgur.com/ENvOMDQ.png"group-title="Pers",GEM Nature
-https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemnature/index-0.m3u8
-#EXTINF:-1 tvg-name="GEM Onyx"tvg-id="GEMOnyx.tr@SD"tvg-logo="https://i.imgur.com/gXRIAw4.png"group-title="Movies",GEM Onyx
-https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemonyx/index-0.m3u8
 #EXTINF:-1 tvg-name="GEM Pixel"tvg-id="GEMPixel.tr@SD"tvg-logo="https://i.ibb.co/Q3tkbPrn/icon-27.png"group-title="Movies",GEM Pixel
 https://glserver1.tamashaland.com/live/aBCH96886YznRbGOiqTnnQ__/stream_0.m3u8
-#EXTINF:-1 tvg-name="GEM River Plus"tvg-id="GEMRiverPlus.tr@SD"tvg-logo="https://gemgroup.tv/assets/images/channels/icon_29.png"group-title="Pers",GEM River Plus
-https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemriverplus/index-0.m3u8
-#EXTINF:-1 tvg-name="GEM Rubix"tvg-id="GEMRubix.tr@SD"tvg-logo="https://i.imgur.com/cDjOj58.png"group-title="Movies",GEM Rubix
-https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemrubix/index-0.m3u8
-#EXTINF:-1 tvg-name="GEM Rubix Plus"tvg-id="GEMRubixPlus.tr@SD"tvg-logo="https://gemgroup.tv/assets/images/channels/icon_31.png"group-title="Movies",GEM Rubix Plus
-https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemrubixplus/index-0.m3u8
-#EXTINF:-1 tvg-name="GEM Series Plus"tvg-id="GEMSeriesPlus.tr@SD"tvg-logo="https://gemgroup.tv/assets/images/channels/icon_33.png"group-title="Movies",GEM Series Plus
-https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemseriesplus/index-0.m3u8
 #EXTINF:-1 tvg-name="Gold Star"tvg-id="GoldStar.ir@SD"tvg-logo="https://i.postimg.cc/KvsfL3sM/goldstar.jpg"group-title="Movies",Gold Star
 https://moviethls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Golkhane TV"tvg-id="GolkhaneTv.ir@SD"tvg-logo="https://static.telewebion.com/channelsLogo/686599d8-c1ee-4557-aa72-b1293a21906d/default"group-title="Pers",Golkhane TV
@@ -1085,8 +1003,6 @@ https://cinehls.persiana.live/hls/stream.m3u8
 https://comedyhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Persiana Docs"tvg-id="PersianaDocs.fr@HD"tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-docs-fr.png"group-title="Pers",Persiana Docs
 https://scihls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-name="Persiana Emirates"tvg-id="PersianaEmirates.fr@SD"tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-emirates-fr.png"group-title="Pers",Persiana Emirates
-https://pemirateshls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Persiana Family"tvg-id="PersianaFamily.fr@SD"tvg-logo="https://i.imgur.com/lMZsuWi.png"group-title="Movies",Persiana Family
 https://familyhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Persiana Fight"tvg-id="PersianaFight.fr@HD"tvg-logo="https://i.postimg.cc/qqz57Dkv/persiana-fight.jpg"group-title="Pers",Persiana Fight
@@ -1097,8 +1013,6 @@ https://sonhls.persiana.live/hls/stream.m3u8
 https://irhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Persiana Korea"tvg-id="PersianaKorea.fr@SD"tvg-logo="https://i.imgur.com/si2ZnIA.png"group-title="Movies",Persiana Korea
 https://korhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-name="Persiana Latino"tvg-id="PersianaLatino.fr@SD"tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-latino-fr.png"group-title="Movies",Persiana Latino
-https://latinohls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Persiana Medical"tvg-id="PersianaMedical.fr@SD"tvg-logo="https://i.postimg.cc/9FPhHF94/persiana-medical.jpg"group-title="Pers",Persiana Medical
 https://phd2hls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Persiana Music"tvg-id="PersianaMusic.fr@SD"tvg-logo="https://i.imgur.com/SHxxi5I.png"group-title="Music",Persiana Music
@@ -1107,8 +1021,6 @@ https://musichls.persiana.live/hls/stream.m3u8
 https://noshls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Persiana Plus"tvg-id="PersianaPlus.fr@SD"tvg-logo="https://i.imgur.com/0xttibX.png"group-title="Movies",Persiana Plus
 https://euhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-name="Persiana Plus One"tvg-id="PersianaPlusOne.fr@SD"tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-plus-one-fr.png"group-title="Movies",Persiana Plus One
-https://poneplushls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Persiana Reality"tvg-id="PersianaReality.fr@HD"tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-reality-fr.png"group-title="Pers",Persiana Reality
 https://twohls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Persiana Series"tvg-id="PersianaSeries.fr@HD"tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-series-fr.png"group-title="Pers",Persiana Series
@@ -1125,10 +1037,6 @@ https://raphls.persiana.live/hls/stream.m3u8
 https://live4.presstv.ir/live/smil:presstvfr.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="PRO Sport International"tvg-id="PROSportInternational.my@SD"tvg-logo="https://i.postimg.cc/7hjCP4mf/PROSport-International.png"group-title="Pers",PRO Sport International
 https://proshls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-name="Qazvin"tvg-id="QazvinTV.ir@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/QazvinTV.svg/320px-QazvinTV.svg.png"group-title="Pers",Qazvin
-https://lenz.splus.ir/PLTV/88888888/224/3221226888/index.m3u8
-#EXTINF:-1 tvg-name="Quran"tvg-id="QuranTV.ir@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/fa/d/df/Quarntvlogo.png"group-title="Pers",Quran
-https://lenz.splus.ir/PLTV/88888888/224/3221226144/index.m3u8
 #EXTINF:-1 tvg-name="Radio Javan TV (1080p)"tvg-id="RJTV.us@SD"tvg-logo="https://i.imgur.com/a1zuW2C.png"group-title="Pers",Radio Javan TV (1080p)
 https://rjtvhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Razavi TV"tvg-id="RazaviTV.ir@SD"tvg-logo="https://static.telewebion.com/channelsLogo/85f466a7-7d17-4ce8-bee6-13da4ff5deb1/default"group-title="Pers",Razavi TV
@@ -1139,24 +1047,16 @@ https://ncdn.telewebion.com/iribu/live/playlist.m3u8
 https://ncdn.telewebion.com/sabalan/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Sabz"tvg-id="SabzTV.ir@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Logo_Golestan.png/240px-Logo_Golestan.png"group-title="Pers",Sabz
 https://ncdn.telewebion.com/sabz/live/playlist.m3u8
-#EXTINF:-1 tvg-name="Sahand"tvg-id="SahandTV.ir@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/3/37/Tabriz_Sahand.svg/320px-Tabriz_Sahand.svg.png"group-title="Pers",Sahand
-https://lenz.splus.ir/PLTV/88888888/224/3221226423/index.m3u8
-#EXTINF:-1 tvg-name="Salamat"tvg-id="SalamatTV.ir@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/fa/f/f0/IRIB_Salamat_Logo.png"group-title="Pers",Salamat
-https://lenz.splus.ir/PLTV/88888888/224/3221226152/index.m3u8
 #EXTINF:-1 tvg-name="Sarbedaran"tvg-id="SarbedaranTV.ir@SD"tvg-logo="https://static.telewebion.com/channelsLogo/ad6e035d-4215-4d88-a25e-da6ff8e0526f/default"group-title="Pers",Sarbedaran
 https://ncdn.telewebion.com/sarbedaran/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Semnan"tvg-id="SemnanTV.ir@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/fa/3/35/Semnan_TV.png"group-title="Pers",Semnan
 https://ncdn.telewebion.com/semnan/live/playlist.m3u8
-#EXTINF:-1 tvg-name="Sepehr"tvg-id="SepehrTV.ir@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Sepehrtv.png/258px-Sepehrtv.png"group-title="Pers",Sepehr
-https://lenz.splus.ir/PLTV/88888888/224/3221226161/index.m3u8
 #EXTINF:-1 tvg-name="Simaye Azadi (1080p)"tvg-id="SimayeAzadi.uk@SD"tvg-logo="https://i.imgur.com/yXcczMq.png"group-title="Pers",Simaye Azadi (1080p)
 https://simaytv.akamaized.net/hls/live/2043550/simayhls/index.m3u8
 #EXTINF:-1 tvg-name="SL 1"tvg-id="SL1.ir@SD"tvg-logo="https://i.imgur.com/n9cuM2W.jpg"group-title="Movies",SL 1
 https://slonehls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="SL 2"tvg-id="SL2.ir@SD"tvg-logo="https://i.imgur.com/BVuUx5R.jpg"group-title="Movies",SL 2
 https://sltwohls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-name="T2 Movies"tvg-id="T2Movies.ir@SD"tvg-logo="https://i.postimg.cc/gJ0pG0jK/t2movies.png"group-title="Movies",T2 Movies
-https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/T2Movies/index-0.m3u8
 #EXTINF:-1 tvg-name="T2 TV"tvg-id="T2TV.ir@SD"tvg-logo="https://i.imgur.com/Wu8MBb7.png"group-title="Music",T2 TV
 https://t2hls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Tamasha"tvg-id="Tamasha.ir@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/f/f2/IRIB_tamashaTV.svg/240px-IRIB_tamashaTV.svg.png"group-title="Pers",Tamasha
@@ -1177,8 +1077,6 @@ https://hidden-mud-9dcf.nhhwkiszzzvcuojxdo.workers.dev/?url=https://live-azd1103
 https://hls.tmtv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="TVA Nava"tvg-id="TVANava.ir@SD"tvg-logo="https://i.imgur.com/JRxrsrw.png"group-title="Pers",TVA Nava
 https://ncdn.telewebion.com/nava/live/playlist.m3u8
-#EXTINF:-1 tvg-name="Varzesh TV"tvg-id="VarzeshTV.ir@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/f/f5/Iribvarzesh2022.png/240px-Iribvarzesh2022.png"group-title="Pers",Varzesh TV
-https://lenz.splus.ir/PLTV/88888888/224/3221226845/index.m3u8
 #EXTINF:-1 tvg-name="Velayat TV"tvg-id="VelayatTV.ir@SD"tvg-logo="https://static.telewebion.com/channelsLogo/ae05de5b-9fe4-4012-900a-4d0763d6fafc/default"group-title="Pers",Velayat TV
 https://ncdn.telewebion.com/velayat/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Yazd"tvg-id="YazdTV.ir@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Yazd_taban.svg/382px-Yazd_taban.svg.png"group-title="Pers",Yazd
@@ -1217,8 +1115,6 @@ https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-comedy/playlist.m3
 https://shls-live-enc.edgenextcdn.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8
 #EXTINF:-1 tvg-name="Wanasah (1080p)"tvg-id="Wanasah.ae"tvg-logo="https://i.imgur.com/nLtiXNf.png"group-title="Music",Wanasah (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b26e8a41f173d/index.m3u8
-#EXTINF:-1 tvg-name="Zee Aflam (576p)"tvg-id="ZeeAflam.ae"tvg-logo="https://i.imgur.com/ZxknutA.png"group-title="Movies",Zee Aflam (576p)
-http://213.57.91.138:8000/play/a05s
 #EXTINF:-1 tvg-name="Ronahi TV (1080p)"tvg-id="RonahiTV.sy"tvg-logo="https://i.imgur.com/JSvJpD8.png"group-title="Kurd",Ronahi TV (1080p)
 https://hlspackager.akamaized.net/live/DB/RONAHI_TV/HLS/RONAHI_TV.m3u8
 #EXTINF:-1 tvg-name="TRT Müzik"tvg-id="TRT Müzik"tvg-logo="https://i.imgur.com/fIVFCEd.png"group-title="Turkye",TRT Müzik
@@ -1275,8 +1171,6 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/4fe6ab07a13543d6bdb2ec63b3e2df44/in
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/db8d4eca72d64748a00d0631debf542d/index.m3u8
 #EXTINF:-1 tvg-name="Action 24 (1080p)"tvg-id="Action24.gr@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Action24-logo-small.png"group-title="Movies2",Action 24 (1080p)
 http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
-#EXTINF:-1 tvg-name="Afghan Nobel Movies (720p)"tvg-id="AfghanNobelMovies.ca@SD"tvg-logo="https://i.ibb.co/zfdbVSm/logo-1.png"group-title="Movies2",Afghan Nobel Movies (720p)
-https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u8
 #EXTINF:-1 tvg-name="Aflam (1080p)"tvg-id="Aflam.sa@SD"tvg-logo="https://i.imgur.com/cTLj7Yt.png"group-title="Movies2",Aflam (1080p)
 https://shls-live-enc.edgenextcdn.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index.m3u8
 #EXTINF:-1 tvg-name="Afra Film"tvg-id="AfraFilm.ir@SD"tvg-logo="https://i.postimg.cc/vZWdM86g/afra-film.jpg"group-title="Movies2",Afra Film
@@ -1323,8 +1217,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-name="Cine XOXO"tvg-id="CineXOXO.us@SD"tvg-logo="https://i.imgur.com/eAS86qH.png"group-title="Movies2",Cine XOXO
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f5136317aedfb0007016f93/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e002-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=308fd9dd-2f8a-441f-b59d-e02f4b0aacd7
-#EXTINF:-1 tvg-name="Cinecanal"tvg-id="Cinecanal.us@Panregional"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/512px-CinecanalLA.png"group-title="Movies2",Cinecanal
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8
 #EXTINF:-1 tvg-name="Cinema"tvg-id="Cinema.mn@SD"tvg-logo="https://i.postimg.cc/9MFWM1gT/cinema.png"group-title="Movies2",Cinema
 https://cdn4.skygo.mn/live/disk1/CinemaTV/HLSv3-FTA/CinemaTV.m3u8
 #EXTINF:-1 tvg-name="Cinema"tvg-id="Cinema.ru@SD"tvg-logo="https://i.imgur.com/b5e9qUA.png"group-title="Movies2",Cinema
@@ -1361,8 +1253,6 @@ https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 #EXTINF:-1 tvg-name="EBS Cinema (720p)"tvg-id="EBSCinema.us@SD"tvg-logo="https://i.imgur.com/fewPTFE.png"group-title="Movies2",EBS Cinema (720p)
 https://rpn.bozztv.com/ebstv/ebscinema/index.m3u8
-#EXTINF:-1 tvg-name="Ekran Movies"tvg-id="EkranMovies.ir@SD"tvg-logo="https://i.ibb.co/WNyssx28/Screenshot-2025-05-18-211143.png"group-title="Movies2",Ekran Movies
-https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/EkranMovies/index-0.m3u8
 #EXTINF:-1 tvg-name="ETV Cinema HD (1080p)"tvg-id="ETVCinema.in@HD"tvg-logo="https://i.imgur.com/iMxePjI.png"group-title="Movies2",ETV Cinema HD (1080p)
 https://d1q7j6ha51ro6f.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264-3_cloud_in/index.m3u8
 #EXTINF:-1 tvg-name="Filamchi Bhojpuri (1080p)"tvg-id="FilamchiBhojpuri.in@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/Filamchi-Bhojpuri_Tagline.jpg"group-title="Movies2",Filamchi Bhojpuri (1080p)
@@ -1375,22 +1265,6 @@ https://livetv-fa.tubi.video/forensic-files/index.m3u8
 https://livetv-fa.tubi.video/filmrise-true-crime/index.m3u8
 #EXTINF:-1 tvg-name="Flicks of Fury"tvg-id="FlicksofFury.us@SD"tvg-logo="https://i.imgur.com/rtL5L81.png"group-title="Movies2",Flicks of Fury
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28ca66-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=671a0e89-5b21-406b-95a9-b395c4ef4b07
-#EXTINF:-1 tvg-name="GEM Bollywood"tvg-id="GEMBollywood.tr@SD"tvg-logo="https://i.imgur.com/2XASeBk.png"group-title="Movies2",GEM Bollywood
-https://wild-dawn-81ef.srmhoburfqyupzwxbu.workers.dev/?url=https://ca-rt.onetv.app/gembollywood/index-0.m3u8
-#EXTINF:-1 tvg-name="GEM Drama"tvg-id="GEMDrama.tr@SD"tvg-logo="https://i.imgur.com/k2pGyRH.png"group-title="Movies2",GEM Drama
-https://wild-dawn-81ef.srmhoburfqyupzwxbu.workers.dev/?url=https://ca-rt.onetv.app/gemdrama/index-0.m3u8
-#EXTINF:-1 tvg-name="GEM Drama Plus"tvg-id="GEMDramaPlus.tr@SD"tvg-logo="https://gemgroup.tv/assets/images/channels/icon_7.png"group-title="Movies2",GEM Drama Plus
-https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemdramaplus/index-0.m3u8
-#EXTINF:-1 tvg-name="GEM Film"tvg-id="GEMFilm.tr@SD"tvg-logo="https://i.imgur.com/nrFz3LU.png"group-title="Movies2",GEM Film
-https://wild-dawn-81ef.srmhoburfqyupzwxbu.workers.dev/?url=https://ca-rt.onetv.app/gemfilm/index-0.m3u8
-#EXTINF:-1 tvg-name="GEM Onyx"tvg-id="GEMOnyx.tr@SD"tvg-logo="https://i.imgur.com/gXRIAw4.png"group-title="Movies2",GEM Onyx
-https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemonyx/index-0.m3u8
-#EXTINF:-1 tvg-name="GEM Pixel"tvg-id="GEMPixel.tr@SD"tvg-logo="https://i.ibb.co/Q3tkbPrn/icon-27.png"group-title="Movies2",GEM Pixel
-https://glserver1.tamashaland.com/live/aBCH96886YznRbGOiqTnnQ__/stream_0.m3u8
-#EXTINF:-1 tvg-name="GEM Rubix"tvg-id="GEMRubix.tr@SD"tvg-logo="https://i.imgur.com/cDjOj58.png"group-title="Movies2",GEM Rubix
-https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemrubix/index-0.m3u8
-#EXTINF:-1 tvg-name="GEM Rubix Plus"tvg-id="GEMRubixPlus.tr@SD"tvg-logo="https://gemgroup.tv/assets/images/channels/icon_31.png"group-title="Movies2",GEM Rubix Plus
-https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemrubixplus/index-0.m3u8
 #EXTINF:-1 tvg-name="Gemini Movies (1080p)"tvg-id="GeminiMovies.in@SD"tvg-logo=""group-title="Movies2",Gemini Movies (1080p)
 http://87.255.35.150:18814
 #EXTINF:-1 tvg-name="Grjngo Western Movies (720p)"tvg-id="GrjngoWesternMovies.de@SD"tvg-logo="https://i.imgur.com/wFqhK3p.png"group-title="Movies2",Grjngo Western Movies (720p)
@@ -1439,8 +1313,6 @@ https://cdn-1.pishow.tv/live/1011/master.m3u8
 https://cdn-2.pishow.tv/live/228/master.m3u8
 #EXTINF:-1 tvg-name="Maverick Black Cinema (1080p)"tvg-id="MaverickBlackCinema.us@SD"tvg-logo="https://images.fubo.tv/station_logos/maverick_black_cinema_c.png"group-title="Movies2",Maverick Black Cinema (1080p)
 https://maverick-maverick-black-cinema-3-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="MBC 2 (576p)"tvg-id="MBC2.ae@SD"tvg-logo="https://i.imgur.com/n9mSHuP.png"group-title="Movies2",MBC 2 (576p)
-http://213.57.91.138:8000/play/a05k
 #EXTINF:-1 tvg-name="MBC+ Drama (1080p)"tvg-id="MBCPlusDrama.sa@SD"tvg-logo="https://i.imgur.com/lxWdjXG.png"group-title="Movies2",MBC+ Drama (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8
 #EXTINF:-1 tvg-name="MCI Television"tvg-id="MCITelevision.co@SD"tvg-logo="https://pbs.twimg.com/profile_images/1836009952420274177/FfYonU6r_400x400.jpg"group-title="Movies2",MCI Television
@@ -1481,8 +1353,6 @@ https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="MyTime movie network Spain (1080p)"tvg-id="MyTimeMovieNetwork.es@SD"tvg-logo="https://i.imgur.com/pw4NZK1.png"group-title="Movies2",MyTime movie network Spain (1080p)
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="NETV Toronto (720p)"tvg-id="NETVToronto.ca@SD"tvg-logo="https://i.imgur.com/WXRBuOW.png"group-title="Movies2",NETV Toronto (720p)
-https://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/playlist.m3u8
 #EXTINF:-1 tvg-name="Newflix"tvg-id="NewFlix.ir@SD"tvg-logo="https://i.postimg.cc/3w2FPSrX/newflix.png"group-title="Movies2",Newflix
 https://newfhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Paramount Movie Channel"tvg-id="ParamountMovieChannel.us@SD"tvg-logo="https://i.imgur.com/sj5h9bl.png"group-title="Movies2",Paramount Movie Channel
@@ -1499,12 +1369,6 @@ https://familyhls.persiana.live/hls/stream.m3u8
 https://irhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Persiana Korea"tvg-id="PersianaKorea.fr@SD"tvg-logo="https://i.imgur.com/si2ZnIA.png"group-title="Movies2",Persiana Korea
 https://korhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-name="Persiana Latino"tvg-id="PersianaLatino.fr@SD"tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-latino-fr.png"group-title="Movies2",Persiana Latino
-https://latinohls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-name="Persiana Plus"tvg-id="PersianaPlus.fr@SD"tvg-logo="https://i.imgur.com/0xttibX.png"group-title="Movies2",Persiana Plus
-https://euhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-name="Persiana Plus One"tvg-id="PersianaPlusOne.fr@SD"tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-plus-one-fr.png"group-title="Movies2",Persiana Plus One
-https://poneplushls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Action"tvg-id="PlutoTVAction.us@France"tvg-logo="https://i.imgur.com/tDapGal.png"group-title="Movies2",Pluto TV Action
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ed1ff5c39700007e2204a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e055171-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c3b67254-4628-4f0e-8164-5a50e8969a42
 #EXTINF:-1 tvg-name="Pluto TV Action"tvg-id="PlutoTVAction.us@US"tvg-logo="https://i.imgur.com/tDapGal.png"group-title="Movies2",Pluto TV Action
@@ -1689,8 +1553,6 @@ https://cdn-1.pishow.tv/live/276/master.m3u8
 https://fl1.moveonjoy.com/SUNDANCE/index.m3u8
 #EXTINF:-1 tvg-name="Surya Movies (1080p)"tvg-id="SuryaMovies.in@SD"tvg-logo="https://i.imgur.com/FkSCjIo.png"group-title="Movies2",Surya Movies (1080p)
 https://playyonogames.in/live.php?format=.m3u8&id=1754
-#EXTINF:-1 tvg-name="T2 Movies"tvg-id="T2Movies.ir@SD"tvg-logo="https://i.postimg.cc/gJ0pG0jK/t2movies.png"group-title="Movies2",T2 Movies
-https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/T2Movies/index-0.m3u8
 #EXTINF:-1 tvg-name="Tamasha"tvg-id="Tamasha.ir@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/f/f2/IRIB_tamashaTV.svg/240px-IRIB_tamashaTV.svg.png"group-title="Movies2",Tamasha
 https://lenz.splus.ir/PLTV/88888888/224/3221226879/index.m3u8
 #EXTINF:-1 tvg-name="TF1 Series Films (1080p)"tvg-id="TF1SeriesFilms.fr@SD"tvg-logo="https://i.imgur.com/4CJIDKQ.png"group-title="Movies2",TF1 Series Films (1080p)
@@ -1717,8 +1579,6 @@ https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8
 https://server.zillarbarta.com/ZBCINEMA/index.m3u8
 #EXTINF:-1 tvg-name="Zee Action (576p)"tvg-id="ZeeAction.in@SD"tvg-logo="https://i.imgur.com/MIzc3I1.png"group-title="Movies2",Zee Action (576p)
 http://87.255.35.150:18507
-#EXTINF:-1 tvg-name="Zee Aflam (576p)"tvg-id="ZeeAflam.ae@SD"tvg-logo="https://i.imgur.com/ZxknutA.png"group-title="Movies2",Zee Aflam (576p)
-http://213.57.91.138:8000/play/a05s
 #EXTINF:-1 tvg-name="Zee Bollywood (576p)"tvg-id="ZeeBollywood.in@SD"tvg-logo="https://i.imgur.com/0qQrV84.png"group-title="Movies2",Zee Bollywood (576p)
 http://87.255.35.150:18861
 #EXTINF:-1 tvg-name="Zee Cinemalu (1080p)"tvg-id="ZeeCinemalu.in@SD"tvg-logo="https://i.imgur.com/uq8WSzG.png"group-title="Movies2",Zee Cinemalu (1080p)
@@ -1751,1291 +1611,951 @@ http://31.148.48.15/Russkiy_Bestseller/index.m3u8
 http://31.148.48.15/Russkiy_Roman_HD/index.m3u8
 #EXTINF:-1 tvg-name="Феникс плюс Кино"tvg-id="FeniksplusKino.ru@SD"tvg-logo="https://i.imgur.com/S9OPMLE.png"group-title="Movies2",Феникс плюс Кино
 http://31.148.48.15/Feniks_plus_kino/index.m3u8
-#EXTINF:-1 ,Ali Congun - Aşk Acısı (2025) (Turkish)
+#EXTINF:-1 tvg-name="Ali Congun - Aşk Acısı (2025) (Turkish)"tvg-id=""tvg-logo=""group-title="Movies2",Ali Congun - Aşk Acısı (2025) (Turkish)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/559943.mp4
-#EXTINF:-1 ,Almost Cops (2025) (Turkish)
+#EXTINF:-1 tvg-name="Almost Cops (2025) (Turkish)"tvg-id=""tvg-logo=""group-title="Movies2",Almost Cops (2025) (Turkish)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/559944.mp4
-#EXTINF:-1 ,Kardeş Takımı 2 (2025) (Turkish)
+#EXTINF:-1 tvg-name="Kardeş Takımı 2 (2025) (Turkish)"tvg-id=""tvg-logo=""group-title="Movies2",Kardeş Takımı 2 (2025) (Turkish)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/559945.mp4
-#EXTINF:-1 ,Madea's Destination Wedding (2025) (Turkish)
+#EXTINF:-1 tvg-name="Madea's Destination Wedding (2025) (Turkish)"tvg-id=""tvg-logo=""group-title="Movies2",Madea's Destination Wedding (2025) (Turkish)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/559946.mp4
-#EXTINF:-1 ,The Penguin Lessons (2025) (Turkish)
+#EXTINF:-1 tvg-name="The Penguin Lessons (2025) (Turkish)"tvg-id=""tvg-logo=""group-title="Movies2",The Penguin Lessons (2025) (Turkish)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/559947.mp4
-#EXTINF:-1 ,Z-O-M-B-I-E-S 4: Dawn of the Vampires (2025) (Turkish)
+#EXTINF:-1 tvg-name="Z-O-M-B-I-E-S 4: Dawn of the Vampires (2025) (Turkish)"tvg-id=""tvg-logo=""group-title="Movies2",Z-O-M-B-I-E-S 4: Dawn of the Vampires (2025) (Turkish)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/559948.mp4
-#EXTINF:-1 ,An L.A. Minute (2018) (Turkish)
+#EXTINF:-1 tvg-name="An L.A. Minute (2018) (Turkish)"tvg-id=""tvg-logo=""group-title="Movies2",An L.A. Minute (2018) (Turkish)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/527081.mp4
-#EXTINF:-1 ,Canavar Gibi (2018) (Turkish)
+#EXTINF:-1 tvg-name="Canavar Gibi (2018) (Turkish)"tvg-id=""tvg-logo=""group-title="Movies2",Canavar Gibi (2018) (Turkish)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/527082.mp4
-#EXTINF:-1 ,Did You See My Wife? (2018) (Turkish)
+#EXTINF:-1 tvg-name="Did You See My Wife? (2018) (Turkish)"tvg-id=""tvg-logo=""group-title="Movies2",Did You See My Wife? (2018) (Turkish)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/527083.mp4
-#EXTINF:-1 ,Duck Duck Goose (2018) (Turkish)
+#EXTINF:-1 tvg-name="Duck Duck Goose (2018) (Turkish)"tvg-id=""tvg-logo=""group-title="Movies2",Duck Duck Goose (2018) (Turkish)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/527084.mp4
-#EXTINF:-1 ,Extinction (2023) (Turkish)
+#EXTINF:-1 tvg-name="Extinction (2023) (Turkish)"tvg-id=""tvg-logo=""group-title="Movies2",Extinction (2023) (Turkish)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/527085.mp4
-#EXTINF:-1 ,First We Take Brooklyn (2018) (Turkish)
+#EXTINF:-1 tvg-name="First We Take Brooklyn (2018) (Turkish)"tvg-id=""tvg-logo=""group-title="Movies2",First We Take Brooklyn (2018) (Turkish)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/527086.mp4
-#EXTINF:-1 ,Sting (2024) (Turkish)
+#EXTINF:-1 tvg-name="Sting (2024) (Turkish)"tvg-id=""tvg-logo=""group-title="Movies2",Sting (2024) (Turkish)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/528293.mp4
-#EXTINF:-1 ,Lucy Goes Gangsta (2022) (Turkish)
+#EXTINF:-1 tvg-name="Lucy Goes Gangsta (2022) (Turkish)"tvg-id=""tvg-logo=""group-title="Movies2",Lucy Goes Gangsta (2022) (Turkish)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/528291.mp4
-#EXTINF:-1 ,Ghost Trail (2024) (Turkish)
+#EXTINF:-1 tvg-name="Ghost Trail (2024) (Turkish)"tvg-id=""tvg-logo=""group-title="Movies2",Ghost Trail (2024) (Turkish)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/528290.mp4
-#EXTINF:-1 ,Mission: School of Fun (2023) (Turkish)
+#EXTINF:-1 tvg-name="Mission: School of Fun (2023) (Turkish)"tvg-id=""tvg-logo=""group-title="Movies2",Mission: School of Fun (2023) (Turkish)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/528292.mp4
-#EXTINF:-1 ,A Working Man (2025) (Turkish)
+#EXTINF:-1 tvg-name="A Working Man (2025) (Turkish)"tvg-id=""tvg-logo=""group-title="Movies2",A Working Man (2025) (Turkish)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/528798.mp4
-#EXTINF:-1 ,Vini Jr. (2025) (Turkish)
+#EXTINF:-1 tvg-name="Vini Jr. (2025) (Turkish)"tvg-id=""tvg-logo=""group-title="Movies2",Vini Jr. (2025) (Turkish)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/528799.mp4
-#EXTINF:-1 ,Chaurya Paatham (2025)(Multi languages)
+#EXTINF:-1 tvg-name="Chaurya Paatham (2025)(Multi languages)"tvg-id=""tvg-logo=""group-title="Movies2",Chaurya Paatham (2025)(Multi languages)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/529029.mkv
-#EXTINF:-1 ,Gangers (2025)(Multi languages)
+#EXTINF:-1 tvg-name="Gangers (2025)(Multi languages)"tvg-id=""tvg-logo=""group-title="Movies2",Gangers (2025)(Multi languages)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/529068.mkv
-#EXTINF:-1 ,Dokundugum Yürekler (2025) (Turkish)
+#EXTINF:-1 tvg-name="Dokundugum Yürekler (2025) (Turkish)"tvg-id=""tvg-logo=""group-title="Movies2",Dokundugum Yürekler (2025) (Turkish)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/531784.mp4
-#EXTINF:-1 ,Untold: The Fall of Favre (2025) (Turkish)
+#EXTINF:-1 tvg-name="Untold: The Fall of Favre (2025) (Turkish)"tvg-id=""tvg-logo=""group-title="Movies2",Untold: The Fall of Favre (2025) (Turkish)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/531785.mp4
-#EXTINF:-1 ,Asthra (2023)
+#EXTINF:-1 tvg-name="Asthra (2023)"tvg-id=""tvg-logo=""group-title="Movies2",Asthra (2023)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/563242.mp4
-#EXTINF:-1 ,Drop (2025)  (Turkish)
+#EXTINF:-1 tvg-name="Drop (2025)  (Turkish)"tvg-id=""tvg-logo=""group-title="Movies2",Drop (2025)  (Turkish)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/573077.mp4
-#EXTINF:-1 ,Falling into Place (2023)  (Turkish)
+#EXTINF:-1 tvg-name="Falling into Place (2023)  (Turkish)"tvg-id=""tvg-logo=""group-title="Movies2",Falling into Place (2023)  (Turkish)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/573078.mp4
-#EXTINF:-1 ,Kensuke's Kingdom (2024)  (Turkish)
+#EXTINF:-1 tvg-name="Kensuke's Kingdom (2024)  (Turkish)"tvg-id=""tvg-logo=""group-title="Movies2",Kensuke's Kingdom (2024)  (Turkish)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/573079.mp4
-#EXTINF:-1 ,Tuesday (2024) (Turkish)
+#EXTINF:-1 tvg-name="Tuesday (2024) (Turkish)"tvg-id=""tvg-logo=""group-title="Movies2",Tuesday (2024) (Turkish)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/573080.mp4
-#EXTINF:-1 ,SHAKTHI-TV
+#EXTINF:-1 tvg-name="SHAKTHI-TV"tvg-id=""tvg-logo=""group-title="Movies2",SHAKTHI-TV
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/23983.ts
-#EXTINF:-1 ,SHRADDHA-TV
+#EXTINF:-1 tvg-name="SHRADDHA-TV"tvg-id=""tvg-logo=""group-title="Movies2",SHRADDHA-TV
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/23984.ts
-#EXTINF:-1 ,SIRASA-TV
+#EXTINF:-1 tvg-name="SIRASA-TV"tvg-id=""tvg-logo=""group-title="Movies2",SIRASA-TV
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/23985.ts
-#EXTINF:-1 ,SIYATHA-TV
+#EXTINF:-1 tvg-name="SIYATHA-TV"tvg-id=""tvg-logo=""group-title="Movies2",SIYATHA-TV
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/23986.ts
-#EXTINF:-1 ,SWARNAVAHINI
+#EXTINF:-1 tvg-name="SWARNAVAHINI"tvg-id=""tvg-logo=""group-title="Movies2",SWARNAVAHINI
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/23987.ts
-#EXTINF:-1 ,TNL
+#EXTINF:-1 tvg-name="TNL"tvg-id=""tvg-logo=""group-title="Movies2",TNL
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/23988.ts
-#EXTINF:-1 ,TV-DERANA
+#EXTINF:-1 tvg-name="TV-DERANA"tvg-id=""tvg-logo=""group-title="Movies2",TV-DERANA
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/23989.ts
-#EXTINF:-1 ,TV-DIDULA
+#EXTINF:-1 tvg-name="TV-DIDULA"tvg-id=""tvg-logo=""group-title="Movies2",TV-DIDULA
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/23990.ts
-#EXTINF:-1 ,TV1
+#EXTINF:-1 tvg-name="TV1"tvg-id=""tvg-logo=""group-title="Movies2",TV1
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/23991.ts
-#EXTINF:-1 ,TRACE-TV
+#EXTINF:-1 tvg-name="TRACE-TV"tvg-id=""tvg-logo=""group-title="Movies2",TRACE-TV
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/23992.ts
-#EXTINF:-1 ,VASANTHAM
+#EXTINF:-1 tvg-name="VASANTHAM"tvg-id=""tvg-logo=""group-title="Movies2",VASANTHAM
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/23993.ts
-#EXTINF:-1 ,HI-TV LANKA
+#EXTINF:-1 tvg-name="HI-TV LANKA"tvg-id=""tvg-logo=""group-title="Movies2",HI-TV LANKA
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/23995.ts
-#EXTINF:-1 ,SUPREME-TV LANKA
+#EXTINF:-1 tvg-name="SUPREME-TV LANKA"tvg-id=""tvg-logo=""group-title="Movies2",SUPREME-TV LANKA
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/23996.ts
-#EXTINF:-1 ,STAR TAMIL
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/72569.ts
-#EXTINF:-1 ,Color tamil
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/142940.ts
-#EXTINF:-1 ,zee tamil
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/142941.ts
-#EXTINF:-1 ,Sirippoli TV
+#EXTINF:-1 tvg-name="Sirippoli TV"tvg-id=""tvg-logo=""group-title="Movies2",Sirippoli TV
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/142951.ts
-#EXTINF:-1 ,NZ: Sky Sport 5 FHD
+#EXTINF:-1 tvg-name="NZ: Sky Sport 5 FHD"tvg-id=""tvg-logo=""group-title="Movies2",NZ: Sky Sport 5 FHD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/24001.ts
-#EXTINF:-1 ,NZ: Sky Sport 6 FHD
+#EXTINF:-1 tvg-name="NZ: Sky Sport 6 FHD"tvg-id=""tvg-logo=""group-title="Movies2",NZ: Sky Sport 6 FHD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/24002.ts
-#EXTINF:-1 ,NZ: Sky Sport 7 FHD
+#EXTINF:-1 tvg-name="NZ: Sky Sport 7 FHD"tvg-id=""tvg-logo=""group-title="Movies2",NZ: Sky Sport 7 FHD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/24003.ts
-#EXTINF:-1 ,NZ: Sky Sport 8 FHD
+#EXTINF:-1 tvg-name="NZ: Sky Sport 8 FHD"tvg-id=""tvg-logo=""group-title="Movies2",NZ: Sky Sport 8 FHD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/24004.ts
-#EXTINF:-1 ,NZ: Sky Sport 9 FHD
+#EXTINF:-1 tvg-name="NZ: Sky Sport 9 FHD"tvg-id=""tvg-logo=""group-title="Movies2",NZ: Sky Sport 9 FHD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/24005.ts
-#EXTINF:-1 ,Anjan SD
+#EXTINF:-1 tvg-name="Anjan SD"tvg-id=""tvg-logo=""group-title="Movies2",Anjan SD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/355092.ts
-#EXTINF:-1 ,Filamchi Bhojpuri SD
+#EXTINF:-1 tvg-name="Filamchi Bhojpuri SD"tvg-id=""tvg-logo=""group-title="Movies2",Filamchi Bhojpuri SD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/355294.ts
-#EXTINF:-1 ,B4U Bhojpuri SD
+#EXTINF:-1 tvg-name="B4U Bhojpuri SD"tvg-id=""tvg-logo=""group-title="Movies2",B4U Bhojpuri SD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/355544.ts
-#EXTINF:-1 ,Sudarshan SD
+#EXTINF:-1 tvg-name="Sudarshan SD"tvg-id=""tvg-logo=""group-title="Movies2",Sudarshan SD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/355561.ts
-#EXTINF:-1 ,God TV SD
+#EXTINF:-1 tvg-name="God TV SD"tvg-id=""tvg-logo=""group-title="Movies2",God TV SD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/355304.ts
-#EXTINF:-1 ,ISAAC TV
+#EXTINF:-1 tvg-name="ISAAC TV"tvg-id=""tvg-logo=""group-title="Movies2",ISAAC TV
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/355305.ts
-#EXTINF:-1 ,Praise Tv
+#EXTINF:-1 tvg-name="Praise Tv"tvg-id=""tvg-logo=""group-title="Movies2",Praise Tv
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/355306.ts
-#EXTINF:-1 ,FAZAL TV
+#EXTINF:-1 tvg-name="FAZAL TV"tvg-id=""tvg-logo=""group-title="Movies2",FAZAL TV
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/355307.ts
-#EXTINF:-1 ,GAWAHI TV
+#EXTINF:-1 tvg-name="GAWAHI TV"tvg-id=""tvg-logo=""group-title="Movies2",GAWAHI TV
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/355308.ts
-#EXTINF:-1 ,SHINE STAR
+#EXTINF:-1 tvg-name="SHINE STAR"tvg-id=""tvg-logo=""group-title="Movies2",SHINE STAR
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/355309.ts
-#EXTINF:-1 ,KING TV
+#EXTINF:-1 tvg-name="KING TV"tvg-id=""tvg-logo=""group-title="Movies2",KING TV
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/355316.ts
-#EXTINF:-1 ,JOSHUA TV
+#EXTINF:-1 tvg-name="JOSHUA TV"tvg-id=""tvg-logo=""group-title="Movies2",JOSHUA TV
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/355320.ts
-#EXTINF:-1 ,BARKAT TV
+#EXTINF:-1 tvg-name="BARKAT TV"tvg-id=""tvg-logo=""group-title="Movies2",BARKAT TV
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/355326.ts
-#EXTINF:-1 ,PMI TV
+#EXTINF:-1 tvg-name="PMI TV"tvg-id=""tvg-logo=""group-title="Movies2",PMI TV
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/355329.ts
-#EXTINF:-1 ,MISSION ASIA
+#EXTINF:-1 tvg-name="MISSION ASIA"tvg-id=""tvg-logo=""group-title="Movies2",MISSION ASIA
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/355332.ts
-#EXTINF:-1 ,HK TV
+#EXTINF:-1 tvg-name="HK TV"tvg-id=""tvg-logo=""group-title="Movies2",HK TV
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/355341.ts
-#EXTINF:-1 ,GRACE TV
+#EXTINF:-1 tvg-name="GRACE TV"tvg-id=""tvg-logo=""group-title="Movies2",GRACE TV
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/355346.ts
-#EXTINF:-1 ,PAK 7
+#EXTINF:-1 tvg-name="PAK 7"tvg-id=""tvg-logo=""group-title="Movies2",PAK 7
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/355348.ts
-#EXTINF:-1 ,ZINDAGI TV
+#EXTINF:-1 tvg-name="ZINDAGI TV"tvg-id=""tvg-logo=""group-title="Movies2",ZINDAGI TV
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/355350.ts
-#EXTINF:-1 ,ETERNAL LIFE
+#EXTINF:-1 tvg-name="ETERNAL LIFE"tvg-id=""tvg-logo=""group-title="Movies2",ETERNAL LIFE
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/355358.ts
-#EXTINF:-1 ,Uae: Zee Aflam
+#EXTINF:-1 tvg-name="Uae: Zee Aflam"tvg-id=""tvg-logo=""group-title="Movies2",Uae: Zee Aflam
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319607.ts
-#EXTINF:-1 ,Uae: Al Emarat TV
+#EXTINF:-1 tvg-name="Uae: Al Emarat TV"tvg-id=""tvg-logo=""group-title="Movies2",Uae: Al Emarat TV
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319608.ts
-#EXTINF:-1 ,Uae: Dubai TV
+#EXTINF:-1 tvg-name="Uae: Dubai TV"tvg-id=""tvg-logo=""group-title="Movies2",Uae: Dubai TV
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319609.ts
-#EXTINF:-1 ,Uae: Dubai One
+#EXTINF:-1 tvg-name="Uae: Dubai One"tvg-id=""tvg-logo=""group-title="Movies2",Uae: Dubai One
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319610.ts
-#EXTINF:-1 ,Uae: Dubai Zaman
+#EXTINF:-1 tvg-name="Uae: Dubai Zaman"tvg-id=""tvg-logo=""group-title="Movies2",Uae: Dubai Zaman
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319611.ts
-#EXTINF:-1 ,Uae: Abu Dhabi SD
+#EXTINF:-1 tvg-name="Uae: Abu Dhabi SD"tvg-id=""tvg-logo=""group-title="Movies2",Uae: Abu Dhabi SD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319612.ts
-#EXTINF:-1 ,Uae: Abu Dhabi HD
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319613.ts
-#EXTINF:-1 ,Uae: Abu Dhabi Al Emarat SD
+#EXTINF:-1 tvg-name="Uae: Abu Dhabi Al Emarat SD"tvg-id=""tvg-logo=""group-title="Movies2",Uae: Abu Dhabi Al Emarat SD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319614.ts
-#EXTINF:-1 ,Uae: Abu Dhabi Al Emarat HD
+#EXTINF:-1 tvg-name="Uae: Abu Dhabi Al Emarat HD"tvg-id=""tvg-logo=""group-title="Movies2",Uae: Abu Dhabi Al Emarat HD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319615.ts
-#EXTINF:-1 ,Uae: Sama Dubai
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319616.ts
-#EXTINF:-1 ,Uae: Noor Dubai TV
+#EXTINF:-1 tvg-name="Uae: Noor Dubai TV"tvg-id=""tvg-logo=""group-title="Movies2",Uae: Noor Dubai TV
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319617.ts
-#EXTINF:-1 ,Uae: Al Dhafra
+#EXTINF:-1 tvg-name="Uae: Al Dhafra"tvg-id=""tvg-logo=""group-title="Movies2",Uae: Al Dhafra
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319618.ts
-#EXTINF:-1 ,Uae: Sharjah HD
+#EXTINF:-1 tvg-name="Uae: Sharjah HD"tvg-id=""tvg-logo=""group-title="Movies2",Uae: Sharjah HD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319619.ts
-#EXTINF:-1 ,Uae: Sharjah Sport HD
+#EXTINF:-1 tvg-name="Uae: Sharjah Sport HD"tvg-id=""tvg-logo=""group-title="Movies2",Uae: Sharjah Sport HD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319620.ts
-#EXTINF:-1 ,Uae: Sharqiya from Kalba HD
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319621.ts
-#EXTINF:-1 ,Uae: Al Wousta from Al Dhaid
+#EXTINF:-1 tvg-name="Uae: Al Wousta from Al Dhaid"tvg-id=""tvg-logo=""group-title="Movies2",Uae: Al Wousta from Al Dhaid
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319622.ts
-#EXTINF:-1 ,Uae: Al Khalij TV
+#EXTINF:-1 tvg-name="Uae: Al Khalij TV"tvg-id=""tvg-logo=""group-title="Movies2",Uae: Al Khalij TV
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319623.ts
-#EXTINF:-1 ,Uae: Ajman TV HD
+#EXTINF:-1 tvg-name="Uae: Ajman TV HD"tvg-id=""tvg-logo=""group-title="Movies2",Uae: Ajman TV HD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319624.ts
-#EXTINF:-1 ,Uae: Fujairah TV
+#EXTINF:-1 tvg-name="Uae: Fujairah TV"tvg-id=""tvg-logo=""group-title="Movies2",Uae: Fujairah TV
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319625.ts
-#EXTINF:-1 ,Uae: Majid Kids TV
+#EXTINF:-1 tvg-name="Uae: Majid Kids TV"tvg-id=""tvg-logo=""group-title="Movies2",Uae: Majid Kids TV
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319627.ts
-#EXTINF:-1 ,Uae: SpaceToon TV
+#EXTINF:-1 tvg-name="Uae: SpaceToon TV"tvg-id=""tvg-logo=""group-title="Movies2",Uae: SpaceToon TV
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319628.ts
-#EXTINF:-1 ,Uae: Sharjah Quran HD
+#EXTINF:-1 tvg-name="Uae: Sharjah Quran HD"tvg-id=""tvg-logo=""group-title="Movies2",Uae: Sharjah Quran HD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319630.ts
-#EXTINF:-1 ,Music: Music Alhanen
+#EXTINF:-1 tvg-name="Music: Music Alhanen"tvg-id=""tvg-logo=""group-title="Movies2",Music: Music Alhanen
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319374.ts
-#EXTINF:-1 ,Music: Music Alremas 2
+#EXTINF:-1 tvg-name="Music: Music Alremas 2"tvg-id=""tvg-logo=""group-title="Movies2",Music: Music Alremas 2
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319375.ts
-#EXTINF:-1 ,Music: Music Alremas
+#EXTINF:-1 tvg-name="Music: Music Alremas"tvg-id=""tvg-logo=""group-title="Movies2",Music: Music Alremas
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319376.ts
-#EXTINF:-1 ,Music: Arabica TV
+#EXTINF:-1 tvg-name="Music: Arabica TV"tvg-id=""tvg-logo=""group-title="Movies2",Music: Arabica TV
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319377.ts
-#EXTINF:-1 ,Music: Arabica TV
+#EXTINF:-1 tvg-name="Music: Arabica TV"tvg-id=""tvg-logo=""group-title="Movies2",Music: Arabica TV
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319378.ts
-#EXTINF:-1 ,Music: Mazzika TV
+#EXTINF:-1 tvg-name="Music: Mazzika TV"tvg-id=""tvg-logo=""group-title="Movies2",Music: Mazzika TV
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319380.ts
-#EXTINF:-1 ,Music: Nogoum FM TV
+#EXTINF:-1 tvg-name="Music: Nogoum FM TV"tvg-id=""tvg-logo=""group-title="Movies2",Music: Nogoum FM TV
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319381.ts
-#EXTINF:-1 ,Music: Dijlah Zaman TV
+#EXTINF:-1 tvg-name="Music: Dijlah Zaman TV"tvg-id=""tvg-logo=""group-title="Movies2",Music: Dijlah Zaman TV
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319382.ts
-#EXTINF:-1 ,Music: MBC FM HD
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319383.ts
-#EXTINF:-1 ,Music: Panorama FM 4K
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319384.ts
-#EXTINF:-1 ,Music: Wanasah TV
+#EXTINF:-1 tvg-name="Music: Wanasah TV"tvg-id=""tvg-logo=""group-title="Movies2",Music: Wanasah TV
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319385.ts
-#EXTINF:-1 ,Music: Aghani
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319386.ts
-#EXTINF:-1 ,Music: Rotana Clip HD
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319387.ts
-#EXTINF:-1 ,Music: Rotana Music HD
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Movies2",Music: Rotana Music HD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319388.ts
-#EXTINF:-1 ,Music: Trace Muzika
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Movies2",Music: Trace Muzika
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319394.ts
-#EXTINF:-1 ,Music: Trace Urban
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Movies2",Music: Trace Urban
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319395.ts
-#EXTINF:-1 ,Rotana + HD
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/309045.ts
-#EXTINF:-1 ,Rotana Aflam + HD
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/309047.ts
-#EXTINF:-1 ,Rotana Music HD
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Movies2",Rotana Music HD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/309049.ts
-#EXTINF:-1 ,Rotana Classic HD
+#EXTINF:-1 tvg-name="Rotana Classic HD"tvg-id=""tvg-logo=""group-title="Movies2",Rotana Classic HD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/309050.ts
-#EXTINF:-1 ,Rotana Drama HD
+#EXTINF:-1 tvg-name="Rotana Drama HD"tvg-id=""tvg-logo=""group-title="Movies2",Rotana Drama HD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/309051.ts
-#EXTINF:-1 ,Rotana Khalijiah HD
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/309052.ts
-#EXTINF:-1 ,Rotana Comedy HD
+#EXTINF:-1 tvg-name="Rotana Comedy HD"tvg-id=""tvg-logo=""group-title="Movies2",Rotana Comedy HD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/309053.ts
-#EXTINF:-1 ,Rotana Cinema Egy HD
+#EXTINF:-1 tvg-name="Rotana Cinema Egy HD"tvg-id=""tvg-logo=""group-title="Movies2",Rotana Cinema Egy HD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/309054.ts
-#EXTINF:-1 ,Rotana Cinema KSA HD
+#EXTINF:-1 tvg-name="Rotana Cinema KSA HD"tvg-id=""tvg-logo=""group-title="Movies2",Rotana Cinema KSA HD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/309055.ts
-#EXTINF:-1 ,Rotana Classic FHD
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/309057.ts
-#EXTINF:-1 ,News | Ar: Al Jazeera HD
+#EXTINF:-1 tvg-name="News | Ar: Al Jazeera HD"tvg-id=""tvg-logo=""group-title="Movies2",News | Ar: Al Jazeera HD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319260.ts
-#EXTINF:-1 ,News | Ar: Al Jazeera 4K ✦
+#EXTINF:-1 tvg-name="News | Ar: Al Jazeera 4K ✦"tvg-id=""tvg-logo=""group-title="Movies2",News | Ar: Al Jazeera 4K ✦
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319261.ts
-#EXTINF:-1 ,News | Ar: Al jazeera SD ✦
+#EXTINF:-1 tvg-name="News | Ar: Al jazeera SD ✦"tvg-id=""tvg-logo=""group-title="Movies2",News | Ar: Al jazeera SD ✦
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319262.ts
-#EXTINF:-1 ,News | Ar: Al Jazeera Mubasher ✦
+#EXTINF:-1 tvg-name="News | Ar: Al Jazeera Mubasher ✦"tvg-id=""tvg-logo=""group-title="Movies2",News | Ar: Al Jazeera Mubasher ✦
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319263.ts
-#EXTINF:-1 ,News | Ar: Al Jazeera Mubasher 2 ✦
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319264.ts
-#EXTINF:-1 ,News | En: Al Jazeera English ✦
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319265.ts
-#EXTINF:-1 ,News | Ar: Al Arabiya HD ✦
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319266.ts
-#EXTINF:-1 ,News | Ar: Al Arabiya 4K ✦
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319267.ts
-#EXTINF:-1 ,News | Ar: Al Hadath SD ✦
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319270.ts
-#EXTINF:-1 ,News | Ar: Al Hadath 4K ✦
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319271.ts
-#EXTINF:-1 ,News | Ar: Sky News Arabic HD ✦
+#EXTINF:-1 tvg-name="News | Ar: Sky News Arabic HD ✦"tvg-id=""tvg-logo=""group-title="Movies2",News | Ar: Sky News Arabic HD ✦
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319272.ts
-#EXTINF:-1 ,News | Ar: Sky News Arabic SD ✦
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319273.ts
-#EXTINF:-1 ,News | Ar: Al Mayadeen TV ✦
+#EXTINF:-1 tvg-name="News | Ar: Al Mayadeen TV ✦"tvg-id=""tvg-logo=""group-title="Movies2",News | Ar: Al Mayadeen TV ✦
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319274.ts
-#EXTINF:-1 ,News | Ar: Al Mayadeen TV Plus ✦
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319275.ts
-#EXTINF:-1 ,News | Ar: Al Araby TV ✦
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319276.ts
-#EXTINF:-1 ,News | Ar: Araby 2 ✦ HD
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319277.ts
-#EXTINF:-1 ,News | Ar: RT Arabic HD ✦
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319278.ts
-#EXTINF:-1 ,News | Ar: RT Arabic SD ✦
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319279.ts
-#EXTINF:-1 ,News | Ar: TRT News Arabic HD ✦
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319280.ts
-#EXTINF:-1 ,News | Ar: Al Ghad Al Araby HD ✦
+#EXTINF:-1 tvg-name="News | Ar: Al Ghad Al Araby HD ✦"tvg-id=""tvg-logo=""group-title="Movies2",News | Ar: Al Ghad Al Araby HD ✦
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319281.ts
-#EXTINF:-1 ,News | Ar: BBC World News Arabic ✦
+#EXTINF:-1 tvg-name="News | Ar: BBC World News Arabic ✦"tvg-id=""tvg-logo=""group-title="Movies2",News | Ar: BBC World News Arabic ✦
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319282.ts
-#EXTINF:-1 ,News | En: BBC World News HD ✦
+#EXTINF:-1 tvg-name="News | En: BBC World News HD ✦"tvg-id=""tvg-logo=""group-title="Movies2",News | En: BBC World News HD ✦
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319283.ts
-#EXTINF:-1 ,News | En: CNN International ✦
+#EXTINF:-1 tvg-name="News | En: CNN International ✦"tvg-id=""tvg-logo=""group-title="Movies2",News | En: CNN International ✦
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319284.ts
-#EXTINF:-1 ,News | Ar: France 24 Arabic HD ✦
+#EXTINF:-1 tvg-name="News | Ar: France 24 Arabic HD ✦"tvg-id=""tvg-logo=""group-title="Movies2",News | Ar: France 24 Arabic HD ✦
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319285.ts
-#EXTINF:-1 ,News | Ar: France 24 Arabic SD ✦
+#EXTINF:-1 tvg-name="News | Ar: France 24 Arabic SD ✦"tvg-id=""tvg-logo=""group-title="Movies2",News | Ar: France 24 Arabic SD ✦
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319286.ts
-#EXTINF:-1 ,News | En: France 24 English ✦
+#EXTINF:-1 tvg-name="News | En: France 24 English ✦"tvg-id=""tvg-logo=""group-title="Movies2",News | En: France 24 English ✦
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319287.ts
-#EXTINF:-1 ,News | Ar: DW Arabic HD ✦
+#EXTINF:-1 tvg-name="News | Ar: DW Arabic HD ✦"tvg-id=""tvg-logo=""group-title="Movies2",News | Ar: DW Arabic HD ✦
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319288.ts
-#EXTINF:-1 ,News | En: DW English ✦
+#EXTINF:-1 tvg-name="News | En: DW English ✦"tvg-id=""tvg-logo=""group-title="Movies2",News | En: DW English ✦
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319289.ts
-#EXTINF:-1 ,News | Ar: Asharq News HD ✦
+#EXTINF:-1 tvg-name="News | Ar: Asharq News HD ✦"tvg-id=""tvg-logo=""group-title="Movies2",News | Ar: Asharq News HD ✦
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319290.ts
-#EXTINF:-1 ,News | Ar: Nabaa News ✦
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319291.ts
-#EXTINF:-1 ,News | Ar: Al Qanat 9 ✦
+#EXTINF:-1 tvg-name="News | Ar: Al Qanat 9 ✦"tvg-id=""tvg-logo=""group-title="Movies2",News | Ar: Al Qanat 9 ✦
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319292.ts
-#EXTINF:-1 ,News | Ar: Al Mustakila ✦
+#EXTINF:-1 tvg-name="News | Ar: Al Mustakila ✦"tvg-id=""tvg-logo=""group-title="Movies2",News | Ar: Al Mustakila ✦
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319293.ts
-#EXTINF:-1 ,News | Ar: CNBC Arabiya ✦
+#EXTINF:-1 tvg-name="News | Ar: CNBC Arabiya ✦"tvg-id=""tvg-logo=""group-title="Movies2",News | Ar: CNBC Arabiya ✦
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319294.ts
-#EXTINF:-1 ,News | Ar: Al Hiwar TV ✦
+#EXTINF:-1 tvg-name="News | Ar: Al Hiwar TV ✦"tvg-id=""tvg-logo=""group-title="Movies2",News | Ar: Al Hiwar TV ✦
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319295.ts
-#EXTINF:-1 ,News | Ar: Al Ayam TV ✦
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319296.ts
-#EXTINF:-1 ,News | Ar: Al Hadath Al Youm ✦
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319297.ts
-#EXTINF:-1 ,News | Ar: CBC Extra News TV ✦
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319300.ts
-#EXTINF:-1 ,News | Ar: i24 News Arabic ✦
+#EXTINF:-1 tvg-name="News | Ar: i24 News Arabic ✦"tvg-id=""tvg-logo=""group-title="Movies2",News | Ar: i24 News Arabic ✦
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319301.ts
-#EXTINF:-1 ,News | Ar: Russia Today Arabic 4K ✦
+#EXTINF:-1 tvg-name="News | Ar: Russia Today Arabic 4K ✦"tvg-id=""tvg-logo=""group-title="Movies2",News | Ar: Russia Today Arabic 4K ✦
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319304.ts
-#EXTINF:-1 ,News | Ar: Saudia Al Ekhbariya ✦
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319305.ts
-#EXTINF:-1 ,News | En: Press TV HD ✦
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319306.ts
-#EXTINF:-1 ,News | Ar: Al Alam News TV ✦
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319307.ts
-#EXTINF:-1 ,News | Ar: Hadramout TV News ✦
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319308.ts
-#EXTINF:-1 ,News | En: Wion TV ✦
+#EXTINF:-1 tvg-name="News | En: Wion TV ✦"tvg-id=""tvg-logo=""group-title="Movies2",News | En: Wion TV ✦
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319311.ts
-#EXTINF:-1 ,MBC 1 HD
+#EXTINF:-1 tvg-name="MBC 1 HD"tvg-id=""tvg-logo=""group-title="Movies2",MBC 1 HD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/308905.ts
-#EXTINF:-1 ,MBC 2 HD
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/308906.ts
-#EXTINF:-1 ,MBC 3 FHD
+#EXTINF:-1 tvg-name="MBC 3 FHD"tvg-id=""tvg-logo=""group-title="Movies2",MBC 3 FHD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/308908.ts
-#EXTINF:-1 ,MBC 4 HD
+#EXTINF:-1 tvg-name="MBC 4 HD"tvg-id=""tvg-logo=""group-title="Movies2",MBC 4 HD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/308909.ts
-#EXTINF:-1 ,MBC 5 HD
+#EXTINF:-1 tvg-name="MBC 5 HD"tvg-id=""tvg-logo=""group-title="Movies2",MBC 5 HD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/308910.ts
-#EXTINF:-1 ,MBC Action HD
+#EXTINF:-1 tvg-name="MBC Action HD"tvg-id=""tvg-logo=""group-title="Movies2",MBC Action HD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/308912.ts
-#EXTINF:-1 ,MBC Bollywood HD
+#EXTINF:-1 tvg-name="MBC Bollywood HD"tvg-id=""tvg-logo=""group-title="Movies2",MBC Bollywood HD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/308913.ts
-#EXTINF:-1 ,MBC Max HD
+#EXTINF:-1 tvg-name="MBC Max HD"tvg-id=""tvg-logo=""group-title="Movies2",MBC Max HD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/308914.ts
-#EXTINF:-1 ,MBC Variety HD
+#EXTINF:-1 tvg-name="MBC Variety HD"tvg-id=""tvg-logo=""group-title="Movies2",MBC Variety HD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/308915.ts
-#EXTINF:-1 ,MBC Drama HD
+#EXTINF:-1 tvg-name="MBC Drama HD"tvg-id=""tvg-logo=""group-title="Movies2",MBC Drama HD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/308916.ts
-#EXTINF:-1 ,MBC Drama+ HD
+#EXTINF:-1 tvg-name="MBC Drama+ HD"tvg-id=""tvg-logo=""group-title="Movies2",MBC Drama+ HD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/308917.ts
-#EXTINF:-1 ,MBC Drama FHD
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/308918.ts
-#EXTINF:-1 ,MBC Iraq FHD
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/308920.ts
-#EXTINF:-1 ,MBC Masr 2 HD
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/308922.ts
-#EXTINF:-1 ,MBC Masr 2 FHD
+#EXTINF:-1 tvg-name="MBC Masr 2 FHD"tvg-id=""tvg-logo=""group-title="Movies2",MBC Masr 2 FHD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/308923.ts
-#EXTINF:-1 ,MBC Masr 1 FHD
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/308924.ts
-#EXTINF:-1 ,MBC Wanasah FHD
+#EXTINF:-1 tvg-name="MBC Wanasah FHD"tvg-id=""tvg-logo=""group-title="Movies2",MBC Wanasah FHD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/308926.ts
-#EXTINF:-1 ,MBC Panorama HD
+#EXTINF:-1 tvg-name="MBC Panorama HD"tvg-id=""tvg-logo=""group-title="Movies2",MBC Panorama HD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/308927.ts
-#EXTINF:-1 ,MBC FM HD
+#EXTINF:-1 tvg-name="MBC FM HD"tvg-id=""tvg-logo=""group-title="Movies2",MBC FM HD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/308928.ts
-#EXTINF:-1 ,MBC FM FHD
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/308929.ts
-#EXTINF:-1 ,MBC Persia FHD
+#EXTINF:-1 tvg-name="MBC Persia FHD"tvg-id=""tvg-logo=""group-title="Movies2",MBC Persia FHD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/308930.ts
-#EXTINF:-1 ,MBC 1 4K
+#EXTINF:-1 tvg-name="MBC 1 4K"tvg-id=""tvg-logo=""group-title="Movies2",MBC 1 4K
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/308931.ts
-#EXTINF:-1 ,MBC 2 4K
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/308932.ts
-#EXTINF:-1 ,MBC 3 4K
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/308933.ts
-#EXTINF:-1 ,MBC 4 4K
+#EXTINF:-1 tvg-name="MBC 4 4K"tvg-id=""tvg-logo=""group-title="Movies2",MBC 4 4K
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/308934.ts
-#EXTINF:-1 ,MBC 5 4K
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/308935.ts
-#EXTINF:-1 ,MBC Action 4K
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/308936.ts
-#EXTINF:-1 ,MBC Bollywood 4K
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/308937.ts
-#EXTINF:-1 ,MBC Drama + 4K
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/308938.ts
-#EXTINF:-1 ,MBC Drama 4K
+#EXTINF:-1 tvg-name="MBC Drama 4K"tvg-id=""tvg-logo=""group-title="Movies2",MBC Drama 4K
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/308939.ts
-#EXTINF:-1 ,MBC Iraq 4K
+#EXTINF:-1 tvg-name="MBC Iraq 4K"tvg-id=""tvg-logo=""group-title="Movies2",MBC Iraq 4K
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/308940.ts
-#EXTINF:-1 ,MBC Masr 1 4K
+#EXTINF:-1 tvg-name="MBC Masr 1 4K"tvg-id=""tvg-logo=""group-title="Movies2",MBC Masr 1 4K
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/308941.ts
-#EXTINF:-1 ,MBC Masr 2 4K
+#EXTINF:-1 tvg-name="MBC Masr 2 4K"tvg-id=""tvg-logo=""group-title="Movies2",MBC Masr 2 4K
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/308942.ts
-#EXTINF:-1 ,MBC Max 4K
+#EXTINF:-1 tvg-name="MBC Max 4K"tvg-id=""tvg-logo=""group-title="Movies2",MBC Max 4K
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/308943.ts
-#EXTINF:-1 ,MBC Panorama 4K
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/308944.ts
-#EXTINF:-1 ,MBC Persian 4K
+#EXTINF:-1 tvg-name="MBC Persian 4K"tvg-id=""tvg-logo=""group-title="Movies2",MBC Persian 4K
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/308945.ts
-#EXTINF:-1 ,MBC Variety 4K
+#EXTINF:-1 tvg-name="MBC Variety 4K"tvg-id=""tvg-logo=""group-title="Movies2",MBC Variety 4K
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/308946.ts
-#EXTINF:-1 ,MBC Wanasah 4K
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/308947.ts
-#EXTINF:-1 ,MBC 1 SD
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/308948.ts
-#EXTINF:-1 ,MBC 3 SD
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/308950.ts
-#EXTINF:-1 ,MBC Bollywood SD
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/308954.ts
-#EXTINF:-1 ,MBC Drama SD
+#EXTINF:-1 tvg-name="MBC Drama SD"tvg-id=""tvg-logo=""group-title="Movies2",MBC Drama SD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/308955.ts
-#EXTINF:-1 ,MBC Iraq SD
+#EXTINF:-1 tvg-name="MBC Iraq SD"tvg-id=""tvg-logo=""group-title="Movies2",MBC Iraq SD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/308956.ts
-#EXTINF:-1 ,Kw| Al Rai HD ✦
+#EXTINF:-1 tvg-name="Kw| Al Rai HD ✦"tvg-id=""tvg-logo=""group-title="Movies2",Kw| Al Rai HD ✦
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319654.ts
-#EXTINF:-1 ,Kw| Al Adalah TV ATV HD ✦
+#EXTINF:-1 tvg-name="Kw| Al Adalah TV ATV HD ✦"tvg-id=""tvg-logo=""group-title="Movies2",Kw| Al Adalah TV ATV HD ✦
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319657.ts
-#EXTINF:-1 ,Kw| Kuwait 1 HD ✦
+#EXTINF:-1 tvg-name="Kw| Kuwait 1 HD ✦"tvg-id=""tvg-logo=""group-title="Movies2",Kw| Kuwait 1 HD ✦
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319659.ts
-#EXTINF:-1 ,Kw| Kuwait 2 HD ✦
+#EXTINF:-1 tvg-name="Kw| Kuwait 2 HD ✦"tvg-id=""tvg-logo=""group-title="Movies2",Kw| Kuwait 2 HD ✦
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319660.ts
-#EXTINF:-1 ,Kw| Kuwait Al Arabi HD ✦
+#EXTINF:-1 tvg-name="Kw| Kuwait Al Arabi HD ✦"tvg-id=""tvg-logo=""group-title="Movies2",Kw| Kuwait Al Arabi HD ✦
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319661.ts
-#EXTINF:-1 ,Kw| Kuwait Ethraa ✦
+#EXTINF:-1 tvg-name="Kw| Kuwait Ethraa ✦"tvg-id=""tvg-logo=""group-title="Movies2",Kw| Kuwait Ethraa ✦
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319662.ts
-#EXTINF:-1 ,Kw| Kuwait Sport HD ✦
+#EXTINF:-1 tvg-name="Kw| Kuwait Sport HD ✦"tvg-id=""tvg-logo=""group-title="Movies2",Kw| Kuwait Sport HD ✦
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319663.ts
-#EXTINF:-1 ,Kw| Kuwait Khallik Bilbait Plus ✦
+#EXTINF:-1 tvg-name="Kw| Kuwait Khallik Bilbait Plus ✦"tvg-id=""tvg-logo=""group-title="Movies2",Kw| Kuwait Khallik Bilbait Plus ✦
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319664.ts
-#EXTINF:-1 ,Kw| Kuwait Qurain ✦
+#EXTINF:-1 tvg-name="Kw| Kuwait Qurain ✦"tvg-id=""tvg-logo=""group-title="Movies2",Kw| Kuwait Qurain ✦
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319666.ts
-#EXTINF:-1 ,Kw| Al Shahed TV ✦
+#EXTINF:-1 tvg-name="Kw| Al Shahed TV ✦"tvg-id=""tvg-logo=""group-title="Movies2",Kw| Al Shahed TV ✦
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319667.ts
-#EXTINF:-1 ,Eg| Al Nahar HD ✦
+#EXTINF:-1 tvg-name="Eg| Al Nahar HD ✦"tvg-id=""tvg-logo=""group-title="Movies2",Eg| Al Nahar HD ✦
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/309182.ts
-#EXTINF:-1 ,Eg| Al Masryia ✦
+#EXTINF:-1 tvg-name="Eg| Al Masryia ✦"tvg-id=""tvg-logo=""group-title="Movies2",Eg| Al Masryia ✦
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/309184.ts
-#EXTINF:-1 ,Eg| Masir AL Oula HD ✦
+#EXTINF:-1 tvg-name="Eg| Masir AL Oula HD ✦"tvg-id=""tvg-logo=""group-title="Movies2",Eg| Masir AL Oula HD ✦
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/309185.ts
-#EXTINF:-1 ,Eg| Mekameleen TV ✦
+#EXTINF:-1 tvg-name="Eg| Mekameleen TV ✦"tvg-id=""tvg-logo=""group-title="Movies2",Eg| Mekameleen TV ✦
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/309189.ts
-#EXTINF:-1 ,Eg| Al Ahly TV ✦
+#EXTINF:-1 tvg-name="Eg| Al Ahly TV ✦"tvg-id=""tvg-logo=""group-title="Movies2",Eg| Al Ahly TV ✦
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/309190.ts
-#EXTINF:-1 ,Eg| Zamalek Sports ✦
+#EXTINF:-1 tvg-name="Eg| Zamalek Sports ✦"tvg-id=""tvg-logo=""group-title="Movies2",Eg| Zamalek Sports ✦
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/309191.ts
-#EXTINF:-1 ,Eg| On Time Sport HD 1 ✦
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/309194.ts
-#EXTINF:-1 ,Eg| On Time Sport HD 2 ✦
+#EXTINF:-1 tvg-name="Eg| On Time Sport HD 2 ✦"tvg-id=""tvg-logo=""group-title="Movies2",Eg| On Time Sport HD 2 ✦
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/309195.ts
-#EXTINF:-1 ,Eg| Nile Sport ✦
+#EXTINF:-1 tvg-name="Eg| Nile Sport ✦"tvg-id=""tvg-logo=""group-title="Movies2",Eg| Nile Sport ✦
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/309196.ts
-#EXTINF:-1 ,Eg| Nile Cinema ✦
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/309200.ts
-#EXTINF:-1 ,Eg| Nile Education ✦
+#EXTINF:-1 tvg-name="Eg| Nile Education ✦"tvg-id=""tvg-logo=""group-title="Movies2",Eg| Nile Education ✦
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/309201.ts
-#EXTINF:-1 ,Eg| Nile Culture ✦
+#EXTINF:-1 tvg-name="Eg| Nile Culture ✦"tvg-id=""tvg-logo=""group-title="Movies2",Eg| Nile Culture ✦
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/309203.ts
-#EXTINF:-1 ,Eg| Nile Drama ✦
+#EXTINF:-1 tvg-name="Eg| Nile Drama ✦"tvg-id=""tvg-logo=""group-title="Movies2",Eg| Nile Drama ✦
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/309204.ts
-#EXTINF:-1 ,Eg| Nile Family ✦
+#EXTINF:-1 tvg-name="Eg| Nile Family ✦"tvg-id=""tvg-logo=""group-title="Movies2",Eg| Nile Family ✦
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/309205.ts
-#EXTINF:-1 ,Eg| DMC HD ✦
+#EXTINF:-1 tvg-name="Eg| DMC HD ✦"tvg-id=""tvg-logo=""group-title="Movies2",Eg| DMC HD ✦
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/309206.ts
-#EXTINF:-1 ,Eg| DMC Drama ✦
+#EXTINF:-1 tvg-name="Eg| DMC Drama ✦"tvg-id=""tvg-logo=""group-title="Movies2",Eg| DMC Drama ✦
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/309207.ts
-#EXTINF:-1 ,Eg| Al Kahera 3 ✦
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/309208.ts
-#EXTINF:-1 ,Eg| Al Kanal TV 4 ✦
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/309209.ts
-#EXTINF:-1 ,Eg| Al Askandaria TV 5 ✦
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/309210.ts
-#EXTINF:-1 ,Eg| Al Delta TV 6 ✦
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/309211.ts
-#EXTINF:-1 ,Eg| Al Saeed TV 5 ✦
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/309212.ts
-#EXTINF:-1 ,Eg| Al Hayat HD ✦
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/309213.ts
-#EXTINF:-1 ,Eg| Al Hhayat Drama ✦
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/309214.ts
-#EXTINF:-1 ,Eg| Al Kahera Wal Nas 1 ✦
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/309215.ts
-#EXTINF:-1 ,Eg| Al Kahera Wal Nas 2 ✦
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/309216.ts
-#EXTINF:-1 ,Eg| Al Nas ✦
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/309218.ts
-#EXTINF:-1 ,Eg| CBC Drama TV ✦
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/309221.ts
-#EXTINF:-1 ,Eg| CBC Extra News TV ✦
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/309222.ts
-#EXTINF:-1 ,Eg| CBC Sofra TV ✦
+#EXTINF:-1 tvg-name="Eg| CBC Sofra TV ✦"tvg-id=""tvg-logo=""group-title="Movies2",Eg| CBC Sofra TV ✦
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/309223.ts
-#EXTINF:-1 ,Eg| Sada El Balad ✦
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/309224.ts
-#EXTINF:-1 ,Eg| Sada El Balad+ 2 ✦
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/309225.ts
-#EXTINF:-1 ,Eg| Sada El Balad Drama  ✦
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/309226.ts
-#EXTINF:-1 ,Eg| Al Hadath Al Youm [ Al Hadath Today ] ✦
+#EXTINF:-1 tvg-name="Eg| Al Hadath Al Youm [ Al Hadath Today ] ✦"tvg-id=""tvg-logo=""group-title="Movies2",Eg| Al Hadath Al Youm [ Al Hadath Today ] ✦
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/309227.ts
-#EXTINF:-1 ,Eg| TeN TV ✦
+#EXTINF:-1 tvg-name="Eg| TeN TV ✦"tvg-id=""tvg-logo=""group-title="Movies2",Eg| TeN TV ✦
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/309228.ts
-#EXTINF:-1 ,Eُg| Madrastna 1 ✦
+#EXTINF:-1 tvg-name="Eُg| Madrastna 1 ✦"tvg-id=""tvg-logo=""group-title="Movies2",Eُg| Madrastna 1 ✦
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/309229.ts
-#EXTINF:-1 ,Eg| Madrastna 2 ✦
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/309230.ts
-#EXTINF:-1 ,Eg| Panorama Drama PNC 1 ✦
+#EXTINF:-1 tvg-name="Eg| Panorama Drama PNC 1 ✦"tvg-id=""tvg-logo=""group-title="Movies2",Eg| Panorama Drama PNC 1 ✦
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/309231.ts
-#EXTINF:-1 ,Eg| Panorama Drama PNC 2 ✦
+#EXTINF:-1 tvg-name="Eg| Panorama Drama PNC 2 ✦"tvg-id=""tvg-logo=""group-title="Movies2",Eg| Panorama Drama PNC 2 ✦
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/309232.ts
-#EXTINF:-1 ,Eg| Panorama Film PNC ✦
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/309233.ts
-#EXTINF:-1 ,Eg| Panorama Food PNC ✦
+#EXTINF:-1 tvg-name="Eg| Panorama Food PNC ✦"tvg-id=""tvg-logo=""group-title="Movies2",Eg| Panorama Food PNC ✦
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/309234.ts
-#EXTINF:-1 ,Eg| Star Cinema 1 ✦
+#EXTINF:-1 tvg-name="Eg| Star Cinema 1 ✦"tvg-id=""tvg-logo=""group-title="Movies2",Eg| Star Cinema 1 ✦
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/309235.ts
-#EXTINF:-1 ,Eg| Mix Hollywood TV ✦
+#EXTINF:-1 tvg-name="Eg| Mix Hollywood TV ✦"tvg-id=""tvg-logo=""group-title="Movies2",Eg| Mix Hollywood TV ✦
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/309236.ts
-#EXTINF:-1 ,Eg| Nogoum FM TV ✦
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/309237.ts
-#EXTINF:-1 ,Eg| Misr Al Zera3eya ✦
+#EXTINF:-1 tvg-name="Eg| Misr Al Zera3eya ✦"tvg-id=""tvg-logo=""group-title="Movies2",Eg| Misr Al Zera3eya ✦
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/309239.ts
-#EXTINF:-1 ,Eg| Misr Al Balad ✦
+#EXTINF:-1 tvg-name="Eg| Misr Al Balad ✦"tvg-id=""tvg-logo=""group-title="Movies2",Eg| Misr Al Balad ✦
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/309241.ts
-#EXTINF:-1 ,Eg| Al-Mehwar TV ✦
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/309242.ts
-#EXTINF:-1 ,Eg| Maspero Zaman ✦
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/309245.ts
-#EXTINF:-1 ,Eg| Al Fath Sonnah TV ✦
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/309246.ts
-#EXTINF:-1 ,Eg| El Mold ✦
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/309247.ts
-#EXTINF:-1 ,Sa| Oyoon Alwatan ✦
+#EXTINF:-1 tvg-name="Sa| Oyoon Alwatan ✦"tvg-id=""tvg-logo=""group-title="Movies2",Sa| Oyoon Alwatan ✦
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319419.ts
-#EXTINF:-1 ,Sa| Thikrayat HD ✦
+#EXTINF:-1 tvg-name="Sa| Thikrayat HD ✦"tvg-id=""tvg-logo=""group-title="Movies2",Sa| Thikrayat HD ✦
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319420.ts
-#EXTINF:-1 ,Sa| Al Sahraa TV ✦
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319422.ts
-#EXTINF:-1 ,Sa| Zad TV ✦
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319423.ts
-#EXTINF:-1 ,Sa| Al Waqie TV ✦
+#EXTINF:-1 tvg-name="Sa| Al Waqie TV ✦"tvg-id=""tvg-logo=""group-title="Movies2",Sa| Al Waqie TV ✦
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319424.ts
-#EXTINF:-1 ,Sa| Saudia Quran HD ✦
+#EXTINF:-1 tvg-name="Sa| Saudia Quran HD ✦"tvg-id=""tvg-logo=""group-title="Movies2",Sa| Saudia Quran HD ✦
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319426.ts
-#EXTINF:-1 ,Sa| Saudia Sunnah HD ✦
+#EXTINF:-1 tvg-name="Sa| Saudia Sunnah HD ✦"tvg-id=""tvg-logo=""group-title="Movies2",Sa| Saudia Sunnah HD ✦
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319427.ts
-#EXTINF:-1 ,Sa| Saudi TV HD ✦
+#EXTINF:-1 tvg-name="Sa| Saudi TV HD ✦"tvg-id=""tvg-logo=""group-title="Movies2",Sa| Saudi TV HD ✦
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319428.ts
-#EXTINF:-1 ,Sa| Asharq News HD ✦
+#EXTINF:-1 tvg-name="Sa| Asharq News HD ✦"tvg-id=""tvg-logo=""group-title="Movies2",Sa| Asharq News HD ✦
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319432.ts
-#EXTINF:-1 ,Sa| Iqraa ✦
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319433.ts
-#EXTINF:-1 ,Sa| Saudia Al Ekhbariya HD ✦
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319434.ts
-#EXTINF:-1 ,Sa| iEN TV HD ✦
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319435.ts
-#EXTINF:-1 ,Sa| Al Majd General ✦
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319436.ts
-#EXTINF:-1 ,Sa| Al Majd Quran Kareem ✦
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319437.ts
-#EXTINF:-1 ,Sa| Al Majd Hadith TV ✦
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319439.ts
-#EXTINF:-1 ,Sa| iEN Doros 01 ✦
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319440.ts
-#EXTINF:-1 ,Sa| iEN Doros 02 ✦
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319441.ts
-#EXTINF:-1 ,Sa| iEN Doros 03 ✦
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319442.ts
-#EXTINF:-1 ,Sa| iEN Doros 04 ✦
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319443.ts
-#EXTINF:-1 ,Sa| iEN Doros 05 ✦
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319444.ts
-#EXTINF:-1 ,Sa| iEN Doros 06 ✦
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319445.ts
-#EXTINF:-1 ,Sa| iEN Doros 07 ✦
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319446.ts
-#EXTINF:-1 ,Sa| iEN Doros 08 ✦
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319447.ts
-#EXTINF:-1 ,Sa| iEN Doros 09 ✦
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319448.ts
-#EXTINF:-1 ,Sa| iEN Doros 10 ✦
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319449.ts
-#EXTINF:-1 ,Sa| iEN Doros 11 ✦
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319450.ts
-#EXTINF:-1 ,Sa| iEN Doros 12 ✦
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319451.ts
-#EXTINF:-1 ,Sa| iEN Doros 13 ✦
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319452.ts
-#EXTINF:-1 ,Sa| iEN Doros 14 ✦
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319453.ts
-#EXTINF:-1 ,Sa| iEN Doros 15 ✦
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319454.ts
-#EXTINF:-1 ,Sa| iEN Doros 16 ✦
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319455.ts
-#EXTINF:-1 ,Sa| iEN Doros 17 ✦
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319456.ts
-#EXTINF:-1 ,Sa| iEN Doros 18 ✦
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319457.ts
-#EXTINF:-1 ,Sa| iEN Doros 19 ✦
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319458.ts
-#EXTINF:-1 ,Sa| iEN Doros 20 ✦
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319459.ts
-#EXTINF:-1 ,Sa| iEN Doros 23 ✦
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/319462.ts
-#EXTINF:-1 ,AFG:AMC TV
+#EXTINF:-1 tvg-name="AFG:AMC TV"tvg-id=""tvg-logo=""group-title="Movies2",AFG:AMC TV
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/1040.ts
-#EXTINF:-1 ,AFG:AVA Family
+#EXTINF:-1 tvg-name="AFG:AVA Family"tvg-id=""tvg-logo=""group-title="Movies2",AFG:AVA Family
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/1041.ts
-#EXTINF:-1 ,AFG:ATN News
+#EXTINF:-1 tvg-name="AFG:ATN News"tvg-id=""tvg-logo=""group-title="Movies2",AFG:ATN News
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/1042.ts
-#EXTINF:-1 ,AFG:Hewad TV
+#EXTINF:-1 tvg-name="AFG:Hewad TV"tvg-id=""tvg-logo=""group-title="Movies2",AFG:Hewad TV
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/1043.ts
-#EXTINF:-1 ,AFG:Barbud Music
+#EXTINF:-1 tvg-name="AFG:Barbud Music"tvg-id=""tvg-logo=""group-title="Movies2",AFG:Barbud Music
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/1045.ts
-#EXTINF:-1 ,AFG:Kayhan TV
+#EXTINF:-1 tvg-name="AFG:Kayhan TV"tvg-id=""tvg-logo=""group-title="Movies2",AFG:Kayhan TV
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/1046.ts
-#EXTINF:-1 ,AFG:Noor_TV_afg
+#EXTINF:-1 tvg-name="AFG:Noor_TV_afg"tvg-id=""tvg-logo=""group-title="Movies2",AFG:Noor_TV_afg
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/1047.ts
-#EXTINF:-1 ,AFG:Lemar TV
+#EXTINF:-1 tvg-name="AFG:Lemar TV"tvg-id=""tvg-logo=""group-title="Movies2",AFG:Lemar TV
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/1048.ts
-#EXTINF:-1 ,AFG: Al Hurra_HD
+#EXTINF:-1 tvg-name="AFG: Al Hurra_HD"tvg-id=""tvg-logo=""group-title="Movies2",AFG: Al Hurra_HD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/1049.ts
-#EXTINF:-1 ,AFG:Shamshad
+#EXTINF:-1 tvg-name="AFG:Shamshad"tvg-id=""tvg-logo=""group-title="Movies2",AFG:Shamshad
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/1050.ts
-#EXTINF:-1 ,AFG:Tamadon TV
+#EXTINF:-1 tvg-name="AFG:Tamadon TV"tvg-id=""tvg-logo=""group-title="Movies2",AFG:Tamadon TV
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/1051.ts
-#EXTINF:-1 ,AFG:Tolo News HD
+#EXTINF:-1 tvg-name="AFG:Tolo News HD"tvg-id=""tvg-logo=""group-title="Movies2",AFG:Tolo News HD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/1052.ts
-#EXTINF:-1 ,AFG:Tolo TV HD
+#EXTINF:-1 tvg-name="AFG:Tolo TV HD"tvg-id=""tvg-logo=""group-title="Movies2",AFG:Tolo TV HD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/1053.ts
-#EXTINF:-1 ,AFG: Zhwandoon TV
+#EXTINF:-1 tvg-name="AFG: Zhwandoon TV"tvg-id=""tvg-logo=""group-title="Movies2",AFG: Zhwandoon TV
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/5027.ts
-#EXTINF:-1 ,AFG: 1 AFGHAN
+#EXTINF:-1 tvg-name="AFG: 1 AFGHAN"tvg-id=""tvg-logo=""group-title="Movies2",AFG: 1 AFGHAN
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/5028.ts
-#EXTINF:-1 ,|CA| TSN 1 | HD
+#EXTINF:-1 tvg-name="|CA| TSN 1 | HD"tvg-id=""tvg-logo=""group-title="Movies2",|CA| TSN 1 | HD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/1565.ts
-#EXTINF:-1 ,Is: Yes 12 Keshet IL
+#EXTINF:-1 tvg-name="Is: Yes 12 Keshet IL"tvg-id=""tvg-logo=""group-title="Movies2",Is: Yes 12 Keshet IL
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/348064.ts
-#EXTINF:-1 ,Is: Yes Kneset HD
+#EXTINF:-1 tvg-name="Is: Yes Kneset HD"tvg-id=""tvg-logo=""group-title="Movies2",Is: Yes Kneset HD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/348067.ts
-#EXTINF:-1 ,Is: Yes Channel 33 [ Makan TV ]
+#EXTINF:-1 tvg-name="Is: Yes Channel 33 [ Makan TV ]"tvg-id=""tvg-logo=""group-title="Movies2",Is: Yes Channel 33 [ Makan TV ]
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/348068.ts
-#EXTINF:-1 ,Is: Yes Hala TV
+#EXTINF:-1 tvg-name="Is: Yes Hala TV"tvg-id=""tvg-logo=""group-title="Movies2",Is: Yes Hala TV
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/348069.ts
-#EXTINF:-1 ,Is: Yes Channel 14
+#EXTINF:-1 tvg-name="Is: Yes Channel 14"tvg-id=""tvg-logo=""group-title="Movies2",Is: Yes Channel 14
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/348070.ts
-#EXTINF:-1 ,Is: Yes Sport 1 FHD
+#EXTINF:-1 tvg-name="Is: Yes Sport 1 FHD"tvg-id=""tvg-logo=""group-title="Movies2",Is: Yes Sport 1 FHD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/348071.ts
-#EXTINF:-1 ,Is: Yes Sport 2 HD
+#EXTINF:-1 tvg-name="Is: Yes Sport 2 HD"tvg-id=""tvg-logo=""group-title="Movies2",Is: Yes Sport 2 HD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/348072.ts
-#EXTINF:-1 ,Is: Yes Sport 3 FHD
+#EXTINF:-1 tvg-name="Is: Yes Sport 3 FHD"tvg-id=""tvg-logo=""group-title="Movies2",Is: Yes Sport 3 FHD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/348073.ts
-#EXTINF:-1 ,Is: Yes Sport 4 FHD
+#EXTINF:-1 tvg-name="Is: Yes Sport 4 FHD"tvg-id=""tvg-logo=""group-title="Movies2",Is: Yes Sport 4 FHD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/348074.ts
-#EXTINF:-1 ,Is: Yes Sport 5 HD
+#EXTINF:-1 tvg-name="Is: Yes Sport 5 HD"tvg-id=""tvg-logo=""group-title="Movies2",Is: Yes Sport 5 HD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/348075.ts
-#EXTINF:-1 ,Is: Yes Sport 5 Live HD [ Live Match ]
+#EXTINF:-1 tvg-name="Is: Yes Sport 5 Live HD [ Live Match ]"tvg-id=""tvg-logo=""group-title="Movies2",Is: Yes Sport 5 Live HD [ Live Match ]
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/348076.ts
-#EXTINF:-1 ,Is: Yes Sport 5 Plus
+#EXTINF:-1 tvg-name="Is: Yes Sport 5 Plus"tvg-id=""tvg-logo=""group-title="Movies2",Is: Yes Sport 5 Plus
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/348077.ts
-#EXTINF:-1 ,Is: Yes Sport 5 Stars HD
+#EXTINF:-1 tvg-name="Is: Yes Sport 5 Stars HD"tvg-id=""tvg-logo=""group-title="Movies2",Is: Yes Sport 5 Stars HD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/348078.ts
-#EXTINF:-1 ,Is: Yes Sport 5 Gold
+#EXTINF:-1 tvg-name="Is: Yes Sport 5 Gold"tvg-id=""tvg-logo=""group-title="Movies2",Is: Yes Sport 5 Gold
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/348079.ts
-#EXTINF:-1 ,Is: Yes One 1 Sport HD
+#EXTINF:-1 tvg-name="Is: Yes One 1 Sport HD"tvg-id=""tvg-logo=""group-title="Movies2",Is: Yes One 1 Sport HD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/348080.ts
-#EXTINF:-1 ,Is: Yes Baby TV
+#EXTINF:-1 tvg-name="Is: Yes Baby TV"tvg-id=""tvg-logo=""group-title="Movies2",Is: Yes Baby TV
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/348081.ts
-#EXTINF:-1 ,Is: HOT Fun HD
+#EXTINF:-1 tvg-name="Is: HOT Fun HD"tvg-id=""tvg-logo=""group-title="Movies2",Is: HOT Fun HD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/348082.ts
-#EXTINF:-1 ,Is: Yes Childhood
+#EXTINF:-1 tvg-name="Is: Yes Childhood"tvg-id=""tvg-logo=""group-title="Movies2",Is: Yes Childhood
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/348083.ts
-#EXTINF:-1 ,Is: Yes MTV Music
+#EXTINF:-1 tvg-name="Is: Yes MTV Music"tvg-id=""tvg-logo=""group-title="Movies2",Is: Yes MTV Music
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/348084.ts
-#EXTINF:-1 ,Is: Yes Health
+#EXTINF:-1 tvg-name="Is: Yes Health"tvg-id=""tvg-logo=""group-title="Movies2",Is: Yes Health
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/348085.ts
-#EXTINF:-1 ,Is: Yes Movies Action HD
+#EXTINF:-1 tvg-name="Is: Yes Movies Action HD"tvg-id=""tvg-logo=""group-title="Movies2",Is: Yes Movies Action HD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/348086.ts
-#EXTINF:-1 ,Is: Yes Movies Kids HD
+#EXTINF:-1 tvg-name="Is: Yes Movies Kids HD"tvg-id=""tvg-logo=""group-title="Movies2",Is: Yes Movies Kids HD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/348087.ts
-#EXTINF:-1 ,Is: Yes Movies Comedy HD
+#EXTINF:-1 tvg-name="Is: Yes Movies Comedy HD"tvg-id=""tvg-logo=""group-title="Movies2",Is: Yes Movies Comedy HD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/348088.ts
-#EXTINF:-1 ,Is: Yes Movies Drama HD
+#EXTINF:-1 tvg-name="Is: Yes Movies Drama HD"tvg-id=""tvg-logo=""group-title="Movies2",Is: Yes Movies Drama HD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/348089.ts
-#EXTINF:-1 ,Is: Yes TV Drama HD
+#EXTINF:-1 tvg-name="Is: Yes TV Drama HD"tvg-id=""tvg-logo=""group-title="Movies2",Is: Yes TV Drama HD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/348090.ts
-#EXTINF:-1 ,Is: Yes TV Action HD
+#EXTINF:-1 tvg-name="Is: Yes TV Action HD"tvg-id=""tvg-logo=""group-title="Movies2",Is: Yes TV Action HD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/348091.ts
-#EXTINF:-1 ,Is: Yes TV Comedy HD
+#EXTINF:-1 tvg-name="Is: Yes TV Comedy HD"tvg-id=""tvg-logo=""group-title="Movies2",Is: Yes TV Comedy HD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/348092.ts
-#EXTINF:-1 ,Is: Yes i24 News Israel
+#EXTINF:-1 tvg-name="Is: Yes i24 News Israel"tvg-id=""tvg-logo=""group-title="Movies2",Is: Yes i24 News Israel
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/348093.ts
-#EXTINF:-1 ,Is: Yes Channel 9
+#EXTINF:-1 tvg-name="Is: Yes Channel 9"tvg-id=""tvg-logo=""group-title="Movies2",Is: Yes Channel 9
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/348094.ts
-#EXTINF:-1 ,Is: Yes E!
+#EXTINF:-1 tvg-name="Is: Yes E!"tvg-id=""tvg-logo=""group-title="Movies2",Is: Yes E!
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/348095.ts
-#EXTINF:-1 ,Is: Yes Viva HD
+#EXTINF:-1 tvg-name="Is: Yes Viva HD"tvg-id=""tvg-logo=""group-title="Movies2",Is: Yes Viva HD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/348096.ts
-#EXTINF:-1 ,Is: Yes Viva Plus HD
+#EXTINF:-1 tvg-name="Is: Yes Viva Plus HD"tvg-id=""tvg-logo=""group-title="Movies2",Is: Yes Viva Plus HD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/348097.ts
-#EXTINF:-1 ,Is: Yes Hot Zone
+#EXTINF:-1 tvg-name="Is: Yes Hot Zone"tvg-id=""tvg-logo=""group-title="Movies2",Is: Yes Hot Zone
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/348098.ts
-#EXTINF:-1 ,Is: Yes Discovery Channel HD
+#EXTINF:-1 tvg-name="Is: Yes Discovery Channel HD"tvg-id=""tvg-logo=""group-title="Movies2",Is: Yes Discovery Channel HD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/348101.ts
-#EXTINF:-1 ,Is: Yes Animal Planet HD
+#EXTINF:-1 tvg-name="Is: Yes Animal Planet HD"tvg-id=""tvg-logo=""group-title="Movies2",Is: Yes Animal Planet HD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/348102.ts
-#EXTINF:-1 ,Is: Yes History HD
+#EXTINF:-1 tvg-name="Is: Yes History HD"tvg-id=""tvg-logo=""group-title="Movies2",Is: Yes History HD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/348103.ts
-#EXTINF:-1 ,Is: Yes Good Life HD
+#EXTINF:-1 tvg-name="Is: Yes Good Life HD"tvg-id=""tvg-logo=""group-title="Movies2",Is: Yes Good Life HD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/348104.ts
-#EXTINF:-1 ,Is: Yes Home +
+#EXTINF:-1 tvg-name="Is: Yes Home +"tvg-id=""tvg-logo=""group-title="Movies2",Is: Yes Home +
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/348105.ts
-#EXTINF:-1 ,Is: Yes Food Channel
+#EXTINF:-1 tvg-name="Is: Yes Food Channel"tvg-id=""tvg-logo=""group-title="Movies2",Is: Yes Food Channel
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/348106.ts
-#EXTINF:-1 ,Is: Yes Kabbalah TV
+#EXTINF:-1 tvg-name="Is: Yes Kabbalah TV"tvg-id=""tvg-logo=""group-title="Movies2",Is: Yes Kabbalah TV
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/348109.ts
-#EXTINF:-1 ,Is: Yes Zoom HD
+#EXTINF:-1 tvg-name="Is: Yes Zoom HD"tvg-id=""tvg-logo=""group-title="Movies2",Is: Yes Zoom HD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/348110.ts
-#EXTINF:-1 ,Is: HOT Entertainment
+#EXTINF:-1 tvg-name="Is: HOT Entertainment"tvg-id=""tvg-logo=""group-title="Movies2",Is: HOT Entertainment
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/348117.ts
-#EXTINF:-1 ,Is: YES TRAVEL CHANNELL
+#EXTINF:-1 tvg-name="Is: YES TRAVEL CHANNELL"tvg-id=""tvg-logo=""group-title="Movies2",Is: YES TRAVEL CHANNELL
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/348119.ts
-#EXTINF:-1 ,Is: Yes JimJam
+#EXTINF:-1 tvg-name="Is: Yes JimJam"tvg-id=""tvg-logo=""group-title="Movies2",Is: Yes JimJam
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/348120.ts
-#EXTINF:-1 ,Is: YES Yam Tihoni
+#EXTINF:-1 tvg-name="Is: YES Yam Tihoni"tvg-id=""tvg-logo=""group-title="Movies2",Is: YES Yam Tihoni
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/348121.ts
-#EXTINF:-1 ,Is: Yes Junior HD
+#EXTINF:-1 tvg-name="Is: Yes Junior HD"tvg-id=""tvg-logo=""group-title="Movies2",Is: Yes Junior HD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/348122.ts
-#EXTINF:-1 ,Is: Yes TeenNick HD
+#EXTINF:-1 tvg-name="Is: Yes TeenNick HD"tvg-id=""tvg-logo=""group-title="Movies2",Is: Yes TeenNick HD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/348124.ts
-#EXTINF:-1 ,Is: Yes Eurosport HD
+#EXTINF:-1 tvg-name="Is: Yes Eurosport HD"tvg-id=""tvg-logo=""group-title="Movies2",Is: Yes Eurosport HD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/348125.ts
-#EXTINF:-1 ,Is: Yes Classica HD
+#EXTINF:-1 tvg-name="Is: Yes Classica HD"tvg-id=""tvg-logo=""group-title="Movies2",Is: Yes Classica HD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/348126.ts
-#EXTINF:-1 ,Is: Yes Channel 20
+#EXTINF:-1 tvg-name="Is: Yes Channel 20"tvg-id=""tvg-logo=""group-title="Movies2",Is: Yes Channel 20
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/348127.ts
-#EXTINF:-1 ,Is: Yes Channel 24
+#EXTINF:-1 tvg-name="Is: Yes Channel 24"tvg-id=""tvg-logo=""group-title="Movies2",Is: Yes Channel 24
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/348128.ts
-#EXTINF:-1 ,Is: Yes Channel 98
+#EXTINF:-1 tvg-name="Is: Yes Channel 98"tvg-id=""tvg-logo=""group-title="Movies2",Is: Yes Channel 98
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/348129.ts
-#EXTINF:-1 ,IS: Yes Sky News
+#EXTINF:-1 tvg-name="IS: Yes Sky News"tvg-id=""tvg-logo=""group-title="Movies2",IS: Yes Sky News
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/348131.ts
-#EXTINF:-1 ,IS: Yes Kan Educational
+#EXTINF:-1 tvg-name="IS: Yes Kan Educational"tvg-id=""tvg-logo=""group-title="Movies2",IS: Yes Kan Educational
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/348133.ts
-#EXTINF:-1 ,Is: Yes ID
+#EXTINF:-1 tvg-name="Is: Yes ID"tvg-id=""tvg-logo=""group-title="Movies2",Is: Yes ID
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/348134.ts
-#EXTINF:-1 ,Is: Yes TLC
+#EXTINF:-1 tvg-name="Is: Yes TLC"tvg-id=""tvg-logo=""group-title="Movies2",Is: Yes TLC
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/348135.ts
-#EXTINF:-1 ,Is: Yes MTV 00s
+#EXTINF:-1 tvg-name="Is: Yes MTV 00s"tvg-id=""tvg-logo=""group-title="Movies2",Is: Yes MTV 00s
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/348136.ts
-#EXTINF:-1 ,Is: Yes HOP
+#EXTINF:-1 tvg-name="Is: Yes HOP"tvg-id=""tvg-logo=""group-title="Movies2",Is: Yes HOP
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/348139.ts
-#EXTINF:-1 ,IS: Yes Eurostar
+#EXTINF:-1 tvg-name="IS: Yes Eurostar"tvg-id=""tvg-logo=""group-title="Movies2",IS: Yes Eurostar
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/348144.ts
-#EXTINF:-1 ,Is: Yes PRO TV
+#EXTINF:-1 tvg-name="Is: Yes PRO TV"tvg-id=""tvg-logo=""group-title="Movies2",Is: Yes PRO TV
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/348145.ts
-#EXTINF:-1 ,Is: Yes 12 Keshet IL SD
+#EXTINF:-1 tvg-name="Is: Yes 12 Keshet IL SD"tvg-id=""tvg-logo=""group-title="Movies2",Is: Yes 12 Keshet IL SD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/348147.ts
-#EXTINF:-1 ,IS: Yes 13 Reshet
+#EXTINF:-1 tvg-name="IS: Yes 13 Reshet"tvg-id=""tvg-logo=""group-title="Movies2",IS: Yes 13 Reshet
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/348148.ts
-#EXTINF:-1 ,IS: Yes 5SPORT HD
+#EXTINF:-1 tvg-name="IS: Yes 5SPORT HD"tvg-id=""tvg-logo=""group-title="Movies2",IS: Yes 5SPORT HD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/348151.ts
-#EXTINF:-1 ,IS: Yes Action HD
+#EXTINF:-1 tvg-name="IS: Yes Action HD"tvg-id=""tvg-logo=""group-title="Movies2",IS: Yes Action HD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/348152.ts
-#EXTINF:-1 ,IS: Yes CBS Reality
+#EXTINF:-1 tvg-name="IS: Yes CBS Reality"tvg-id=""tvg-logo=""group-title="Movies2",IS: Yes CBS Reality
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/348154.ts
-#EXTINF:-1 ,IS: Yes Channel 1 HD
+#EXTINF:-1 tvg-name="IS: Yes Channel 1 HD"tvg-id=""tvg-logo=""group-title="Movies2",IS: Yes Channel 1 HD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/348156.ts
-#EXTINF:-1 ,Is: Yes Channel 11 FHD
+#EXTINF:-1 tvg-name="Is: Yes Channel 11 FHD"tvg-id=""tvg-logo=""group-title="Movies2",Is: Yes Channel 11 FHD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/348157.ts
-#EXTINF:-1 ,IS: Yes Channel 12
+#EXTINF:-1 tvg-name="IS: Yes Channel 12"tvg-id=""tvg-logo=""group-title="Movies2",IS: Yes Channel 12
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/348158.ts
-#EXTINF:-1 ,|NP| NTV NATIONAL FHD
+#EXTINF:-1 tvg-name="|NP| NTV NATIONAL FHD"tvg-id=""tvg-logo=""group-title="Movies2",|NP| NTV NATIONAL FHD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/6219.ts
-#EXTINF:-1 ,OM | OMAN TV CULTURE HD
+#EXTINF:-1 tvg-name="OM | OMAN TV CULTURE HD"tvg-id=""tvg-logo=""group-title="Movies2",OM | OMAN TV CULTURE HD
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/43376.ts
-#EXTINF:-1 ,Drive-Away.Dolls.2024
+#EXTINF:-1 tvg-name="Drive-Away.Dolls.2024"tvg-id=""tvg-logo=""group-title="Movies2",Drive-Away.Dolls.2024
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/385174.mp4
-#EXTINF:-1 ,Greedy People (2024)
+#EXTINF:-1 tvg-name="Greedy People (2024)"tvg-id=""tvg-logo=""group-title="Movies2",Greedy People (2024)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/385175.mp4
-#EXTINF:-1 ,Hell Hole (2024)
+#EXTINF:-1 tvg-name="Hell Hole (2024)"tvg-id=""tvg-logo=""group-title="Movies2",Hell Hole (2024)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/385176.mp4
-#EXTINF:-1 ,Incoming (2024)
+#EXTINF:-1 tvg-name="Incoming (2024)"tvg-id=""tvg-logo=""group-title="Movies2",Incoming (2024)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/385177.mp4
-#EXTINF:-1 ,Klitschko: More Than a Fight (2024)
+#EXTINF:-1 tvg-name="Klitschko: More Than a Fight (2024)"tvg-id=""tvg-logo=""group-title="Movies2",Klitschko: More Than a Fight (2024)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/385178.mp4
-#EXTINF:-1 ,Longlegs (2024)
+#EXTINF:-1 tvg-name="Longlegs (2024)"tvg-id=""tvg-logo=""group-title="Movies2",Longlegs (2024)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/385179.mp4
-#EXTINF:-1 ,My Divorce Party (2024)
+#EXTINF:-1 tvg-name="My Divorce Party (2024)"tvg-id=""tvg-logo=""group-title="Movies2",My Divorce Party (2024)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/385180.mp4
-#EXTINF:-1 ,The Killer (2024)
+#EXTINF:-1 tvg-name="The Killer (2024)"tvg-id=""tvg-logo=""group-title="Movies2",The Killer (2024)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/385181.mp4
-#EXTINF:-1 ,The Supremes at Earl's All-You-Can-Eat (2024)
+#EXTINF:-1 tvg-name="The Supremes at Earl's All-You-Can-Eat (2024)"tvg-id=""tvg-logo=""group-title="Movies2",The Supremes at Earl's All-You-Can-Eat (2024)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/385182.mp4
-#EXTINF:-1 ,Blood for Dust (2024)
+#EXTINF:-1 tvg-name="Blood for Dust (2024)"tvg-id=""tvg-logo=""group-title="Movies2",Blood for Dust (2024)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/385183.mp4
-#EXTINF:-1 ,Camp (2023)
+#EXTINF:-1 tvg-name="Camp (2023)"tvg-id=""tvg-logo=""group-title="Movies2",Camp (2023)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/385184.mp4
-#EXTINF:-1 ,In the Land of Saints and Sinners (2023)
+#EXTINF:-1 tvg-name="In the Land of Saints and Sinners (2023)"tvg-id=""tvg-logo=""group-title="Movies2",In the Land of Saints and Sinners (2023)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/385185.mp4
-#EXTINF:-1 ,Place of Bones (2024)
+#EXTINF:-1 tvg-name="Place of Bones (2024)"tvg-id=""tvg-logo=""group-title="Movies2",Place of Bones (2024)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/385186.mp4
-#EXTINF:-1 ,Jade (2024) (English)
+#EXTINF:-1 tvg-name="Jade (2024) (English)"tvg-id=""tvg-logo=""group-title="Movies2",Jade (2024) (English)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/325505.mp4
-#EXTINF:-1 ,A Nanny's Revenge (2024) (English)
+#EXTINF:-1 tvg-name="A Nanny's Revenge (2024) (English)"tvg-id=""tvg-logo=""group-title="Movies2",A Nanny's Revenge (2024) (English)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/342643.mp4
-#EXTINF:-1 ,Gary (2024)
+#EXTINF:-1 tvg-name="Gary (2024)"tvg-id=""tvg-logo=""group-title="Movies2",Gary (2024)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/390124.mp4
-#EXTINF:-1 ,Furiosa: A Mad Max Saga (2024)
+#EXTINF:-1 tvg-name="Furiosa: A Mad Max Saga (2024)"tvg-id=""tvg-logo=""group-title="Movies2",Furiosa: A Mad Max Saga (2024)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/401074.mkv
-#EXTINF:-1 ,Furiosa: A Mad Max Saga (2024) (Multi Languages)
+#EXTINF:-1 tvg-name="Furiosa: A Mad Max Saga (2024) (Multi Languages)"tvg-id=""tvg-logo=""group-title="Movies2",Furiosa: A Mad Max Saga (2024) (Multi Languages)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/405139.mkv
-#EXTINF:-1 ,Daddy's Head (2024)
+#EXTINF:-1 tvg-name="Daddy's Head (2024)"tvg-id=""tvg-logo=""group-title="Movies2",Daddy's Head (2024)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/411343.mp4
-#EXTINF:-1 ,Girl Haunts Boy (2024)
+#EXTINF:-1 tvg-name="Girl Haunts Boy (2024)"tvg-id=""tvg-logo=""group-title="Movies2",Girl Haunts Boy (2024)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/411344.mp4
-#EXTINF:-1 ,Kreepaway.Kamp.2024
+#EXTINF:-1 tvg-name="Kreepaway.Kamp.2024"tvg-id=""tvg-logo=""group-title="Movies2",Kreepaway.Kamp.2024
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/411345.mp4
-#EXTINF:-1 ,Lonely Planet (2024)
+#EXTINF:-1 tvg-name="Lonely Planet (2024)"tvg-id=""tvg-logo=""group-title="Movies2",Lonely Planet (2024)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/411346.mp4
-#EXTINF:-1 ,Maid Droid Origins (2024)
+#EXTINF:-1 tvg-name="Maid Droid Origins (2024)"tvg-id=""tvg-logo=""group-title="Movies2",Maid Droid Origins (2024)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/411347.mp4
-#EXTINF:-1 ,Mr..Crocket.2024
+#EXTINF:-1 tvg-name="Mr..Crocket.2024"tvg-id=""tvg-logo=""group-title="Movies2",Mr..Crocket.2024
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/411348.mp4
-#EXTINF:-1 ,Never Let Go (2024)
+#EXTINF:-1 tvg-name="Never Let Go (2024)"tvg-id=""tvg-logo=""group-title="Movies2",Never Let Go (2024)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/411349.mp4
-#EXTINF:-1 ,The Assistant 2 (2024)
+#EXTINF:-1 tvg-name="The Assistant 2 (2024)"tvg-id=""tvg-logo=""group-title="Movies2",The Assistant 2 (2024)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/411351.mp4
-#EXTINF:-1 ,The Silent Hour (2024)
+#EXTINF:-1 tvg-name="The Silent Hour (2024)"tvg-id=""tvg-logo=""group-title="Movies2",The Silent Hour (2024)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/411352.mp4
-#EXTINF:-1 ,Uprising (2024)
+#EXTINF:-1 tvg-name="Uprising (2024)"tvg-id=""tvg-logo=""group-title="Movies2",Uprising (2024)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/411353.mp4
-#EXTINF:-1 ,Bookworm (2024)
+#EXTINF:-1 tvg-name="Bookworm (2024)"tvg-id=""tvg-logo=""group-title="Movies2",Bookworm (2024)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/412312.mp4
-#EXTINF:-1 ,Crackcoon (2024)
+#EXTINF:-1 tvg-name="Crackcoon (2024)"tvg-id=""tvg-logo=""group-title="Movies2",Crackcoon (2024)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/412313.mp4
-#EXTINF:-1 ,Haunted by Her Name (2024)
+#EXTINF:-1 tvg-name="Haunted by Her Name (2024)"tvg-id=""tvg-logo=""group-title="Movies2",Haunted by Her Name (2024)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/412314.mp4
-#EXTINF:-1 ,Haunted Wedding (2024)
+#EXTINF:-1 tvg-name="Haunted Wedding (2024)"tvg-id=""tvg-logo=""group-title="Movies2",Haunted Wedding (2024)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/412315.mp4
-#EXTINF:-1 ,Lethally Blonde (2024)
+#EXTINF:-1 tvg-name="Lethally Blonde (2024)"tvg-id=""tvg-logo=""group-title="Movies2",Lethally Blonde (2024)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/412316.mp4
-#EXTINF:-1 ,Tide (2024)
+#EXTINF:-1 tvg-name="Tide (2024)"tvg-id=""tvg-logo=""group-title="Movies2",Tide (2024)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/412317.mp4
-#EXTINF:-1 ,Underdog: The Andy Swallow Story (2024)
+#EXTINF:-1 tvg-name="Underdog: The Andy Swallow Story (2024)"tvg-id=""tvg-logo=""group-title="Movies2",Underdog: The Andy Swallow Story (2024)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/412318.mp4
-#EXTINF:-1 ,Am I Racist? (2024)
+#EXTINF:-1 tvg-name="Am I Racist? (2024)"tvg-id=""tvg-logo=""group-title="Movies2",Am I Racist? (2024)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/419509.mp4
-#EXTINF:-1 ,They Hope Mystery (2024)
+#EXTINF:-1 tvg-name="They Hope Mystery (2024)"tvg-id=""tvg-logo=""group-title="Movies2",They Hope Mystery (2024)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/419510.mp4
-#EXTINF:-1 ,Denzel Washington: American Icon (2024)
+#EXTINF:-1 tvg-name="Denzel Washington: American Icon (2024)"tvg-id=""tvg-logo=""group-title="Movies2",Denzel Washington: American Icon (2024)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/419511.mp4
-#EXTINF:-1 ,Family Secrets: The Disappearance Of Alissa Turney (2024)
+#EXTINF:-1 tvg-name="Family Secrets: The Disappearance Of Alissa Turney (2024)"tvg-id=""tvg-logo=""group-title="Movies2",Family Secrets: The Disappearance Of Alissa Turney (2024)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/419512.mp4
-#EXTINF:-1 ,For Prophet (2024)
+#EXTINF:-1 tvg-name="For Prophet (2024)"tvg-id=""tvg-logo=""group-title="Movies2",For Prophet (2024)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/419513.mp4
-#EXTINF:-1 ,Foreclosure 2 (2024)
+#EXTINF:-1 tvg-name="Foreclosure 2 (2024)"tvg-id=""tvg-logo=""group-title="Movies2",Foreclosure 2 (2024)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/419514.mp4
-#EXTINF:-1 ,Mormon Mom Gone Wrong: The Ruby Franke Story (2024)
+#EXTINF:-1 tvg-name="Mormon Mom Gone Wrong: The Ruby Franke Story (2024)"tvg-id=""tvg-logo=""group-title="Movies2",Mormon Mom Gone Wrong: The Ruby Franke Story (2024)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/419516.mp4
-#EXTINF:-1 ,Road Diary: Bruce Springsteen and The E Street Band (2024)
+#EXTINF:-1 tvg-name="Road Diary: Bruce Springsteen and The E Street Band (2024)"tvg-id=""tvg-logo=""group-title="Movies2",Road Diary: Bruce Springsteen and The E Street Band (2024)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/419517.mp4
-#EXTINF:-1 ,Stupid Games (2024)
+#EXTINF:-1 tvg-name="Stupid Games (2024)"tvg-id=""tvg-logo=""group-title="Movies2",Stupid Games (2024)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/419518.mp4
-#EXTINF:-1 ,The.5-Year.Christmas.Party.2024
+#EXTINF:-1 tvg-name="The.5-Year.Christmas.Party.2024"tvg-id=""tvg-logo=""group-title="Movies2",The.5-Year.Christmas.Party.2024
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/419519.mp4
-#EXTINF:-1 ,The Christmas Charade (2024)
+#EXTINF:-1 tvg-name="The Christmas Charade (2024)"tvg-id=""tvg-logo=""group-title="Movies2",The Christmas Charade (2024)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/419520.mp4
-#EXTINF:-1 ,Treasure Trackers (2024)
+#EXTINF:-1 tvg-name="Treasure Trackers (2024)"tvg-id=""tvg-logo=""group-title="Movies2",Treasure Trackers (2024)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/419522.mp4
-#EXTINF:-1 ,Frankenstein Theater: The Magic Sword (2024)
+#EXTINF:-1 tvg-name="Frankenstein Theater: The Magic Sword (2024)"tvg-id=""tvg-logo=""group-title="Movies2",Frankenstein Theater: The Magic Sword (2024)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/421375.mp4
-#EXTINF:-1 ,Martha (2024)
+#EXTINF:-1 tvg-name="Martha (2024)"tvg-id=""tvg-logo=""group-title="Movies2",Martha (2024)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/421376.mp4
-#EXTINF:-1 ,Time Cut (2024)
+#EXTINF:-1 tvg-name="Time Cut (2024)"tvg-id=""tvg-logo=""group-title="Movies2",Time Cut (2024)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/421377.mp4
-#EXTINF:-1 ,Sweat & Tears? (2023)
+#EXTINF:-1 tvg-name="Sweat & Tears? (2023)"tvg-id=""tvg-logo=""group-title="Movies2",Sweat & Tears? (2023)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/412319.mp4
-#EXTINF:-1 ,Hangdog (2023)
+#EXTINF:-1 tvg-name="Hangdog (2023)"tvg-id=""tvg-logo=""group-title="Movies2",Hangdog (2023)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/419515.mp4
-#EXTINF:-1 ,Thirst (2023)
+#EXTINF:-1 tvg-name="Thirst (2023)"tvg-id=""tvg-logo=""group-title="Movies2",Thirst (2023)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/419521.mp4
-#EXTINF:-1 ,Adventures of the Naked Umbrella (2023)
+#EXTINF:-1 tvg-name="Adventures of the Naked Umbrella (2023)"tvg-id=""tvg-logo=""group-title="Movies2",Adventures of the Naked Umbrella (2023)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/421374.mp4
-#EXTINF:-1 ,Girls' Night Out (2023)
+#EXTINF:-1 tvg-name="Girls' Night Out (2023)"tvg-id=""tvg-logo=""group-title="Movies2",Girls' Night Out (2023)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/459220.mp4
-#EXTINF:-1 ,Clash of the Titans (1981)
+#EXTINF:-1 tvg-name="Clash of the Titans (1981)"tvg-id=""tvg-logo=""group-title="Movies2",Clash of the Titans (1981)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/162873.mp4
-#EXTINF:-1 ,Class (1983)
+#EXTINF:-1 tvg-name="Class (1983)"tvg-id=""tvg-logo=""group-title="Movies2",Class (1983)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/162874.mp4
-#EXTINF:-1 ,Drifting Snow (2021)
+#EXTINF:-1 tvg-name="Drifting Snow (2021)"tvg-id=""tvg-logo=""group-title="Movies2",Drifting Snow (2021)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/163421.mp4
-#EXTINF:-1 ,Driven (2001)
+#EXTINF:-1 tvg-name="Driven (2001)"tvg-id=""tvg-logo=""group-title="Movies2",Driven (2001)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/163422.mp4
-#EXTINF:-1 ,Driven (2018)
+#EXTINF:-1 tvg-name="Driven (2018)"tvg-id=""tvg-logo=""group-title="Movies2",Driven (2018)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/163423.mp4
-#EXTINF:-1 ,Dumb and Dumberer: When Harry Met Lloyd (2003)
+#EXTINF:-1 tvg-name="Dumb and Dumberer: When Harry Met Lloyd (2003)"tvg-id=""tvg-logo=""group-title="Movies2",Dumb and Dumberer: When Harry Met Lloyd (2003)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/163434.mp4
-#EXTINF:-1 ,Easy Rider (1969)
+#EXTINF:-1 tvg-name="Easy Rider (1969)"tvg-id=""tvg-logo=""group-title="Movies2",Easy Rider (1969)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/163470.mp4
-#EXTINF:-1 ,Eat Pray Love (2010)
+#EXTINF:-1 tvg-name="Eat Pray Love (2010)"tvg-id=""tvg-logo=""group-title="Movies2",Eat Pray Love (2010)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/163471.mkv
-#EXTINF:-1 ,Freedom Fighters: The Ray (2018)
+#EXTINF:-1 tvg-name="Freedom Fighters: The Ray (2018)"tvg-id=""tvg-logo=""group-title="Movies2",Freedom Fighters: The Ray (2018)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/164186.mkv
-#EXTINF:-1 ,Freedom Writers (2007)
+#EXTINF:-1 tvg-name="Freedom Writers (2007)"tvg-id=""tvg-logo=""group-title="Movies2",Freedom Writers (2007)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/164187.mkv
-#EXTINF:-1 ,Freedomland (2006)
+#EXTINF:-1 tvg-name="Freedomland (2006)"tvg-id=""tvg-logo=""group-title="Movies2",Freedomland (2006)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/164188.mp4
-#EXTINF:-1 ,Freejack (1992)
+#EXTINF:-1 tvg-name="Freejack (1992)"tvg-id=""tvg-logo=""group-title="Movies2",Freejack (1992)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/164189.mp4
-#EXTINF:-1 ,Frida (2002)
+#EXTINF:-1 tvg-name="Frida (2002)"tvg-id=""tvg-logo=""group-title="Movies2",Frida (2002)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/164202.mkv
-#EXTINF:-1 ,Friday After Next (2002)
+#EXTINF:-1 tvg-name="Friday After Next (2002)"tvg-id=""tvg-logo=""group-title="Movies2",Friday After Next (2002)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/164203.mp4
-#EXTINF:-1 ,Grandma's Boy (2006)
+#EXTINF:-1 tvg-name="Grandma's Boy (2006)"tvg-id=""tvg-logo=""group-title="Movies2",Grandma's Boy (2006)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/164412.mkv
-#EXTINF:-1 ,Grandma (2015)
+#EXTINF:-1 tvg-name="Grandma (2015)"tvg-id=""tvg-logo=""group-title="Movies2",Grandma (2015)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/164413.mp4
-#EXTINF:-1 ,Alice in Wonderland (2010)
+#EXTINF:-1 tvg-name="Alice in Wonderland (2010)"tvg-id=""tvg-logo=""group-title="Movies2",Alice in Wonderland (2010)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/166729.mp4
-#EXTINF:-1 ,American Justice (2015)
+#EXTINF:-1 tvg-name="American Justice (2015)"tvg-id=""tvg-logo=""group-title="Movies2",American Justice (2015)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/166739.mp4
-#EXTINF:-1 ,American Ninja 4: The Annihilation (1990)
+#EXTINF:-1 tvg-name="American Ninja 4: The Annihilation (1990)"tvg-id=""tvg-logo=""group-title="Movies2",American Ninja 4: The Annihilation (1990)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/166740.mp4
-#EXTINF:-1 ,Americonned (2023)
+#EXTINF:-1 tvg-name="Americonned (2023)"tvg-id=""tvg-logo=""group-title="Movies2",Americonned (2023)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/166741.mp4
-#EXTINF:-1 ,Among Giants (1998)
+#EXTINF:-1 tvg-name="Among Giants (1998)"tvg-id=""tvg-logo=""group-title="Movies2",Among Giants (1998)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/166742.mp4
-#EXTINF:-1 ,Amour Fou (2014)
+#EXTINF:-1 tvg-name="Amour Fou (2014)"tvg-id=""tvg-logo=""group-title="Movies2",Amour Fou (2014)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/166743.mp4
-#EXTINF:-1 ,Snowmageddon (2011)
-https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/171459.mkv
-#EXTINF:-1 ,Snowpiercer (2013)
-https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/171460.mkv
-#EXTINF:-1 ,So Undercover (2012)
-https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/171461.mkv
-#EXTINF:-1 ,Soapdish (1991)
-https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/171462.mkv
-#EXTINF:-1 ,Solace (2015)
-https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/171463.mp4
-#EXTINF:-1 ,Solar Impact (2019)
-https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/171464.mp4
-#EXTINF:-1 ,Solaris (2002)
-https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/171465.mkv
-#EXTINF:-1 ,The Cat in the Hat Knows a Lot About Christmas! (2012)
-https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/172593.mkv
-#EXTINF:-1 ,The Cave (2005)
-https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/172594.mkv
-#EXTINF:-1 ,The Cave (2019)
-https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/172595.mkv
-#EXTINF:-1 ,The Chain (2019)
-https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/172596.mkv
-#EXTINF:-1 ,The Challenger (2013)
-https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/172597.mp4
-#EXTINF:-1 ,The Chase (1994)
-https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/172598.mp4
-#EXTINF:-1 ,The Cheerleader Murders (2016)
-https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/172599.mp4
-#EXTINF:-1 ,The Giant Claw (1957)
-https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/172770.mp4
-#EXTINF:-1 ,The Gift (2000)
-https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/172771.mkv
-#EXTINF:-1 ,The Gift (2015)
-https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/172772.mp4
-#EXTINF:-1 ,The Exorcism of Emily Rose (2005)
-https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/177088.mp4
-#EXTINF:-1 ,The Extraordinary Journey of the Fakir (2018)
-https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/177089.mp4
-#EXTINF:-1 ,The Factory (2012)
-https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/177090.mp4
-#EXTINF:-1 ,The First Girl I Loved (2021)
-https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/177091.mkv
-#EXTINF:-1 ,The Fluffy Movie (2014)
-https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/177092.mp4
-#EXTINF:-1 ,The Gods Must Be Crazy (1980)
-https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/177093.mp4
-#EXTINF:-1 ,The Good Neighbor (2022)
-https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/177094.mkv
-#EXTINF:-1 ,The Grass Is Greener (1960)
-https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/177095.mkv
-#EXTINF:-1 ,Bring Him Back Dead (2022)
+#EXTINF:-1 tvg-name="Bring Him Back Dead (2022)"tvg-id=""tvg-logo=""group-title="Movies2",Bring Him Back Dead (2022)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/178014.mkv
-#EXTINF:-1 ,Bruna Louise: Demolition (2022)
+#EXTINF:-1 tvg-name="Bruna Louise: Demolition (2022)"tvg-id=""tvg-logo=""group-title="Movies2",Bruna Louise: Demolition (2022)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/178015.mkv
-#EXTINF:-1 ,Buba (2022)
+#EXTINF:-1 tvg-name="Buba (2022)"tvg-id=""tvg-logo=""group-title="Movies2",Buba (2022)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/178016.mp4
-#EXTINF:-1 ,Bull (2020)
-https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/178017.mp4
-#EXTINF:-1 ,Bulldozer (2022)
+#EXTINF:-1 tvg-name="Bulldozer (2022)"tvg-id=""tvg-logo=""group-title="Movies2",Bulldozer (2022)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/178018.mp4
-#EXTINF:-1 ,Burden (2020)
+#EXTINF:-1 tvg-name="Burden (2020)"tvg-id=""tvg-logo=""group-title="Movies2",Burden (2020)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/178019.mp4
-#EXTINF:-1 ,Burden (2022)
+#EXTINF:-1 tvg-name="Burden (2022)"tvg-id=""tvg-logo=""group-title="Movies2",Burden (2022)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/178020.mp4
-#EXTINF:-1 ,By Day's End (2020)
-https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/178021.mkv
-#EXTINF:-1 ,Explorer: The Deepest Cave (2022)
+#EXTINF:-1 tvg-name="Explorer: The Deepest Cave (2022)"tvg-id=""tvg-logo=""group-title="Movies2",Explorer: The Deepest Cave (2022)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/178174.mp4
-#EXTINF:-1 ,Fall Girls (2019)
+#EXTINF:-1 tvg-name="Fall Girls (2019)"tvg-id=""tvg-logo=""group-title="Movies2",Fall Girls (2019)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/178175.mkv
-#EXTINF:-1 ,Family Camp (2022)
+#EXTINF:-1 tvg-name="Family Camp (2022)"tvg-id=""tvg-logo=""group-title="Movies2",Family Camp (2022)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/178176.mp4
-#EXTINF:-1 ,Famous and Fatal (2019)
+#EXTINF:-1 tvg-name="Famous and Fatal (2019)"tvg-id=""tvg-logo=""group-title="Movies2",Famous and Fatal (2019)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/178177.mkv
-#EXTINF:-1 ,Farmer Seeking Love (2022)
+#EXTINF:-1 tvg-name="Farmer Seeking Love (2022)"tvg-id=""tvg-logo=""group-title="Movies2",Farmer Seeking Love (2022)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/178178.mp4
-#EXTINF:-1 ,Fashionably Yours (2020)
+#EXTINF:-1 tvg-name="Fashionably Yours (2020)"tvg-id=""tvg-logo=""group-title="Movies2",Fashionably Yours (2020)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/178179.mp4
-#EXTINF:-1 ,Fat Fiction (2020)
+#EXTINF:-1 tvg-name="Fat Fiction (2020)"tvg-id=""tvg-logo=""group-title="Movies2",Fat Fiction (2020)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/178180.mp4
-#EXTINF:-1 ,Fatal Friend Request (2019)
+#EXTINF:-1 tvg-name="Fatal Friend Request (2019)"tvg-id=""tvg-logo=""group-title="Movies2",Fatal Friend Request (2019)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/178181.mp4
-#EXTINF:-1 ,Father of Flies (2021)
+#EXTINF:-1 tvg-name="Father of Flies (2021)"tvg-id=""tvg-logo=""group-title="Movies2",Father of Flies (2021)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/178182.mp4
-#EXTINF:-1 ,The Hunt For Planet B (2021)
+#EXTINF:-1 tvg-name="The Hunt For Planet B (2021)"tvg-id=""tvg-logo=""group-title="Movies2",The Hunt For Planet B (2021)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/180479.mp4
-#EXTINF:-1 ,The Image Book (2018)
-https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/180480.mp4
-#EXTINF:-1 ,The Isle (2019)
+#EXTINF:-1 tvg-name="The Isle (2019)"tvg-id=""tvg-logo=""group-title="Movies2",The Isle (2019)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/180481.mp4
-#EXTINF:-1 ,The J Team (2021)
+#EXTINF:-1 tvg-name="The J Team (2021)"tvg-id=""tvg-logo=""group-title="Movies2",The J Team (2021)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/180482.mp4
-#EXTINF:-1 ,The Judge of Harbor County (2021)
-https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/180483.mp4
-#EXTINF:-1 ,The Justice of Bunny King (2021)
+#EXTINF:-1 tvg-name="The Justice of Bunny King (2021)"tvg-id=""tvg-logo=""group-title="Movies2",The Justice of Bunny King (2021)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/180484.mkv
-#EXTINF:-1 ,The Killer in My Backyard (2021)
-https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/180485.mp4
-#EXTINF:-1 ,The Last House on the Street (2021)
+#EXTINF:-1 tvg-name="The Last House on the Street (2021)"tvg-id=""tvg-logo=""group-title="Movies2",The Last House on the Street (2021)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/180486.mkv
-#EXTINF:-1 ,The Last Rite (2021)
-https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/180487.mp4
-#EXTINF:-1 ,The Last Tree (2019)
+#EXTINF:-1 tvg-name="The Last Tree (2019)"tvg-id=""tvg-logo=""group-title="Movies2",The Last Tree (2019)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/180488.mkv
-#EXTINF:-1 ,The Last Whistle (2019)
+#EXTINF:-1 tvg-name="The Last Whistle (2019)"tvg-id=""tvg-logo=""group-title="Movies2",The Last Whistle (2019)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/180489.mp4
-#EXTINF:-1 ,The League of Legend Keepers: Shadows (2019)
+#EXTINF:-1 tvg-name="The League of Legend Keepers: Shadows (2019)"tvg-id=""tvg-logo=""group-title="Movies2",The League of Legend Keepers: Shadows (2019)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/180490.mp4
-#EXTINF:-1 ,The Little Guy (2022)
+#EXTINF:-1 tvg-name="The Little Guy (2022)"tvg-id=""tvg-logo=""group-title="Movies2",The Little Guy (2022)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/180491.mp4
-#EXTINF:-1 ,The Long Island Serial Killer: A Mother's Hunt for Justice (2021)
-https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/180492.mkv
-#EXTINF:-1 ,The Lost Leonardo (2021)
-https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/180493.mkv
-#EXTINF:-1 ,Turtle Odyssey (2018)
-https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/180574.mkv
-#EXTINF:-1 ,Mouthpiece (2019)
-https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/182723.mp4
-#EXTINF:-1 ,Nicholas Nickleby (2002)
-https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/182742.mp4
-#EXTINF:-1 ,Night Sweats (2019)
-https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/182743.mp4
-#EXTINF:-1 ,Nightmare Cinema (2018)
-https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/182744.mp4
-#EXTINF:-1 ,Nikki Glaser: Bangin' (2019)
+#EXTINF:-1 tvg-name="Nikki Glaser: Bangin' (2019)"tvg-id=""tvg-logo=""group-title="Movies2",Nikki Glaser: Bangin' (2019)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/182745.mp4
-#EXTINF:-1 ,Nine (2009)
+#EXTINF:-1 tvg-name="Nine (2009)"tvg-id=""tvg-logo=""group-title="Movies2",Nine (2009)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/182746.mkv
-#EXTINF:-1 ,No No: A Dockumentary (2014)
+#EXTINF:-1 tvg-name="No No: A Dockumentary (2014)"tvg-id=""tvg-logo=""group-title="Movies2",No No: A Dockumentary (2014)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/182747.mp4
-#EXTINF:-1 ,Pussy Riot: A Punk Prayer (2013)
+#EXTINF:-1 tvg-name="Pussy Riot: A Punk Prayer (2013)"tvg-id=""tvg-logo=""group-title="Movies2",Pussy Riot: A Punk Prayer (2013)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/182782.mp4
-#EXTINF:-1 ,Rain Man (1988)
+#EXTINF:-1 tvg-name="Rain Man (1988)"tvg-id=""tvg-logo=""group-title="Movies2",Rain Man (1988)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/182783.mkv
-#EXTINF:-1 ,Rambo: First Blood Part II (1985)
-https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/182784.mkv
-#EXTINF:-1 ,Rat Park (2019)
+#EXTINF:-1 tvg-name="Rat Park (2019)"tvg-id=""tvg-logo=""group-title="Movies2",Rat Park (2019)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/182785.mp4
-#EXTINF:-1 ,Ravenous (1999)
+#EXTINF:-1 tvg-name="Ravenous (1999)"tvg-id=""tvg-logo=""group-title="Movies2",Ravenous (1999)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/182786.mp4
-#EXTINF:-1 ,Raymond & Ray (2022)
+#EXTINF:-1 tvg-name="Raymond & Ray (2022)"tvg-id=""tvg-logo=""group-title="Movies2",Raymond & Ray (2022)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/182787.mp4
-#EXTINF:-1 ,Responsible Child (2019)
+#EXTINF:-1 tvg-name="Responsible Child (2019)"tvg-id=""tvg-logo=""group-title="Movies2",Responsible Child (2019)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/182795.mkv
-#EXTINF:-1 ,Return to Horror Hotel (2019)
+#EXTINF:-1 tvg-name="Return to Horror Hotel (2019)"tvg-id=""tvg-logo=""group-title="Movies2",Return to Horror Hotel (2019)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/182796.mp4
-#EXTINF:-1 ,Return to House on Haunted Hill (2007)
+#EXTINF:-1 tvg-name="Return to House on Haunted Hill (2007)"tvg-id=""tvg-logo=""group-title="Movies2",Return to House on Haunted Hill (2007)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/182797.mp4
-#EXTINF:-1 ,Soldier's Girl (2003)
+#EXTINF:-1 tvg-name="Soldier's Girl (2003)"tvg-id=""tvg-logo=""group-title="Movies2",Soldier's Girl (2003)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/182839.mp4
-#EXTINF:-1 ,Some Like It Hot (1959)
+#EXTINF:-1 tvg-name="Some Like It Hot (1959)"tvg-id=""tvg-logo=""group-title="Movies2",Some Like It Hot (1959)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/182840.mp4
-#EXTINF:-1 ,Sometimes in April (2005)
+#EXTINF:-1 tvg-name="Sometimes in April (2005)"tvg-id=""tvg-logo=""group-title="Movies2",Sometimes in April (2005)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/182841.mp4
-#EXTINF:-1 ,The Deadly Bees (1966)
+#EXTINF:-1 tvg-name="The Deadly Bees (1966)"tvg-id=""tvg-logo=""group-title="Movies2",The Deadly Bees (1966)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/189907.mkv
-#EXTINF:-1 ,The Desperadoes (1943)
+#EXTINF:-1 tvg-name="The Desperadoes (1943)"tvg-id=""tvg-logo=""group-title="Movies2",The Desperadoes (1943)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/189908.mkv
-#EXTINF:-1 ,The Devil at 4 O'Clock (1961)
+#EXTINF:-1 tvg-name="The Devil at 4 O'Clock (1961)"tvg-id=""tvg-logo=""group-title="Movies2",The Devil at 4 O'Clock (1961)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/189909.mkv
-#EXTINF:-1 ,The Dinosaur Project (2012)
+#EXTINF:-1 tvg-name="The Dinosaur Project (2012)"tvg-id=""tvg-logo=""group-title="Movies2",The Dinosaur Project (2012)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/189910.mkv
-#EXTINF:-1 ,The Dirty Dozen: The Deadly Mission (1987)
+#EXTINF:-1 tvg-name="The Dirty Dozen: The Deadly Mission (1987)"tvg-id=""tvg-logo=""group-title="Movies2",The Dirty Dozen: The Deadly Mission (1987)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/189911.mkv
-#EXTINF:-1 ,The Dream Is Alive (1985)
+#EXTINF:-1 tvg-name="The Dream Is Alive (1985)"tvg-id=""tvg-logo=""group-title="Movies2",The Dream Is Alive (1985)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/189912.mkv
-#EXTINF:-1 ,The Employer (2013)
+#EXTINF:-1 tvg-name="The Employer (2013)"tvg-id=""tvg-logo=""group-title="Movies2",The Employer (2013)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/189916.mp4
-#EXTINF:-1 ,The Enemy Below (1957)
+#EXTINF:-1 tvg-name="The Enemy Below (1957)"tvg-id=""tvg-logo=""group-title="Movies2",The Enemy Below (1957)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/189917.mkv
-#EXTINF:-1 ,The Exterminator (1980)
+#EXTINF:-1 tvg-name="The Exterminator (1980)"tvg-id=""tvg-logo=""group-title="Movies2",The Exterminator (1980)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/189918.mp4
-#EXTINF:-1 ,The Fat Spy (1966)
+#EXTINF:-1 tvg-name="The Fat Spy (1966)"tvg-id=""tvg-logo=""group-title="Movies2",The Fat Spy (1966)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/189919.mkv
-#EXTINF:-1 ,The Flame of New Orleans (1941)
-https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/189920.mp4
-#EXTINF:-1 ,The Flanagan Boy (1953)
-https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/189921.mp4
-#EXTINF:-1 ,The Flesh and the Fiends (1960)
-https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/189922.mkv
-#EXTINF:-1 ,The Flock (2007)
+#EXTINF:-1 tvg-name="The Flock (2007)"tvg-id=""tvg-logo=""group-title="Movies2",The Flock (2007)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/189923.mp4
-#EXTINF:-1 ,The Gamma People (1956)
+#EXTINF:-1 tvg-name="The Gamma People (1956)"tvg-id=""tvg-logo=""group-title="Movies2",The Gamma People (1956)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/189926.mp4
-#EXTINF:-1 ,The Gathering Storm (2002)
+#EXTINF:-1 tvg-name="The Gathering Storm (2002)"tvg-id=""tvg-logo=""group-title="Movies2",The Gathering Storm (2002)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/189927.mp4
-#EXTINF:-1 ,The Gauntlet (2013)
+#EXTINF:-1 tvg-name="The Gauntlet (2013)"tvg-id=""tvg-logo=""group-title="Movies2",The Gauntlet (2013)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/189928.mkv
-#EXTINF:-1 ,The General (1998)
+#EXTINF:-1 tvg-name="The General (1998)"tvg-id=""tvg-logo=""group-title="Movies2",The General (1998)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/189929.mkv
-#EXTINF:-1 ,The Ghost and Mrs. Muir (1947)
+#EXTINF:-1 tvg-name="The Ghost and Mrs. Muir (1947)"tvg-id=""tvg-logo=""group-title="Movies2",The Ghost and Mrs. Muir (1947)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/189930.mkv
-#EXTINF:-1 ,The Ghost Goes West (1935)
+#EXTINF:-1 tvg-name="The Ghost Goes West (1935)"tvg-id=""tvg-logo=""group-title="Movies2",The Ghost Goes West (1935)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/189931.mkv
-#EXTINF:-1 ,The Lair (2022)
+#EXTINF:-1 tvg-name="The Lair (2022)"tvg-id=""tvg-logo=""group-title="Movies2",The Lair (2022)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/189952.mkv
-#EXTINF:-1 ,The Last Blitzkrieg (1959)
+#EXTINF:-1 tvg-name="The Last Blitzkrieg (1959)"tvg-id=""tvg-logo=""group-title="Movies2",The Last Blitzkrieg (1959)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/189953.mp4
-#EXTINF:-1 ,The Last Flight of Noah's Ark (1980)
+#EXTINF:-1 tvg-name="The Last Flight of Noah's Ark (1980)"tvg-id=""tvg-logo=""group-title="Movies2",The Last Flight of Noah's Ark (1980)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/189954.mkv
-#EXTINF:-1 ,The Last Frontier (1955)
+#EXTINF:-1 tvg-name="The Last Frontier (1955)"tvg-id=""tvg-logo=""group-title="Movies2",The Last Frontier (1955)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/189955.mkv
-#EXTINF:-1 ,The Last Hunt (1956)
+#EXTINF:-1 tvg-name="The Last Hunt (1956)"tvg-id=""tvg-logo=""group-title="Movies2",The Last Hunt (1956)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/189956.mkv
-#EXTINF:-1 ,The Lottery (2010)
+#EXTINF:-1 tvg-name="The Lottery (2010)"tvg-id=""tvg-logo=""group-title="Movies2",The Lottery (2010)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/189968.avi
-#EXTINF:-1 ,The Love Box in Your Living Room (2022)
+#EXTINF:-1 tvg-name="The Love Box in Your Living Room (2022)"tvg-id=""tvg-logo=""group-title="Movies2",The Love Box in Your Living Room (2022)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/189969.mkv
-#EXTINF:-1 ,The Mad Miss Manton (1938)
+#EXTINF:-1 tvg-name="The Mad Miss Manton (1938)"tvg-id=""tvg-logo=""group-title="Movies2",The Mad Miss Manton (1938)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/189970.mp4
-#EXTINF:-1 ,The Male Animal (1942)
-https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/189971.mkv
-#EXTINF:-1 ,The Maltese Falcon (1931)
-https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/189972.mkv
-#EXTINF:-1 ,The Man Who Shook the Hand of Vicente Fernandez (2012)
-https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/189973.mp4
-#EXTINF:-1 ,The Moderns (1988)
-https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/189974.mkv
-#EXTINF:-1 ,The Moon and Sixpence (1942)
-https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/189975.mkv
-#EXTINF:-1 ,The Muse (1999)
-https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/189976.mp4
-#EXTINF:-1 ,The Musketeer (2001)
-https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/189977.mkv
-#EXTINF:-1 ,Ambush at Cimarron Pass (1958)
-https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/192136.mkv
-#EXTINF:-1 ,American Friends (1991)
-https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/192137.mkv
-#EXTINF:-1 ,American Virgin (2009)
-https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/192138.mp4
-#EXTINF:-1 ,American Warships (2012)
-https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/192139.mkv
-#EXTINF:-1 ,Amerikana (2001)
-https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/192140.mp4
-#EXTINF:-1 ,Amigo (2010)
-https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/192141.mp4
-#EXTINF:-1 ,Amusement (2008)
-https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/192142.mkv
-#EXTINF:-1 ,An American Terror (2013)
-https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/192143.mkv
-#EXTINF:-1 ,X-Men Origins: Wolverine (2009)
+#EXTINF:-1 tvg-name="X-Men Origins: Wolverine (2009)"tvg-id=""tvg-logo=""group-title="Movies2",X-Men Origins: Wolverine (2009)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/337128.mp4
-#EXTINF:-1 ,X-Men: The Last Stand (2006)
+#EXTINF:-1 tvg-name="X-Men: The Last Stand (2006)"tvg-id=""tvg-logo=""group-title="Movies2",X-Men: The Last Stand (2006)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/337129.mkv
-#EXTINF:-1 ,Eng]
+#EXTINF:-1 tvg-name="Eng]"tvg-id=""tvg-logo=""group-title="Movies2",Eng]
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/161374.mkv
-#EXTINF:-1 ,Are You Ok Baby? (2023)
+#EXTINF:-1 tvg-name="Are You Ok Baby? (2023)"tvg-id=""tvg-logo=""group-title="Movies2",Are You Ok Baby? (2023)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/258471.mkv
-#EXTINF:-1 ,Krishna Gadu Ante Oka Range (2023)
+#EXTINF:-1 tvg-name="Krishna Gadu Ante Oka Range (2023)"tvg-id=""tvg-logo=""group-title="Movies2",Krishna Gadu Ante Oka Range (2023)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/258472.mkv
-#EXTINF:-1 ,Pushpa 2 - The Rule (2024)(HD)(Hindi)
+#EXTINF:-1 tvg-name="Pushpa 2 - The Rule (2024)(HD)(Hindi)"tvg-id=""tvg-logo=""group-title="Movies2",Pushpa 2 - The Rule (2024)(HD)(Hindi)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/451077.mkv
-#EXTINF:-1 ,Qalb (2024)  (Hindi)
+#EXTINF:-1 tvg-name="Qalb (2024)  (Hindi)"tvg-id=""tvg-logo=""group-title="Movies2",Qalb (2024)  (Hindi)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/457355.mp4
-#EXTINF:-1 ,Lonely Planet (2024) (Tamil)
+#EXTINF:-1 tvg-name="Lonely Planet (2024) (Tamil)"tvg-id=""tvg-logo=""group-title="Movies2",Lonely Planet (2024) (Tamil)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/411127.mp4
-#EXTINF:-1 ,#MenToo  (2023)
+#EXTINF:-1 tvg-name="#MenToo  (2023)"tvg-id=""tvg-logo=""group-title="Movies2",#MenToo  (2023)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/161373.mkv
-#EXTINF:-1 ,Vaanam (2011) (Tamil)
+#EXTINF:-1 tvg-name="Vaanam (2011) (Tamil)"tvg-id=""tvg-logo=""group-title="Movies2",Vaanam (2011) (Tamil)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/455426.mp4
-#EXTINF:-1 ,Kurukku (2024)
-https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/432655.mkv
-#EXTINF:-1 ,Visudha Mejo (2022)
+#EXTINF:-1 tvg-name="Visudha Mejo (2022)"tvg-id=""tvg-logo=""group-title="Movies2",Visudha Mejo (2022)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/187583.mkv
-#EXTINF:-1 ,Roy
+#EXTINF:-1 tvg-name="Roy"tvg-id=""tvg-logo=""group-title="Movies2",Roy
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/462683.mkv
-#EXTINF:-1 ,Grrr.. (2024) (Telugu)
+#EXTINF:-1 tvg-name="Grrr.. (2024) (Telugu)"tvg-id=""tvg-logo=""group-title="Movies2",Grrr.. (2024) (Telugu)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/383758.mp4
-#EXTINF:-1 ,Roti Kapda Romance (2024) (Telugu)
+#EXTINF:-1 tvg-name="Roti Kapda Romance (2024) (Telugu)"tvg-id=""tvg-logo=""group-title="Movies2",Roti Kapda Romance (2024) (Telugu)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/437471.mp4
-#EXTINF:-1 ,100 Crores (2024) (Telugu)
+#EXTINF:-1 tvg-name="100 Crores (2024) (Telugu)"tvg-id=""tvg-logo=""group-title="Movies2",100 Crores (2024) (Telugu)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/459263.mp4
-#EXTINF:-1 ,The Hunger Games: The Ballad of Songbirds & Snakes (2023) (TELUGU)
+#EXTINF:-1 tvg-name="The Hunger Games: The Ballad of Songbirds & Snakes (2023) (TELUGU)"tvg-id=""tvg-logo=""group-title="Movies2",The Hunger Games: The Ballad of Songbirds & Snakes (2023) (TELUGU)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/376812.mp4
-#EXTINF:-1 ,Kalki 2898-AD (2024) (Kannada)
+#EXTINF:-1 tvg-name="Kalki 2898-AD (2024) (Kannada)"tvg-id=""tvg-logo=""group-title="Movies2",Kalki 2898-AD (2024) (Kannada)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/384209.mp4
-#EXTINF:-1 ,Çiftliğimin Hanımı (2024) (Turkish)
+#EXTINF:-1 tvg-name="Çiftliğimin Hanımı (2024) (Turkish)"tvg-id=""tvg-logo=""group-title="Movies2",Çiftliğimin Hanımı (2024) (Turkish)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/391786.mp4
-#EXTINF:-1 ,Güneşi Söndürmem Gerek (2024) (Turkish)
+#EXTINF:-1 tvg-name="Güneşi Söndürmem Gerek (2024) (Turkish)"tvg-id=""tvg-logo=""group-title="Movies2",Güneşi Söndürmem Gerek (2024) (Turkish)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/391787.mp4
-#EXTINF:-1 ,Gunner (2024) (Turkish)
+#EXTINF:-1 tvg-name="Gunner (2024) (Turkish)"tvg-id=""tvg-logo=""group-title="Movies2",Gunner (2024) (Turkish)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/391788.mp4
-#EXTINF:-1 ,Kinds of Kindness (2024) (Turkish)
+#EXTINF:-1 tvg-name="Kinds of Kindness (2024) (Turkish)"tvg-id=""tvg-logo=""group-title="Movies2",Kinds of Kindness (2024) (Turkish)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/391789.mp4
-#EXTINF:-1 ,The Deliverance (2024) (Turkish)
+#EXTINF:-1 tvg-name="The Deliverance (2024) (Turkish)"tvg-id=""tvg-logo=""group-title="Movies2",The Deliverance (2024) (Turkish)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/391790.mp4
-#EXTINF:-1 ,(Un)lucky Sisters (2024) (Turkish)
+#EXTINF:-1 tvg-name="(Un)lucky Sisters (2024) (Turkish)"tvg-id=""tvg-logo=""group-title="Movies2",(Un)lucky Sisters (2024) (Turkish)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/391791.mp4
-#EXTINF:-1 ,But (2022) (Turkish)
+#EXTINF:-1 tvg-name="But (2022) (Turkish)"tvg-id=""tvg-logo=""group-title="Movies2",But (2022) (Turkish)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/391785.mp4
-#EXTINF:-1 ,WWE Elimination Chamber 2024 (2024)
+#EXTINF:-1 tvg-name="WWE Elimination Chamber 2024 (2024)"tvg-id=""tvg-logo=""group-title="Movies2",WWE Elimination Chamber 2024 (2024)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/290826.mp4
-#EXTINF:-1 ,UFC 309: Jones vs. Miocic (2024)
+#EXTINF:-1 tvg-name="UFC 309: Jones vs. Miocic (2024)"tvg-id=""tvg-logo=""group-title="Movies2",UFC 309: Jones vs. Miocic (2024)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/462689.mp4
-#EXTINF:-1 ,UFC 310: Pantoja vs. Asakura (2024)
+#EXTINF:-1 tvg-name="UFC 310: Pantoja vs. Asakura (2024)"tvg-id=""tvg-logo=""group-title="Movies2",UFC 310: Pantoja vs. Asakura (2024)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/462690.mp4
-#EXTINF:-1 ,Thandel (2025) (Tamil)
+#EXTINF:-1 tvg-name="Thandel (2025) (Tamil)"tvg-id=""tvg-logo=""group-title="Movies2",Thandel (2025) (Tamil)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/474567.mp4
-#EXTINF:-1 ,The Banker (2020)
+#EXTINF:-1 tvg-name="The Banker (2020)"tvg-id=""tvg-logo=""group-title="Movies2",The Banker (2020)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/490565.mp4
-#EXTINF:-1 ,Emagadhagan (2024) (Tamil)
+#EXTINF:-1 tvg-name="Emagadhagan (2024) (Tamil)"tvg-id=""tvg-logo=""group-title="Movies2",Emagadhagan (2024) (Tamil)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/506652.mp4
-#EXTINF:-1 ,F Marry Kill (2025) (Telugu)
+#EXTINF:-1 tvg-name="F Marry Kill (2025) (Telugu)"tvg-id=""tvg-logo=""group-title="Movies2",F Marry Kill (2025) (Telugu)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/506726.mp4
-#EXTINF:-1 ,Bruised (2023)
+#EXTINF:-1 tvg-name="Bruised (2023)"tvg-id=""tvg-logo=""group-title="Movies2",Bruised (2023)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/511936.mp4
-#EXTINF:-1 ,The Bunker (2024)
+#EXTINF:-1 tvg-name="The Bunker (2024)"tvg-id=""tvg-logo=""group-title="Movies2",The Bunker (2024)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/513355.mp4
-#EXTINF:-1 ,Family Camp (2022) (Tamil)
+#EXTINF:-1 tvg-name="Family Camp (2022) (Tamil)"tvg-id=""tvg-logo=""group-title="Movies2",Family Camp (2022) (Tamil)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/515204.mp4
-#EXTINF:-1 ,The Odyssey of Destiny (2014) (Tamil)
+#EXTINF:-1 tvg-name="The Odyssey of Destiny (2014) (Tamil)"tvg-id=""tvg-logo=""group-title="Movies2",The Odyssey of Destiny (2014) (Tamil)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/515213.mp4
-#EXTINF:-1 ,Eakam (2021) (Tamil)
+#EXTINF:-1 tvg-name="Eakam (2021) (Tamil)"tvg-id=""tvg-logo=""group-title="Movies2",Eakam (2021) (Tamil)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/515734.mp4
-#EXTINF:-1 ,Pangolin: Kulu's Journey (2025) (Turkish)
+#EXTINF:-1 tvg-name="Pangolin: Kulu's Journey (2025) (Turkish)"tvg-id=""tvg-logo=""group-title="Movies2",Pangolin: Kulu's Journey (2025) (Turkish)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/515835.mp4
-#EXTINF:-1 ,Sound of Silence (2023) (Turkish)
+#EXTINF:-1 tvg-name="Sound of Silence (2023) (Turkish)"tvg-id=""tvg-logo=""group-title="Movies2",Sound of Silence (2023) (Turkish)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/515844.mp4
-#EXTINF:-1 ,Havoc (2025) (Telugu)
+#EXTINF:-1 tvg-name="Havoc (2025) (Telugu)"tvg-id=""tvg-logo=""group-title="Movies2",Havoc (2025) (Telugu)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/517649.mp4
-#EXTINF:-1 ,Vair (2025) (Punjabi)
+#EXTINF:-1 tvg-name="Vair (2025) (Punjabi)"tvg-id=""tvg-logo=""group-title="Movies2",Vair (2025) (Punjabi)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/520077.mp4
-#EXTINF:-1 ,Chal Mera Putt 2 (2020)(HD)
+#EXTINF:-1 tvg-name="Chal Mera Putt 2 (2020)(HD)"tvg-id=""tvg-logo=""group-title="Movies2",Chal Mera Putt 2 (2020)(HD)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/520683.mkv
-#EXTINF:-1 ,The Assessment (2025) (Turkish)
+#EXTINF:-1 tvg-name="The Assessment (2025) (Turkish)"tvg-id=""tvg-logo=""group-title="Movies2",The Assessment (2025) (Turkish)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/525222.mp4
-#EXTINF:-1 ,Bajirao Mastani (2015)(4k)(Hindi)
+#EXTINF:-1 tvg-name="Bajirao Mastani (2015)(4k)(Hindi)"tvg-id=""tvg-logo=""group-title="Movies2",Bajirao Mastani (2015)(4k)(Hindi)
 https://dhoomtv.xyz:443/movie/8zpo3GsVY7/beneficial2concern/532435.mkv
-#EXTINF:-1 ,Rugby Pass
+#EXTINF:-1 tvg-name="Rugby Pass"tvg-id=""tvg-logo=""group-title="Movies2",Rugby Pass
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/143132.ts
-#EXTINF:-1 ,SKY SPORTS 1
+#EXTINF:-1 tvg-name="SKY SPORTS 1"tvg-id=""tvg-logo=""group-title="Movies2",SKY SPORTS 1
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/514389.ts
-#EXTINF:-1 ,Tata Play Javed Akhtar
+#EXTINF:-1 tvg-name="Tata Play Javed Akhtar"tvg-id=""tvg-logo=""group-title="Movies2",Tata Play Javed Akhtar
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/3751.ts
-#EXTINF:-1 ,Tata Play Romance
+#EXTINF:-1 tvg-name="Tata Play Romance"tvg-id=""tvg-logo=""group-title="Movies2",Tata Play Romance
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/44219.ts
-#EXTINF:-1 ,Tata Play Seniors
+#EXTINF:-1 tvg-name="Tata Play Seniors"tvg-id=""tvg-logo=""group-title="Movies2",Tata Play Seniors
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/52493.ts
-#EXTINF:-1 ,Toons + Punjabi
+#EXTINF:-1 tvg-name="Toons + Punjabi"tvg-id=""tvg-logo=""group-title="Movies2",Toons + Punjabi
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/108873.ts
-#EXTINF:-1 ,Telugu Classics
+#EXTINF:-1 tvg-name="Telugu Classics"tvg-id=""tvg-logo=""group-title="Movies2",Telugu Classics
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/108875.ts
-#EXTINF:-1 ,Tata Play Hollywood Local
+#EXTINF:-1 tvg-name="Tata Play Hollywood Local"tvg-id=""tvg-logo=""group-title="Movies2",Tata Play Hollywood Local
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/108876.ts
-#EXTINF:-1 ,Tata Play Hits
+#EXTINF:-1 tvg-name="Tata Play Hits"tvg-id=""tvg-logo=""group-title="Movies2",Tata Play Hits
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/108881.ts
-#EXTINF:-1 ,Tata Play Fun Learn Junior
+#EXTINF:-1 tvg-name="Tata Play Fun Learn Junior"tvg-id=""tvg-logo=""group-title="Movies2",Tata Play Fun Learn Junior
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/467712.ts
-#EXTINF:-1 ,BD: MOVIE BANGLA
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/510520.ts
-#EXTINF:-1 ,UFC PPV
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/9892.ts
-#EXTINF:-1 ,UK FHD : TNT Box Office
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/41237.ts
-#EXTINF:-1 ,RO: TVR 3
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/210928.ts
-#EXTINF:-1 ,RO: ANTENA 1
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/210929.ts
-#EXTINF:-1 ,RO: ANTENA 3
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/210930.ts
-#EXTINF:-1 ,RO: ANTENA STARS
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/210931.ts
-
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="",
 
