@@ -24,7 +24,7 @@ https://hlspackager.akamaized.net/live/DB/MED_MUSIC/HLS/MED_MUSIC.m3u8
 #EXTINF:-1 tvg-name="Welat TV (1080i)"tvg-id="WelatTV.sy@HD"tvg-logo="https://avatars.githubusercontent.com/u/213803648?s=400&u=e27c09d39f813b9698de9c6559cbf7f196bf6fce&v=4"group-title="Kurd",Welat TV (1080i)
 http://stream.welattv.net:1935/welat/tv/.m3u8
 #EXTINF:-1 tvg-name="Rudaw TV (1080p)"tvg-id="RudawTV.iq"tvg-logo="https://i.imgur.com/Zo3IWOn.png"group-title="Kurd",Rudaw TV (1080p)
-https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
+https://live.rudaw.net/hls/rudaw-tv/stream_1080p.m3u8
 #EXTINF:-1 tvg-name="WAR TV (1080p)"tvg-id="Wartv.ae"tvg-logo=""group-title="Kurd",WAR TV (1080p)
 https://hlspackager.akamaized.net/live/DB/WAAR_HD/HLS/WAAR_HD.m3u8
 #EXTINF:-1 tvg-name="Shams TV"tvg-id="Shams TV"tvg-logo="https://www.lyngsat.com/logo/tv/ss/shams-tv-iq.svg "group-title="Kurd",shams TV
@@ -35,7 +35,9 @@ https://livetv.canbroadcast.com:7443/canlican/tv.m3u8
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 #EXTINF:-1 tvg-name="TELE 1 4K"tvg-id="TELE 1 4K"tvg-logo="https://i.postimg.cc/ZY7bcVmn/tele1.png"group-title="Kurd",TELE 1 4K
 https://tele1-live.ercdn.net/tele1/tele1_1080p.m3u8
-#EXTINF:-1 tvg-name="Ilke TV (1080p)"tvg-id="IlkeTV.tr"tvg-logo="https://ilketv.com.tr/wp-content/uploads/2024/06/logo.png"group-title="Kurd",
+#EXTINF:-1 tvg-name="Ilke TV (1080p)"tvg-id="IlkeTV.tr"tvg-logo="https://ilketv.com.tr/wp-content/uploads/2024/06/logo.png"group-title="Kurd", ilke 4k
+https://stream.ilketv.com.tr/hls/ilkecanli.m3u8
+#EXTINF:-1 tvg-name="Ilke TV (1080p)"tvg-id="IlkeTV.tr"tvg-logo="https://ilketv.com.tr/wp-content/uploads/2024/06/logo.png"group-title="Kurd", ilke 4k
 https://stream.ilketv.com.tr/hls/ilkecanli.m3u8
 #EXTINF:-1 tvg-name="Afarin Baxcha (1080p)"tvg-id="AfarinBaxcha.iq"tvg-logo="https://afarin.tv/images/baxcha.png"group-title="Kurd",Afarin Baxcha (1080p)
 https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8
