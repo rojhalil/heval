@@ -14,7 +14,7 @@ https://hlspackager.akamaized.net/live/DB/ROJAVA_HD/HLS/ROJAVA_HD.m3u8
 #EXTINF:-1 tvg-name="Al Yaum TV (1080p)"tvg-id="AlYaumTV.ae"tvg-logo="https://i.imgur.com/rBixF3P.png"group-title="Kurd",Al Yaum TV (1080p)
 https://hlspackager.akamaized.net/live/DB/ALYAUM_TV/HLS/ALYAUM_TV.m3u8
 #EXTINF:-1 tvg-name="Channel 8 Kurdish (720p)"tvg-id="Channel8.iq"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Channel8corp.png/480px-Channel8corp.png"group-title="Kurd",Channel 8 Kurdish (720p)
-https://live.channel8.com/Channel8-Kurdish/tracks-v4/index.fmp4.m3u8
+https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8
 #EXTINF:-1 tvg-name="Cira TV"tvg-id="CiraTV.de"tvg-logo="https://i.imgur.com/YFnmSLW.png"group-title="Kurd",Cira TV
 https://hlspackager.akamaized.net/live/DB/CIRA_TV/HLS/CIRA_TV.m3u8
 #EXTINF:-1 tvg-name="Jin TV"tvg-id="JinTV.nl"tvg-logo="https://i.imgur.com/37ajg2j.png"group-title="Kurd",Jin TV
