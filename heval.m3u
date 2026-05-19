@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="NUCETV (1080p) [Not 24/7]"tvg-id="NUCETV.NET"tvg-logo="https://nucetv.net/uploads/logo/favicon_67fe505d981ad9-47410730.png"group-title="Kurd",Nûçe TV (1080p) [Not 24/7]
 https://hlspackager.akamaized.net/live/DB/NU_TV/HLS/NU_TV.m3u8
+#EXTINF:-1 tvg-name="Zagros24 (1080p) [Not 24/7]"tvg-id="Zagros24.NET"tvg-logo="https://zagros24.net/wp-content/uploads/2026/04/1111.png"group-title="Kurd",zagros24 TV (1080p) [Not 24/7]
+https://hlspackager.akamaized.net/live/DB/ZAGROS_24/HLS/ZAGROS_24.m3u8?hdnea=exp=1779198339~acl=/~hmac=f337261046e011ba454dc2355d6411e535e030951f5fd563dfcb153a2bd6af89
 #EXTINF:-1 tvg-name="Sterk TV"tvg-id="SterkTV.be@SD"tvg-logo="https://i.imgur.com/bIheNAI.png"group-title="Kurd",Sterk TV
 https://zindi.sterk.tv/live/sterk.m3u8
 #EXTINF:-1 tvg-name="Ronahi TV (1080p)"tvg-id="RonahiTV.sy"tvg-logo="https://i.imgur.com/JSvJpD8.png"group-title="Kurd",Ronahi TV (1080p)
