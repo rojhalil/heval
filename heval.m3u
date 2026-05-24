@@ -27,7 +27,9 @@ http://54.36.110.140/live3/live3.m3u8
 https://hlspackager.akamaized.net/live/DB/MED_MUSIC/HLS/MED_MUSIC.m3u8
 #EXTINF:-1 tvg-name="Rudaw TV (1080p)"tvg-id="RudawTV.iq"tvg-logo="https://i.imgur.com/Zo3IWOn.png"group-title="Kurd",Rudaw TV (1080p)
 https://live.rudaw.net/hls/rudaw-tv/master.m3u8
-#EXTINF:-1 tvg-name="GeleKurdistanTV"tvg-id="gksat.tv"tvg-logo="https://www.gksat.tv/images/logo.png"group-title="Kurd"GeleKurdistan (1080p)
+#EXTINF:-1 tvg-name="Kurdsat News (1080p)"tvg-id="KurdsatNews.iq"tvg-logo="https://i.imgur.com/F3XRwkt.png"group-title="Kurd",Kurdsat News (1080p)
+https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
+#EXTINF:-1 tvg-name="GeleKurdistanTV"group-title="Kurd" ,GeleKurdistan (1080p)
 https://live.host247.net/gk/gksat/chunklist_w1377661411.m3u8
 #EXTINF:-1 tvg-name="AVA TV"group-title="Kurd",Ava Media TV
 https://familyhls.avatv.live/hls/stream.m3u8
@@ -35,7 +37,7 @@ https://familyhls.avatv.live/hls/stream.m3u8
 http://bblserver.ddns.net:1935/stream/khakhd/playlist.m3u8
 #EXTINF:-1 tvg-name="GeleKurdistan"group-title="Kurd",Gali Kurdistan TV
 https://live.host247.net/gk/gksat/playlist.m3u8
-#EXTINF:-1 tvg-name="KirkukTV"group-title="Kurd",,Kirkuk Satellite TV
+#EXTINF:-1 tvg-name="KirkukTV"group-title="Kurd",Kirkuk Satellite TV
 https://live.kirkuklive.live/hls/stream/index.m3u8
 #EXTINF:-1 tvg-name="Welat TV (1080i)"tvg-id="WelatTV.sy@HD"tvg-logo="https://avatars.githubusercontent.com/u/213803648?s=400&u=e27c09d39f813b9698de9c6559cbf7f196bf6fce&v=4"group-title="Kurd",Welat TV (1080i)
 http://stream.welattv.net:1935/welat/tv/.m3u8
@@ -66,9 +68,7 @@ https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
 #EXTINF:-1 tvg-name="Kurdistan TV (720p) [Not 24/7]"tvg-id="KurdistanTV.iq"tvg-logo="https://i.imgur.com/mjQptpc.png"group-title="Kurd",Kurdistan TV (720p) [Not 24/7]
 https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Kurdsat (1080p)"tvg-id="Kurdsat.iq"tvg-logo="https://i.imgur.com/UAbSwYA.png"group-title="Kurd",Kurdsat (1080p)
-https://iko-live.akamaized.net/KurdsatTV/master.m3u8
-#EXTINF:-1 tvg-name="Kurdsat News (1080p)"tvg-id="KurdsatNews.iq"tvg-logo="https://i.imgur.com/F3XRwkt.png"group-title="Kurd",Kurdsat News (1080p)
-https://iko-streamline-live1.akamaized.net/KurdsatNews/master.m3u8
+https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD-avc1_400000=10000.m3u8
 #EXTINF:-1 tvg-name="NRT TV (720p) [Not 24/7]"tvg-id="NRTTV.iq"tvg-logo="https://i.imgur.com/uGKGtbW.png"group-title="Kurd",NRT TV (720p) [Not 24/7]
 https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
 #EXTINF:-1 tvg-name="Payam TV (720p) [Not 24/7]"tvg-id="PayamTV.iq"tvg-logo="https://i.imgur.com/qySEibb.png"group-title="Kurd",Payam TV (720p) [Not 24/7]
