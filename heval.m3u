@@ -23,21 +23,22 @@ https://hlspackager.akamaized.net/live/DB/CIRA_TV/HLS/CIRA_TV.m3u8
 https://live.jintv.org/medialive/jintv.m3u8
 #EXTINF:-1 tvg-name="Med Muzik (1080p)"tvg-id="MedMuzik.tr"tvg-logo="https://i.imgur.com/gtUFmCD.png"group-title="Kurd",Med Muzik (1080p)
 http://54.36.110.140/live3/live3.m3u8
-#EXTINF:-11,GeleKurdistan
-https://live.host247.net/gk/gksat/chunklist_w1377661411.m3u8
-#EXTINF:-15,Ava Media TV
-https://familyhls.avatv.live/hls/stream.m3u8
-#EXTINF:-17,Khak TV
-http://bblserver.ddns.net:1935/stream/khakhd/playlist.m3u8
-#EXTINF:-20,Gali Kurdistan TV
-https://live.host247.net/gk/gksat/playlist.m3u8
-#EXTINF:-21,Kirkuk Satellite TV
-https://live.kirkuklive.live/hls/stream/index.m3u8
+#EXTINF:-1 tvg-name="Med Muzik (1080p)"tvg-id="MedMuzik.tr"tvg-logo="https://i.imgur.com/gtUFmCD.png"group-title="Kurd",Med Muzik (1080p)
 https://hlspackager.akamaized.net/live/DB/MED_MUSIC/HLS/MED_MUSIC.m3u8
-#EXTINF:-1 tvg-name="Welat TV (1080i)"tvg-id="WelatTV.sy@HD"tvg-logo="https://avatars.githubusercontent.com/u/213803648?s=400&u=e27c09d39f813b9698de9c6559cbf7f196bf6fce&v=4"group-title="Kurd",Welat TV (1080i)
-http://stream.welattv.net:1935/welat/tv/.m3u8
 #EXTINF:-1 tvg-name="Rudaw TV (1080p)"tvg-id="RudawTV.iq"tvg-logo="https://i.imgur.com/Zo3IWOn.png"group-title="Kurd",Rudaw TV (1080p)
 https://live.rudaw.net/hls/rudaw-tv/master.m3u8
+#EXTINF:-1 tvg-name="GeleKurdistanTV"tvg-id="gksat.tv"tvg-logo="https://www.gksat.tv/images/logo.png"group-title="Kurd"GeleKurdistan (1080p)
+https://live.host247.net/gk/gksat/chunklist_w1377661411.m3u8
+#EXTINF:-1 tvg-name="AVA TV"group-title="Kurd",Ava Media TV
+https://familyhls.avatv.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Khak TV"group-title="Kurd",Khak TV
+http://bblserver.ddns.net:1935/stream/khakhd/playlist.m3u8
+#EXTINF:-1 tvg-name="GeleKurdistan"group-title="Kurd",Gali Kurdistan TV
+https://live.host247.net/gk/gksat/playlist.m3u8
+#EXTINF:-1 tvg-name="KirkukTV"group-title="Kurd",,Kirkuk Satellite TV
+https://live.kirkuklive.live/hls/stream/index.m3u8
+#EXTINF:-1 tvg-name="Welat TV (1080i)"tvg-id="WelatTV.sy@HD"tvg-logo="https://avatars.githubusercontent.com/u/213803648?s=400&u=e27c09d39f813b9698de9c6559cbf7f196bf6fce&v=4"group-title="Kurd",Welat TV (1080i)
+http://stream.welattv.net:1935/welat/tv/.m3u8
 #EXTINF:-1 tvg-name="WAR TV (1080p)"tvg-id="Wartv.ae"tvg-logo=""group-title="Kurd",WAR TV (1080p)
 https://hlspackager.akamaized.net/live/DB/WAAR_HD/HLS/WAAR_HD.m3u8
 #EXTINF:-1 tvg-name="Shams TV"tvg-id="Shams TV"tvg-logo="https://www.lyngsat.com/logo/tv/ss/shams-tv-iq.svg "group-title="Kurd",shams TV
