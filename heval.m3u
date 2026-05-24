@@ -22,6 +22,16 @@ https://hlspackager.akamaized.net/live/DB/CIRA_TV/HLS/CIRA_TV.m3u8
 #EXTINF:-1 tvg-name="Jin TV"tvg-id="JinTV.nl"tvg-logo="https://i.imgur.com/37ajg2j.png"group-title="Kurd",Jin TV
 https://live.jintv.org/medialive/jintv.m3u8
 #EXTINF:-1 tvg-name="Med Muzik (1080p)"tvg-id="MedMuzik.tr"tvg-logo="https://i.imgur.com/gtUFmCD.png"group-title="Kurd",Med Muzik (1080p)
+#EXTINF:-11,GeleKurdistan
+https://live.host247.net/gk/gksat/chunklist_w1377661411.m3u8
+#EXTINF:-15,Ava Media TV
+https://familyhls.avatv.live/hls/stream.m3u8
+#EXTINF:-17,Khak TV
+http://bblserver.ddns.net:1935/stream/khakhd/playlist.m3u8
+#EXTINF:-20,Gali Kurdistan TV
+https://live.host247.net/gk/gksat/playlist.m3u8
+#EXTINF:-21,Kirkuk Satellite TV
+https://live.kirkuklive.live/hls/stream/index.m3u8
 https://hlspackager.akamaized.net/live/DB/MED_MUSIC/HLS/MED_MUSIC.m3u8
 #EXTINF:-1 tvg-name="Welat TV (1080i)"tvg-id="WelatTV.sy@HD"tvg-logo="https://avatars.githubusercontent.com/u/213803648?s=400&u=e27c09d39f813b9698de9c6559cbf7f196bf6fce&v=4"group-title="Kurd",Welat TV (1080i)
 http://stream.welattv.net:1935/welat/tv/.m3u8
