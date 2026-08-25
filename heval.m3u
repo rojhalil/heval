@@ -13,6 +13,8 @@ https://hlspackager.akamaized.net/live/DB/MEDYA_HABER/HLS/MEDYA_HABER.m3u8
 https://hlspackager.akamaized.net/live/DB/ALYAUM_TV/HLS/ALYAUM_TV.m3u8
 #EXTINF:-1 tvg-name="Rojava TV (1080p)"tvg-id="RojavaTV.sy"tvg-logo="https://i.imgur.com/42noysO.png"group-title="Kurd",Rojava TV (1080p)
 https://hlspackager.akamaized.net/live/DB/ROJAVA_HD/HLS/ROJAVA_HD.m3u8
+#EXTINF:-1 tvg-name="Rudaw TV (1080p)"tvg-id="RudawTV.iq"tvg-logo="https://i.imgur.com/Zo3IWOn.png"group-title="Kurd",Rudaw TV (1080p)
+https://live.rudaw.net/hls/rudaw-tv/master.m3u8
 #EXTINF:-1 tvg-name="Al Yaum TV (1080p)"tvg-id="AlYaumTV.ae"tvg-logo="https://i.imgur.com/rBixF3P.png"group-title="Kurd",Al Yaum TV (1080p)
 https://hlspackager.akamaized.net/live/DB/ALYAUM_TV/HLS/ALYAUM_TV.m3u8
 #EXTINF:-1 tvg-name="Channel 8 Kurdish (720p)"tvg-id="Channel8.iq"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Channel8corp.png/480px-Channel8corp.png"group-title="Kurd",Channel 8 Kurdish (720p)
@@ -23,10 +25,6 @@ https://hlspackager.akamaized.net/live/DB/CIRA_TV/HLS/CIRA_TV.m3u8
 https://live.jintv.org/medialive/jintv.m3u8
 #EXTINF:-1 tvg-name="Med Muzik (1080p)"tvg-id="MedMuzik.tr"tvg-logo="https://i.imgur.com/gtUFmCD.png"group-title="Kurd",Med Muzik (1080p)
 http://54.36.110.140/live3/live3.m3u8
-#EXTINF:-1 tvg-name="Med Muzik (1080p)"tvg-id="MedMuzik.tr"tvg-logo="https://i.imgur.com/gtUFmCD.png"group-title="Kurd",Med Muzik (1080p)
-https://hlspackager.akamaized.net/live/DB/MED_MUSIC/HLS/MED_MUSIC.m3u8
-#EXTINF:-1 tvg-name="Rudaw TV (1080p)"tvg-id="RudawTV.iq"tvg-logo="https://i.imgur.com/Zo3IWOn.png"group-title="Kurd",Rudaw TV (1080p)
-https://live.rudaw.net/hls/rudaw-tv/master.m3u8
 #EXTINF:-1 tvg-name="Kurdsat News (1080p)"tvg-id="KurdsatNews.iq"tvg-logo="https://i.imgur.com/F3XRwkt.png"group-title="Kurd",Kurdsat News (1080p)
 https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
 #EXTINF:-1 tvg-name="GeleKurdistanTV"tvg-id=""tvg-logo=""group-title="Kurd",GeleKurdistan (1080p)
@@ -51,8 +49,6 @@ https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 https://tele1-live.ercdn.net/tele1/tele1_1080p.m3u8
 #EXTINF:-1 tvg-name="Ilke TV (1080p)"tvg-id="IlkeTV.tr"tvg-logo="https://ilketv.com.tr/wp-content/uploads/2024/06/logo.png"group-title="Kurd",ilke 4k
 https://stream.ilketv.com.tr/hls/ilkecanli.m3u8
-#EXTINF:-1 tvg-name="Ilke TV (1080p)"tvg-id="IlkeTV.tr"tvg-logo="https://ilketv.com.tr/wp-content/uploads/2024/06/logo.png"group-title="Kurd",ilke 4k
-https://stream.ilketv.com.tr/hls/ilkecanli.m3u8
 #EXTINF:-1 tvg-name="Afarin Baxcha (1080p)"tvg-id="AfarinBaxcha.iq"tvg-logo="https://afarin.tv/images/baxcha.png"group-title="Kurd",Afarin Baxcha (1080p)
 https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="Afarin TV (720p) [Not 24/7]"tvg-id="AfarinTV.iq"tvg-logo="https://i.imgur.com/6MnXD7g.png"group-title="Kurd",Afarin TV (720p) [Not 24/7]
@@ -71,270 +67,8 @@ https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD-avc1_400000=
 https://live20.bozztv.com/giatv/giatv-nrt/nrt/chunks.m3u8
 #EXTINF:-1 tvg-name="Zarok TV (720p)"tvg-id="ZarokTV.tr"tvg-logo="https://i.imgur.com/o0eevnb.png"group-title="Kurd",Zarok TV (720p)
 https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
-#EXTINF:-1 tvg-name="Ilke TV (1080p)"tvg-id="IlkeTV.tr"tvg-logo="https://ilketv.com.tr/wp-content/uploads/2024/06/logo.png"group-title="Turkye",Ilke TV (1080p)
-https://stream.ilketv.com.tr/hls/ilkecanli.m3u8
-#EXTINF:-1 tvg-name="Haber61 TV (720p) [Not 24/7]"tvg-id="Haber61TV.tr"tvg-logo="https://i.imgur.com/2a2XUKl.png"group-title="Turkye",Haber61 TV (720p) [Not 24/7]
-https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/index.m3u8
-#EXTINF:-1 tvg-name="Halk TV (1080p)"tvg-id="HalkTV.tr"tvg-logo="https://i.imgur.com/xM0HA30.png"group-title="Turkye",Halk TV (1080p)
-https://halktv-live.daioncdn.net/halktv/halktv.m3u8
-#EXTINF:-1 tvg-name="I24 News English (720p)"tvg-id="i24NEWSEnglishWorld.il"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png"group-title="Turkye",I24 News English (720p)
-https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8
-#EXTINF:-1 tvg-name="TGRT Haber (720p)"tvg-id="TGRTHaber.tr"tvg-logo="https://i.imgur.com/PrxwKDw.png"group-title="Turkye",TGRT Haber (720p)
-https://canli.tgrthaber.com/tgrt.m3u8
-#EXTINF:-1 tvg-name="TürkHaber (720p)"tvg-id="TurkHaberTV.tr"tvg-logo="https://i.imgur.com/2AcRKdL.png"group-title="Turkye",TürkHaber (720p)
-https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
-#EXTINF:-1 tvg-name="habar global"tvg-id="habar global"tvg-logo="https://www.lyngsat.com/logo/tv/hh/haber-global-tr.svg"group-title="Turkye",habar global
-https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
-#EXTINF:-1 tvg-name="TRT Haber"tvg-id="TRTHaber.tr"tvg-logo="https://i.imgur.com/OVfo8Ab.png"group-title="Turkye",TRT Haber
-https://tv-trthaber.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name="BENGUTURK TV"tvg-id="BenguturkTV.tr"tvg-logo="https://i.ibb.co/CHWhMvQ/bengu-turk.png"group-title="Turkye",BENGU TURK
-https://tv.ensonhaber.com/benguturk/benguturk_720p.m3u8
-#EXTINF:-1 tvg-name="TGRT HABER HD"tvg-id="TGRTHaber.tr"tvg-logo="https://i.ibb.co/K5frjVY/tgrt-haber.png"group-title="Turkye",TGRT HABER HD
-https://canli.tgrthaber.com/tgrt.m3u8
-#EXTINF:-1 tvg-name="TURKHABER"tvg-id="TurkHaberTV.tr"tvg-logo="https://i.ibb.co/ySv65wg/turk-haber.png"group-title="Turkye",TURKHABER
-https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
-#EXTINF:-1 tvg-name="TRT Haber"tvg-id="TRTHaber.tr"tvg-logo="https://i.imgur.com/OVfo8Ab.png"group-title="Turkye",TRT Haber
-https://tv-trthaber.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name="TRT HABER"tvg-id="TRTHaber.tr"tvg-logo="https://i.ibb.co/NCvRHC3/trt-haber.png"group-title="Turkye",TRT HABER
-https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="NTV"tvg-id="NTV.tr"tvg-logo="https://i.ibb.co/gRR1zpm/ntv.png"group-title="Turkye",NTV
-https://dogus.daioncdn.net/ntv/ntv_720p.m3u8
-#EXTINF:-1 tvg-name="HALK TV"tvg-id="HalkTV.tr"tvg-logo="https://i.ibb.co/DYhmg6k/halk-tv.png"group-title="Turkye",HALK TV
-https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8?app=c86957d3-74a7-44da-9ad2-dc358c769609
-#EXTINF:-1 tvg-name="HABER GLOBAL"tvg-id="HaberGlobal.tr"tvg-logo="https://i.ibb.co/4ZpZWkf/haber-global.png"group-title="Turkye",HABER GLOBAL
-https://tv.ensonhaber.com/haberglobal/haberglobal_720p.m3u8
-#EXTINF:-1 tvg-name="Abdulmajeed Abdullah (1080p)"tvg-id="AbdulmajeedAbdullah.sa"tvg-logo="https://assets.mbcmood.com/channels/1720184087Abdullah%20Majeed%20Abdullah%20banner.png"group-title="Music",Abdulmajeed Abdullah (1080p)
-https://d2hng5r56zpsbw.cloudfront.net/out/v1/9c4c990f44bb4767bb46271f326dd574/index.m3u8
-#EXTINF:-1 tvg-name="TRT Kurdî"tvg-id="TRTKurdi.tr"tvg-logo="https://i.imgur.com/6BpymfB.png"group-title="Kurd",TRT Kurdî
-https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name="TRT Arabi"tvg-id="TRTArabi.tr"tvg-logo="https://i.imgur.com/yyhWOZs.png"group-title="Turkye",TRT Arabi
-https://tv-trtarabi.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name="TRT World"tvg-id="TRTWorld.tr"tvg-logo="https://i.imgur.com/JEA2xpv.png"group-title="Turkye",TRT World
-https://tv-trtworld.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name="TRT Türk"tvg-id="TRTTurk.tr"tvg-logo="https://i.imgur.com/OSTOQNw.png"group-title="Turkye",TRT Türk
-https://tv-trtturk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name="EURO D"tvg-id="EuroD.tr"tvg-logo="https://i.ibb.co/jMQTJmh/euro-d.png"group-title="Turkye",EURO D
-https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
-#EXTINF:-1 tvg-name="SHOW MAX"tvg-id="ShowMax.tr"tvg-logo="https://i.ibb.co/qJnvXJQ/show-max.png"group-title="Turkye",SHOW MAX
-https://raw.githubusercontent.com/rideordie16/YouTube/main/ch/showmax.m3u8
-#EXTINF:-1 tvg-name="TRT Turk"tvg-id="TRTTurk.tr"tvg-logo="https://i.ibb.co/zN1BK38/trt-turk.png"group-title="Turkye",TRT TURK
-https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="TEVE2"tvg-id="Teve2.tr"tvg-logo="https://i.ibb.co/JRpJc2P/teve2.png"group-title="Turkye",TEVE 2
-https://live.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
-#EXTINF:-1 tvg-name="360"tvg-id="360.tr"tvg-logo="https://i.ibb.co/s3gJCGL/360.png"group-title="Turkye",360
-https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
-#EXTINF:-1 tvg-name="TV 4"tvg-id="TV4.tr"tvg-logo="https://i.postimg.cc/FKkHW8KK/tv4.png"group-title="Turkye",TV 4
-https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
-#EXTINF:-1 tvg-name="Tivi 6"tvg-id="Tivi6.tr"tvg-logo="https://i.ibb.co/9H3DMWz/tivi6.png"group-title="Turkye",TIVI 6
-https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
-#EXTINF:-1 tvg-name="BIR TV"tvg-id="BIR TV"tvg-logo="https://i.ibb.co/dDdPMWq/birtv.png"group-title="Turkye",BIR TV
-https://edge1.socialsmart.tv/birtv/bant1/playlist.m3u8
-#EXTINF:-1 tvg-name="4U TV (720p)"tvg-id="4UTV.tr@SD"tvg-logo="https://i.imgur.com/PexhKwp.png"group-title="Turkye",4U TV (720p)
-https://hls.4utv.live/hls/stream.m3u8
-#EXTINF:-1 tvg-name="360 TV (720p) [Not 24/7]"tvg-id="360.tr@SD"tvg-logo="https://i.imgur.com/agn47sQ.png"group-title="Turkye",360 TV (720p) [Not 24/7]
-https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
-#EXTINF:-1 tvg-name="A Spor"tvg-id="ASpor.tr@SD"tvg-logo="https://i.imgur.com/ZhkZzLf.png"group-title="Turkye",A Spor
-https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
-#EXTINF:-1 tvg-name="Aksu TV (720p)"tvg-id="AksuTV.tr@SD"tvg-logo="https://i.postimg.cc/3w6VHNTp/aksutv.png"group-title="Turkye",Aksu TV (720p)
-https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8
-#EXTINF:-1 tvg-name="Al-Zahra TV Turkic (720p) [Not 24/7]"tvg-id="AlZahraTVTurkic.tr@SD"tvg-logo="https://i.imgur.com/QEHKGnG.png"group-title="Turkye",Al-Zahra TV Turkic (720p) [Not 24/7]
-https://live.al-zahratv.com/live/playlist.m3u8
-#EXTINF:-1 tvg-name="Alanya Posta TV (1080p)"tvg-id="AlanyaPostaTV.tr@SD"tvg-logo="https://i.imgur.com/a3w9eFe.png"group-title="Turkye",Alanya Posta TV (1080p)
-https://api-tv3.yayin.com.tr/postatv/postatv/playlist.m3u8
-#EXTINF:-1 tvg-name="Almahriah TV (576p)"tvg-id="AlmahriahTV.tr@SD"tvg-logo="https://i.imgur.com/GgEeTNr.png"group-title="Turkye",Almahriah TV (576p)
-https://starmenajo.com/hls/almahriah/index.m3u8
-#EXTINF:-1 tvg-name="Altas TV (1080p)"tvg-id="AltasTV.tr@SD"tvg-logo="https://i.postimg.cc/Vkzdjs2j/altastv.png"group-title="Turkye",Altas TV (1080p)
-https://edge1.socialsmart.tv/altastv/bant1/playlist.m3u8
-#EXTINF:-1 tvg-name="Anadolu Net TV (1080p)"tvg-id="AnadoluNetTV.tr@SD"tvg-logo="https://www.anadolunettv.com/d/r/logo.png"group-title="Turkye",Anadolu Net TV (1080p)
-https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8
-#EXTINF:-1 tvg-name="ARAS TV (576p) [Not 24/7]"tvg-id="ArasTV.tr@SD"tvg-logo="https://i.imgur.com/JsDCyWG.png"group-title="Turkye",ARAS TV (576p) [Not 24/7]
-http://1.rtmp.org/tv217/yayin.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Bloomberg HT (720p) [Not 24/7]"tvg-id="BloombergHT.tr@SD"tvg-logo="https://i.imgur.com/bmkXfIE.png"group-title="Turkye",Bloomberg HT (720p) [Not 24/7]
-https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8
-#EXTINF:-1 tvg-name="BRTV (720p) [Geo-blocked]"tvg-id="BRTV.tr@SD"tvg-logo="https://i.postimg.cc/Ls9qt4Yc/brtv.png"group-title="Turkye",BRTV (720p) [Geo-blocked]
-https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8
-#EXTINF:-1 tvg-name="Bursa AS TV (900p)"tvg-id="ASTV.tr@SD"tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_13.png"group-title="Turkye",Bursa AS TV (900p)
-https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8
-#EXTINF:-1 tvg-name="Cay TV (720p)"tvg-id="CayTV.tr@SD"tvg-logo="https://i.imgur.com/ndupxwu.png"group-title="Turkye",Cay TV (720p)
-https://edge1.socialsmart.tv/caytv/bant1/playlist.m3u8
-#EXTINF:-1 tvg-name="Deniz Postası TV (720p) [Not 24/7]"tvg-id="DenizPostasiTV.tr@SD"tvg-logo="https://i.imgur.com/Mm8hdfx.png"group-title="Turkye",Deniz Postası TV (720p) [Not 24/7]
-https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
-#EXTINF:-1 tvg-name="DHA (720p) [Not 24/7]"tvg-id="DHA.tr@SD"tvg-logo="https://i.postimg.cc/HxbHLRd6/dha.png"group-title="Turkye",DHA (720p) [Not 24/7]
-https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
-#EXTINF:-1 tvg-name="DİM TV (720p) [Geo-blocked]"tvg-id="DimTV.tr@SD"tvg-logo="https://i.imgur.com/X4QFDhk.png"group-title="Turkye",DİM TV (720p) [Geo-blocked]
-https://live.artidijitalmedya.com/artidijital_dimtv/dimtv/playlist.m3u8
-#EXTINF:-1 tvg-name="Diyanet TV (1080p)"tvg-id="DiyanetTV.tr@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Diyanet_TV_logo.svg/512px-Diyanet_TV_logo.svg.png"group-title="Turkye",Diyanet TV (1080p)
-https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Diyar TV (720p)"tvg-id="DiyarTV.tr@SD"tvg-logo="https://i.imgur.com/qWkHjRA.png"group-title="Turkye",Diyar TV (720p)
-https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/playlist.m3u8
-#EXTINF:-1 tvg-name="Dost TV (576p)"tvg-id="DostTV.tr@SD"tvg-logo="https://dosttv.com/wp-content/uploads/2022/02/dost_logo.png"group-title="Turkye",Dost TV (576p)
-https://dost.stream.emsal.im/tv/live.m3u8
-#EXTINF:-1 tvg-name="Dream Türk (720p)"tvg-id="DreamTurk.tr@SD"tvg-logo="https://i.imgur.com/vJ8VaZi.png"group-title="Turkye",Dream Türk (720p)
-https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
-#EXTINF:-1 tvg-name="Er TV (1080p) [Geo-blocked]"tvg-id="ERTV.tr@SD"tvg-logo="https://i.postimg.cc/VLKFTNnF/ertv.png"group-title="Turkye",Er TV (1080p) [Geo-blocked]
-https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/playlist.m3u8
-#EXTINF:-1 tvg-name="Erzurum Web TV (720p)"tvg-id="ErzurumWebTV.tr@SD"tvg-logo="https://i.imgur.com/HF7N4Li.png"group-title="Turkye",Erzurum Web TV (720p)
-https://win29.yayin.com.tr/erzurumwebtv/erzurumwebtv/iptvdelisi.m3u8
-#EXTINF:-1 tvg-name="ES TV (720p)"tvg-id="ESTV.tr@SD"tvg-logo="https://i.imgur.com/epAEBrp.png"group-title="Turkye",ES TV (720p)
-https://live.artidijitalmedya.com/artidijital_estv/estv/playlist.m3u8
-#EXTINF:-1 tvg-name="ETV Kayseri (720p)"tvg-id="ETVKayseri.tr@SD"tvg-logo="https://i.postimg.cc/zBpLByJt/etvkayseri.png"group-title="Turkye",ETV Kayseri (720p)
-https://live.artidijitalmedya.com/artidijital_etv/etv/playlist.m3u8
-#EXTINF:-1 tvg-name="ETV Manisa (1080p) [Not 24/7]"tvg-id="ETVManisa.tr@SD"tvg-logo="https://i.ibb.co/QKXtdkz/sOd3INg.png"group-title="Turkye",ETV Manisa (1080p) [Not 24/7]
-https://edge1.socialsmart.tv/manisaetv/bant1/playlist.m3u8
-#EXTINF:-1 tvg-name="FB TV"tvg-id="FBTV.tr@SD"tvg-logo="https://i.imgur.com/qBVqtYd.png"group-title="Turkye",FB TV
-http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Finans Turk TV (720p)"tvg-id="FinansTurkTV.tr@SD"tvg-logo="https://i.ibb.co/wBwmB1T/iY0osc7.png"group-title="Turkye",Finans Turk TV (720p)
-https://yayin30.haber100.com/live/finansturk/playlist.m3u8
-#EXTINF:-1 tvg-name="Guneydogu TV (720p)"tvg-id="GuneydoguTV.tr@SD"tvg-logo="https://i.imgur.com/JT5pp3Y.png"group-title="Turkye",Guneydogu TV (720p)
-https://edge1.socialsmart.tv/gtv/bant1/playlist.m3u8
-#EXTINF:-1 tvg-name="Haber61 TV (720p) [Not 24/7]"tvg-id="Haber61TV.tr@SD"tvg-logo="https://i.imgur.com/2a2XUKl.png"group-title="Turkye",Haber61 TV (720p) [Not 24/7]
-https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/index.m3u8
-#EXTINF:-1 tvg-name="Haber Global (720p) [Not 24/7]"tvg-id="HaberGlobal.tr@SD"tvg-logo="https://i.postimg.cc/fbQQPsGB/haberglobal.png"group-title="Turkye",Haber Global (720p) [Not 24/7]
-https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
-#EXTINF:-1 tvg-name="Halk TV (1080p)"tvg-id="HalkTV.tr@SD"tvg-logo="https://i.imgur.com/xM0HA30.png"group-title="Turkye",Halk TV (1080p)
-https://halktv-live.daioncdn.net/halktv/halktv.m3u8
-#EXTINF:-1 tvg-name="HTSpor TV (1080p)"tvg-id="HTSporTV.tr@SD"tvg-logo="https://www.htspor.com/images/manifest/social-share-logo.png"group-title="Turkye",HTSpor TV (1080p)
-https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
-#EXTINF:-1 tvg-name="Hunat TV (720p) [Geo-blocked]"tvg-id="HunatTV.tr@SD"tvg-logo="https://i.imgur.com/NrxHGnb.png"group-title="Turkye",Hunat TV (720p) [Geo-blocked]
-https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/playlist.m3u8
-#EXTINF:-1 tvg-name="Kanal 3 (1080p) [Not 24/7]"tvg-id="Kanal3.tr@SD"tvg-logo="https://i.imgur.com/eXErSv0.png"group-title="Turkye",Kanal 3 (1080p) [Not 24/7]
-https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/playlist.m3u8
-#EXTINF:-1 tvg-name="Kanal 7 (1080p) [Not 24/7]"tvg-id="Kanal7.tr@SD"tvg-logo="https://i.imgur.com/0gq9xOm.png"group-title="Turkye",Kanal 7 (1080p) [Not 24/7]
-https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
-#EXTINF:-1 tvg-name="Kanal 7 Avrupa (720p) [Not 24/7]"tvg-id="Kanal7Avrupa.tr@SD"tvg-logo="https://i.imgur.com/wlfyj5l.png"group-title="Turkye",Kanal 7 Avrupa (720p) [Not 24/7]
-https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
-#EXTINF:-1 tvg-name="Kanal 12 (720p)"tvg-id="Kanal12.tr@SD"tvg-logo="https://i.imgur.com/51xCkXG.png"group-title="Turkye",Kanal 12 (720p)
-https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/playlist.m3u8
-#EXTINF:-1 tvg-name="Kanal 15 (720p) [Not 24/7]"tvg-id="Kanal15.tr@SD"tvg-logo="https://i.postimg.cc/1tCqBv8c/kanal15.png"group-title="Turkye",Kanal 15 (720p) [Not 24/7]
-https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/playlist.m3u8
-#EXTINF:-1 tvg-name="Kanal 23 (720p) [Not 24/7]"tvg-id="Kanal23.tr@SD"tvg-logo="https://i.imgur.com/3br8RCq.png"group-title="Turkye",Kanal 23 (720p) [Not 24/7]
-https://live.artidijitalmedya.com/artidijital_kanal23/kanal23/playlist.m3u8
-#EXTINF:-1 tvg-name="Kanal 26 (720p) [Not 24/7]"tvg-id="Kanal26.tr@SD"tvg-logo="https://i.postimg.cc/T2sbWHMT/kanal26.png"group-title="Turkye",Kanal 26 (720p) [Not 24/7]
-https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/playlist.m3u8
-#EXTINF:-1 tvg-name="Kanal 32 (720p) [Not 24/7]"tvg-id="Kanal32.tr@SD"tvg-logo="https://www.lyngsat.com/logo/tv/kk/kanal-32-tr.png"group-title="Turkye",Kanal 32 (720p) [Not 24/7]
-https://edge1.socialsmart.tv/kanal32/bant1/playlist.m3u8
-#EXTINF:-1 tvg-name="Kanal D (1080p)"tvg-id="KanalD.tr@SD"tvg-logo="https://i.imgur.com/9o1atM6.png"group-title="Turkye",Kanal D (1080p)
-https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
-#EXTINF:-1 tvg-name="Kanal Firat (720p) [Not 24/7]"tvg-id="KanalFirat.tr@SD"tvg-logo="https://i.postimg.cc/v8Czdmm7/kanalfirat.png"group-title="Turkye",Kanal Firat (720p) [Not 24/7]
-https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u8
-#EXTINF:-1 tvg-name="Kanal Hayat (1080p)"tvg-id="KanalHayat.tr@SD"tvg-logo="https://i.postimg.cc/qMnGBdtP/kanalhayat.png"group-title="Turkye",Kanal Hayat (1080p)
-https://tbn02a.ltnschedule.com/hls/nx21i.m3u8
-#EXTINF:-1 tvg-name="Kanal V (720p) [Not 24/7]"tvg-id="KanalV.tr@SD"tvg-logo="https://i.imgur.com/7RNjTno.png"group-title="Turkye",Kanal V (720p) [Not 24/7]
-https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/playlist.m3u8
-#EXTINF:-1 tvg-name="Kardelen TV (1080p)"tvg-id="KardelenTV.tr@SD"tvg-logo="https://i.postimg.cc/1Rc2QbqW/kardelentv.png"group-title="Turkye",Kardelen TV (1080p)
-https://edge1.socialsmart.tv/kardelentv/bant1/playlist.m3u8
-#EXTINF:-1 tvg-name="Kent Türk TV (1080p) [Not 24/7]"tvg-id="KentTurk.tr@SD"tvg-logo="https://i.postimg.cc/KYxf8Wbf/kentturk.png"group-title="Turkye",Kent Türk TV (1080p) [Not 24/7]
-https://live.artidijitalmedya.com/artidijital_kentturktv/kentturktv/playlist.m3u8
-#EXTINF:-1 tvg-name="Konya Olay TV (720p)"tvg-id="KonyaOlayTV.tr@SD"tvg-logo="https://www.konyaolaytv.com/upload/tema/20230307__5154687762.jpg"group-title="Turkye",Konya Olay TV (720p)
-https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/playlist.m3u8
-#EXTINF:-1 tvg-name="KRAL Pop TV (720p)"tvg-id="KralPopTV.tr@SD"tvg-logo="https://i.imgur.com/ch365lh.png"group-title="Turkye",KRAL Pop TV (720p)
-https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
-#EXTINF:-1 tvg-name="Lalegul TV (1080p)"tvg-id="LalegulTV.tr@SD"tvg-logo="https://i.imgur.com/wwCysFs.png"group-title="Turkye",Lalegul TV (1080p)
-https://lbl.netmedya.net/hls/lalegultv.m3u8
-#EXTINF:-1 tvg-name="Line TV (720p) [Not 24/7]"tvg-id="LineTV.tr@SD"tvg-logo="https://i.imgur.com/6GNp7f8.png"group-title="Turkye",Line TV (720p) [Not 24/7]
-https://edge1.socialsmart.tv/linetv/bant1/playlist.m3u8
-#EXTINF:-1 tvg-name="MaviKaradeniz (1080p) [Not 24/7]"tvg-id="MaviKaradenizTV.tr@SD"tvg-logo="https://i.imgur.com/wyWappU.png"group-title="Turkye",MaviKaradeniz (1080p) [Not 24/7]
-https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
-#EXTINF:-1 tvg-name="Med Muzik (1080p)"tvg-id="MedMuzik.tr@SD"tvg-logo="https://i.postimg.cc/05d9mzJZ/medmuzik.png"group-title="Turkye",Med Muzik (1080p)
-http://54.36.110.140/live3/live3.m3u8
-#EXTINF:-1 tvg-name="Mekameleen TV (1080p)"tvg-id="MekameleenTV.tr@SD"tvg-logo="https://i.postimg.cc/85dghYss/mekameleentv.png"group-title="Turkye",Mekameleen TV (1080p)
-https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Meltem TV (1080p)"tvg-id="MeltemTV.tr@SD"tvg-logo="https://i.imgur.com/C3m6w5S.png"group-title="Turkye",Meltem TV (1080p)
-https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
-#EXTINF:-1 tvg-name="Mercan TV (576p) [Not 24/7]"tvg-id="MercanTV.tr@SD"tvg-logo="https://i.imgur.com/3CWV8bS.png"group-title="Turkye",Mercan TV (576p) [Not 24/7]
-https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/playlist.m3u8
-#EXTINF:-1 tvg-name="MTürk TV (1080p)"tvg-id="MTurkTV.tr@SD"tvg-logo="https://i.postimg.cc/BnTWzRNB/mturktv.png"group-title="Turkye",MTürk TV (1080p)
-https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8
-#EXTINF:-1 tvg-name="NOW TV (720p)"tvg-id="NOWTV.tr@SD"tvg-logo="https://i.imgur.com/5EYjWK7.png"group-title="Turkye",NOW TV (720p)
-https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
-#EXTINF:-1 tvg-name="Number 1 Ask (720p)"tvg-id="Number1Ask.tr@SD"tvg-logo="https://i.imgur.com/slwbux7.png"group-title="Music",Number 1 Ask (720p)
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
-#EXTINF:-1 tvg-name="Number 1 Damar (720p)"tvg-id="Number1Damar.tr@SD"tvg-logo="https://i.imgur.com/rYtbAGZ.png"group-title="Music",Number 1 Damar (720p)
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
-#EXTINF:-1 tvg-name="Number 1 Dance (720p)"tvg-id="Number1Dance.tr@SD"tvg-logo="https://i.imgur.com/ZM4PSyq.png"group-title="Music",Number 1 Dance (720p)
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
-#EXTINF:-1 tvg-name="Number 1 TV (720p)"tvg-id="Number1TV.tr@SD"tvg-logo="https://i.imgur.com/02cDIBi.png"group-title="Music",Number 1 TV (720p)
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Persiana Turkiye"tvg-id="PersianaTurkiye.fr@SD"tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-Turkiye-fr.png"group-title="Turkye",Persiana Turkiye
-https://turkhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-name="Power Dance (1080p)"tvg-id="PowerDance.tr@SD"tvg-logo="https://i.imgur.com/QpPteBO.png"group-title="Music",Power Dance (1080p)
-https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Power Love (1080p)"tvg-id="PowerLove.tr@SD"tvg-logo="https://i.imgur.com/0RzUswR.png"group-title="Music",Power Love (1080p)
-https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Power Turk (1080p) [Not 24/7]"tvg-id="PowerTurkTV.tr@SD"tvg-logo="https://i.imgur.com/9OPoXQG.png"group-title="Music",Power Turk (1080p) [Not 24/7]
-https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Power Türk Akustik (1080p)"tvg-id="PowerTurkAkustik.tr@SD"tvg-logo="https://i.imgur.com/driabBO.png"group-title="Music",Power Türk Akustik (1080p)
-https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Power Türk Slow (1080p)"tvg-id="PowerTurkSlow.tr@SD"tvg-logo="https://i.imgur.com/tQSoQXW.png"group-title="Music",Power Türk Slow (1080p)
-https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Power Türk Taptaze (1080p)"tvg-id="PowerTurkTaptaze.tr@SD"tvg-logo="https://i.imgur.com/a5nW3HU.png"group-title="Music",Power Türk Taptaze (1080p)
-https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Power TV (1080p)"tvg-id="PowerTV.tr@SD"tvg-logo="https://i.postimg.cc/RZmwMsnG/powertv.png"group-title="Turkye",Power TV (1080p)
-https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Qaf TV (1080p)"tvg-id="QafTV.tr@SD"tvg-logo="https://i.postimg.cc/JhZwbhhR/qaftv.png"group-title="Turkye",Qaf TV (1080p)
-https://customer-9vqui33qma2rownb.cloudflarestream.com/7792e558fe54e23bdd4b462ec275cdba/manifest/video.m3u8
-#EXTINF:-1 tvg-name="Sat 7 Türk (720p)"tvg-id="Sat7Turk.cy@SD"tvg-logo="https://i.imgur.com/cKQIK4i.png"group-title="Turkye",Sat 7 Türk (720p)
-https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist_dvr.m3u8
-#EXTINF:-1 tvg-name="Satranç TV (480p) [Not 24/7]"tvg-id="BricveSatrancTV.tr@SD"tvg-logo="https://i.imgur.com/TXDV1ty.png"group-title="Turkye",Satranç TV (480p) [Not 24/7]
-http://139.162.182.79/live/test/index.m3u8
-#EXTINF:-1 tvg-name="Semerkand TV (1080p) [Not 24/7]"tvg-id="SemerkandTV.tr@SD"tvg-logo="https://i.imgur.com/UVGGrQd.png"group-title="Turkye",Semerkand TV (1080p) [Not 24/7]
-https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Tarim TV (1080p)"tvg-id="TarimTV.tr@SD"tvg-logo="https://i.imgur.com/q30sFms.png"group-title="Turkye",Tarim TV (1080p)
-https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/master.m3u8
-#EXTINF:-1 tvg-name="TBMM TV (720p)"tvg-id="TBMMTV.tr@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/TBMM_TV_logo.svg/512px-TBMM_TV_logo.svg.png"group-title="Turkye",TBMM TV (720p)
-https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
-#EXTINF:-1 tvg-name="Tele 1 (1080p)"tvg-id="Tele1.tr@SD"tvg-logo="https://i.postimg.cc/ZY7bcVmn/tele1.png"group-title="Turkye",Tele 1 (1080p)
-https://tele1-live.ercdn.net/tele1/tele1.m3u8
-#EXTINF:-1 tvg-name="Tempo TV (720p)"tvg-id="TempoTV.tr@SD"tvg-logo="https://i.imgur.com/tZpx32y.png"group-title="Turkye",Tempo TV (720p)
-https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8
-#EXTINF:-1 tvg-name="TGRT Belgesel TV (576p) [Not 24/7]"tvg-id="TGRTBelgesel.tr@SD"tvg-logo="https://i.imgur.com/VwWTnf0.png"group-title="Turkye",TGRT Belgesel TV (576p) [Not 24/7]
-https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="TGRT Haber (720p)"tvg-id="TGRTHaber.tr@SD"tvg-logo="https://i.imgur.com/PrxwKDw.png"group-title="Turkye",TGRT Haber (720p)
-https://canli.tgrthaber.com/tgrt.m3u8
-#EXTINF:-1 tvg-name="Tivi 6 (720p)"tvg-id="Tivi6.tr@SD"tvg-logo="https://i.imgur.com/Mbi0jbz.png"group-title="Turkye",Tivi 6 (720p)
-https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
-#EXTINF:-1 tvg-name="TJK TV (1080p)"tvg-id="TJKTV.tr@SD"tvg-logo="https://i.imgur.com/3zHdkYG.png"group-title="Turkye",TJK TV (1080p)
-https://tjktv-live.tjk.org/tjktv.m3u8
-#EXTINF:-1 tvg-name="Ton TV (720p) [Not 24/7]"tvg-id="TonTV.tr@SD"tvg-logo="https://i.imgur.com/f0Soeob.png"group-title="Turkye",Ton TV (720p) [Not 24/7]
-https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
-#EXTINF:-1 tvg-name="TRT 1 (1080p)"tvg-id="TRT1.tr@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/512px-TRT_1_logo_%282021-%29.svg.png"group-title="Turkye",TRT 1 (1080p)
-https://trt.daioncdn.net/trt-1/master.m3u8?app=web
-#EXTINF:-1 tvg-name="TRT 2 (720p)"tvg-id="TRT2.tr@SD"tvg-logo="https://i.imgur.com/iOCQdyD.png"group-title="Turkye",TRT 2 (720p)
-https://tv-trt2.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name="TRT 3"tvg-id="TRT3.tr@SD"tvg-logo="https://i.imgur.com/JrWFwBd.png"group-title="Turkye",TRT 3
-https://tv-trt3.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name="TRT Avaz (720p)"tvg-id="TRTAvaz.tr@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TRT_Avaz_logo.svg/512px-TRT_Avaz_logo.svg.png"group-title="Turkye",TRT Avaz (720p)
-https://tv-trtavaz.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name="TRT Çocuk (720p)"tvg-id="TRTCocuk.tr@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/512px-TRT_%C3%87ocuk_logo_%282021%29.svg.png"group-title="Turkye",TRT Çocuk (720p)
-https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name="TRT Diyanet Çocuk (720p)"tvg-id="TRTDiyanetCocuk.tr@SD"tvg-logo="https://i.imgur.com/8PmXz9t.png"group-title="Turkye",TRT Diyanet Çocuk (720p)
-https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name="TRT EBA Ilkokul (720p)"tvg-id="TRTEBAIlkokul.tr@SD"tvg-logo="https://i.imgur.com/CRBfZi4.png"group-title="Turkye",TRT EBA Ilkokul (720p)
-https://tv-e-okul00.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name="TRT EBA Lise (720p)"tvg-id="TRTEBALise.tr@SD"tvg-logo="https://i.imgur.com/vj2L2L2.png"group-title="Turkye",TRT EBA Lise (720p)
-https://tv-e-okul02.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name="TRT Haber (720p)"tvg-id="TRTHaber.tr@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TRT_Haber_Eyl%C3%BCl_2020_Logo.svg/512px-TRT_Haber_Eyl%C3%BCl_2020_Logo.svg.png"group-title="Turkye",TRT Haber (720p)
-https://tv-trthaber.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name="TRT Kurdî (720p)"tvg-id="TRTKurdi.tr@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TRT_Kurd%C3%AE_logo.svg/512px-TRT_Kurd%C3%AE_logo.svg.png"group-title="Turkye",TRT Kurdî (720p)
-https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name="TRT Müzik (720p)"tvg-id="TRTMuzik.tr@SD"tvg-logo="https://i.imgur.com/JgUzRH8.png"group-title="Music",TRT Müzik (720p)
-https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name="TürkHaber (720p)"tvg-id="TurkHaberTV.tr@SD"tvg-logo="https://i.imgur.com/2AcRKdL.png"group-title="Turkye",TürkHaber (720p)
-https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
-#EXTINF:-1 tvg-name="TV 1 (720p)"tvg-id="TV1.tr@SD"tvg-logo="https://i.imgur.com/8CtrYVb.png"group-title="Turkye",TV 1 (720p)
-https://edge1.socialsmart.tv/tv1/bant1/playlist.m3u8
-#EXTINF:-1 tvg-name="TV4 (720p)"tvg-id="TV4.tr@SD"tvg-logo="https://i.imgur.com/UpsQsbd.png"group-title="Turkye",TV4 (720p)
-https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
-#EXTINF:-1 tvg-name="TV 264 (1080p)"tvg-id="TV264.tr@SD"tvg-logo="https://i.postimg.cc/CxCZNX4D/tv264.png"group-title="Turkye",TV 264 (1080p)
-https://b01c02nl.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="TV Den (576p) [Not 24/7]"tvg-id="TVDen.tr@SD"tvg-logo="https://i.postimg.cc/QM3dHRfF/tvden.png"group-title="Turkye",TV Den (576p) [Not 24/7]
-http://canli.tvden.com.tr/hls/live.m3u8
-#EXTINF:-1 tvg-name="Urfa Natik TV (720p)"tvg-id="UrfaNatikTV.tr@SD"tvg-logo="https://i.imgur.com/8KO0uxn.png"group-title="Turkye",Urfa Natik TV (720p)
-https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8
-#EXTINF:-1 tvg-name="Vav TV"tvg-id="VavTV.tr@SD"tvg-logo="https://i.postimg.cc/qM8jHK62/vavtv.png"group-title="Turkye",Vav TV
-https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Zarok TV (720p)"tvg-id="ZarokTV.tr@SD"tvg-logo="https://i.imgur.com/o0eevnb.png"group-title="Turkye",Zarok TV (720p)
-https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
+#EXTINF:-1 tvg-name="4Kurd.fr@SD"tvg-id="4Kurd.fr@SD"tvg-logo="https://www.aparatchi.com/images/chanells-logo/4kurd.svg"group-title="KURDI",4 Kurd
+https://4kuhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Al Yaum TV (1080p)"tvg-id="AlYaumTV.ae"tvg-logo="https://i.imgur.com/rBixF3P.png"group-title="Arabic",Al Yaum TV (1080p)
 https://hlspackager.akamaized.net/live/DB/ALYAUM_TV/HLS/ALYAUM_TV.m3u8
 #EXTINF:-1 tvg-name="Sky News Arabia (1080p) [Not 24/7]"tvg-id="SkyNewsArabia.ae"tvg-logo="https://i.imgur.com/SvjU4h6.png"group-title="Arabic",Sky News Arabia (1080p) [Not 24/7]
@@ -381,8 +115,6 @@ https://live.i-news.tv/hls/stream.m3u8
 https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-name="TRT Arabi (1080p) [Not 24/7]"tvg-id="TRTArabi.tr"tvg-logo="https://i.imgur.com/dEfI2M9.png"group-title="Arabic",TRT Arabi (1080p) [Not 24/7]
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name="Al Alam (360p)"tvg-id="AlAlam.ir"tvg-logo="https://i.imgur.com/Zdi31dy.png"group-title="Arabic",Al Alam (360p)
-https://live2.alalam.ir/alalam.m3u8
 #EXTINF:-1 tvg-name="Arirang TV UN (1080p)"tvg-id="ArirangUN.kr"tvg-logo="https://i.imgur.com/Jdy3WNm.png"group-title="Arabic",Arirang TV UN (1080p)
 https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="I24 News English (720p)"tvg-id="i24NEWSEnglishWorld.il"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png"group-title="Arabic",I24 News English (720p)
@@ -395,34 +127,18 @@ https://d2hng5r56zpsbw.cloudfront.net/out/v1/9c4c990f44bb4767bb46271f326dd574/in
 https://reflect-access-sacramento.cablecast.tv/live-8/live/live.m3u8
 #EXTINF:-1 tvg-name="Afghanistan International (720p)"tvg-id="AfghanistanInternational.uk@SD"tvg-logo="https://i.imgur.com/r8MmFRX.png"group-title="Arabic",Afghanistan International (720p)
 https://hls.afintl.com/hls/stream.m3u8
-#EXTINF:-1 tvg-name="Aflam (1080p)"tvg-id="Aflam.sa@SD"tvg-logo="https://i.imgur.com/cTLj7Yt.png"group-title="Movies",Aflam (1080p)
-https://shls-live-enc.edgenextcdn.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index.m3u8
 #EXTINF:-1 tvg-name="Ajyal TV (720p)"tvg-id="AjyalTV.ps@SD"tvg-logo="https://i.imgur.com/i6Y7beR.jpg"group-title="Arabic",Ajyal TV (720p)
 http://htvmada.mada.ps:8888/ajyal/index.m3u8
 #EXTINF:-1 tvg-name="AL24 News (1080p)"tvg-id="AL24News.dz@SD"tvg-logo="https://i.imgur.com/vyVEXYL.png"group-title="Arabic",AL24 News (1080p)
 https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8
-#EXTINF:-1 tvg-name="Al Alam (360p)"tvg-id="AlAlam.ir@SD"tvg-logo="https://i.imgur.com/Zdi31dy.png"group-title="Arabic",Al Alam (360p)
-https://live2.alalam.ir/alalam.m3u8
-#EXTINF:-1 tvg-name="Al Arabiya (1080p)"tvg-id="Alarabiya.ae@SD"tvg-logo="https://i.imgur.com/NXFkYFj.png"group-title="Arabic",Al Arabiya (1080p)
-https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Al Arabiya Al Hadath (1080p) [Not 24/7]"tvg-id="AlHadath.sa@SD"tvg-logo="https://i.imgur.com/De4SEWE.png"group-title="Arabic",Al Arabiya Al Hadath (1080p) [Not 24/7]
-https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Al Araby TV (1080p)"tvg-id="AlArabyTV.qa@SD"tvg-logo="https://i.imgur.com/YMqWEe4.png"group-title="Arabic",Al Araby TV (1080p)
 https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8
 #EXTINF:-1 tvg-name="Al Araby TV 2 (1080p)"tvg-id="AlArabyTV2.qa@SD"tvg-logo="https://i.imgur.com/Gp5mNea.png"group-title="Arabic",Al Araby TV 2 (1080p)
 https://live.kwikmotion.com/alaraby2live/alaraby2.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Al Ekhbariya (1080p)"tvg-id="AlEkhbariya.sa@SD"tvg-logo="https://i.imgur.com/WcRlHQm.png"group-title="Arabic",Al Ekhbariya (1080p)
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8
-#EXTINF:-1 tvg-name="Al Ghad TV (1080p)"tvg-id="AlGhadTV.eg@SD"tvg-logo="https://i.imgur.com/ga6NXb9.png"group-title="Arabic",Al Ghad TV (1080p)
-https://eazyvwqssi.erbvr.com/alghadtv/alghadtv.m3u8
 #EXTINF:-1 tvg-name="Al Ittihad (552p) [Not 24/7]"tvg-id="AlIttihadTV.lb@SD"tvg-logo="https://i.imgur.com/QMUjPXx.png"group-title="Arabic",Al Ittihad (552p) [Not 24/7]
 http://185.105.4.151:8080/_defapp_/ittihad/index.m3u8
 #EXTINF:-1 tvg-name="Al Jadeed (1080p)"tvg-id="AlJadeed.lb@SD"tvg-logo="https://i.imgur.com/CfxR8o3.png"group-title="Arabic",Al Jadeed (1080p)
 http://185.9.2.18/chid_391/mono.m3u8
-#EXTINF:-1 tvg-name="Al Jazeera (1080p)"tvg-id="AlJazeera.qa@Arabic"tvg-logo="https://i.imgur.com/7bRVpnu.png"group-title="Arabic",Al Jazeera (1080p)
-https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8
-#EXTINF:-1 tvg-name="Al Jazeera Mubasher (1080p)"tvg-id="AlJazeeraMubasher.qa@SD"tvg-logo="https://i.imgur.com/X80DQvF.png"group-title="Arabic",Al Jazeera Mubasher (1080p)
-https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8
 #EXTINF:-1 tvg-name="Al Jazeera Mubasher 24 (1080p)"tvg-id="AlJazeeraMubasher24.qa@SD"tvg-logo="https://i.imgur.com/LMCcIZ2.png"group-title="Arabic",Al Jazeera Mubasher 24 (1080p)
 https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8
 #EXTINF:-1 tvg-name="Al Jazeera Mubasher Broadcast 2 (1080p)"tvg-id="AlJazeeraMubasherBroadcast2.qa@SD"tvg-logo="https://i.imgur.com/nJmi6G6.png"group-title="Arabic",Al Jazeera Mubasher Broadcast 2 (1080p)
@@ -431,16 +147,10 @@ https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8
 https://streaming.zaytonatube.com:8081/AlMadinatv/almadina21/index.m3u8
 #EXTINF:-1 tvg-name="Al Mamlaka TV (1080p)"tvg-id="AlMamlakaTV.jo@SD"tvg-logo="https://i.imgur.com/UeTseMV.png"group-title="Arabic",Al Mamlaka TV (1080p)
 https://bcovlive-a.akamaihd.net/4109c7ba30fd4a44ad9afe917c67a8c8/eu-central-1/6415809151001/playlist_dvr.m3u8
-#EXTINF:-1 tvg-name="Al Manar (576p) [Not 24/7]"tvg-id="AlManar.lb@SD"tvg-logo="https://i.imgur.com/sOQLV7L.png"group-title="Arabic",Al Manar (576p) [Not 24/7]
-https://edge.fastpublish.me/live/index.m3u8
 #EXTINF:-1 tvg-name="Al Masar TV (576p)"tvg-id="AlMasarTV.ly@SD"tvg-logo="https://i.postimg.cc/zB2BNnf7/almasartv.png"group-title="Arabic",Al Masar TV (576p)
 https://starmenajo.com/hls/almasar/index.m3u8
 #EXTINF:-1 tvg-name="Al Masirah (720p) [Not 24/7]"tvg-id="AlMasirah.ye@SD"tvg-logo="https://i.imgur.com/V055t5e.png"group-title="Arabic",Al Masirah (720p) [Not 24/7]
 https://live.cdnbridge.tv/Almasirah/Almasirah_all/playlist.m3u8
-#EXTINF:-1 tvg-name="Al Masirah Mubacher (642p) [Not 24/7]"tvg-id="AlMasirahMubacher.ye@SD"tvg-logo="https://i.imgur.com/0xHb3XM.jpg"group-title="Arabic",Al Masirah Mubacher (642p) [Not 24/7]
-https://live2.cdnbridge.tv/AlmasirahMubasher/Mubasher_All/playlist.m3u8
-#EXTINF:-1 tvg-name="Al Mayadeen (576p)"tvg-id="AlMayadeenTV.lb@SD"tvg-logo="https://i.imgur.com/GtQOKeW.png"group-title="Arabic",Al Mayadeen (576p)
-https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Al Najah News (720p)"tvg-id="AlNajahNews.ps@SD"tvg-logo="https://i.imgur.com/c2bwn4G.png"group-title="Arabic",Al Najah News (720p)
 https://streaming.najah.edu:8443/hls/AlNajah.m3u8
 #EXTINF:-1 tvg-name="Al Rayyan (1080p)"tvg-id="AlRayyanTV.qa@SD"tvg-logo="https://i.imgur.com/Ts3RjTV.png"group-title="Arabic",Al Rayyan (1080p)
@@ -459,8 +169,6 @@ https://amg01480-alshallalfze-alshallal-ono-q0hfg.amagi.tv/playlist.m3u8
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Al-Sharqiya (1080p)"tvg-id="AlSharqiya.iq@SD"tvg-logo="https://i.imgur.com/mJIG5IV.png"group-title="Arabic",Al-Sharqiya (1080p)
 https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8
-#EXTINF:-1 tvg-name="Al-Sharqiya News (1080p)"tvg-id="AlSharqiyaNews.iq@SD"tvg-logo="https://i.imgur.com/PeAcXB9.png"group-title="Arabic",Al-Sharqiya News (1080p)
-https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8
 #EXTINF:-1 tvg-name="Alkhuzama Radio (1080p)"tvg-id="AlkhuzamaRadio.sa@SD"tvg-logo="https://shahid.mbc.net/mediaObject/61010cbc-91c5-4ce1-94a4-ed40adadb97b"group-title="Arabic",Alkhuzama Radio (1080p)
 https://live.kwikmotion.com/sbrksakhuzamaradiolive/srpkhuzama/playlist.m3u8
 #EXTINF:-1 tvg-name="Almahriah TV (576p)"tvg-id="AlmahriahTV.tr@SD"tvg-logo="https://i.imgur.com/GgEeTNr.png"group-title="Arabic",Almahriah TV (576p)
@@ -473,8 +181,6 @@ https://live.kwikmotion.com/syriatv02live/syriatv02.smil/playlist.m3u8
 http://alwifaklive.info:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-name="Amman TV (720p)"tvg-id="AmmanTV.jo@SD"tvg-logo="https://i.imgur.com/5l7kw0b.png"group-title="Arabic",Amman TV (720p)
 https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
-#EXTINF:-1 tvg-name="Arabica TV (720p)"tvg-id="ArabicaTV.lb@SD"tvg-logo="https://i.imgur.com/sTOoDy1.png"group-title="Music",Arabica TV (720p)
-http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF:-1 tvg-name="Asharq Discovery (1080p)"tvg-id="AsharqDiscovery.sa@SD"tvg-logo="https://i.imgur.com/Czxi7yk.png"group-title="Arabic",Asharq Discovery (1080p)
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-name="Asharq Documentary (1080p)"tvg-id="AsharqDocumentary.sa@SD"tvg-logo="https://i.imgur.com/v6VsFEt.png"group-title="Arabic",Asharq Documentary (1080p)
@@ -491,30 +197,16 @@ https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
 #EXTINF:-1 tvg-name="Bahrain TV (720p) [Not 24/7]"tvg-id="BahrainTV.bh@SD"tvg-logo="https://i.postimg.cc/rw57LMpY/bahraintv.png"group-title="Arabic",Bahrain TV (720p) [Not 24/7]
 https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
-#EXTINF:-1 tvg-name="BBC Arabic (720p)"tvg-id="BBCArabic.uk@SD"tvg-logo="https://i.imgur.com/ScyTG6P.png"group-title="Arabic",BBC Arabic (720p)
-https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
 #EXTINF:-1 tvg-name="Big Time Plus (1080p)"tvg-id="BigTimePlus.sa@SD"tvg-logo="https://shahid.mbc.net/mediaObject/4e042cb6-500b-4e4c-a8ca-21a5a7a7a71b"group-title="Arabic",Big Time Plus (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-big-time-plus/924283f994779a311c1389698ff7e736/index.m3u8
-#EXTINF:-1 tvg-name="Channel 8 Kurdish (720p)"tvg-id="Channel8.iq@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Channel8corp.png/480px-Channel8corp.png"group-title="Arabic",Channel 8 Kurdish (720p)
-https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8
 #EXTINF:-1 tvg-name="ERi-TV 1 (576p)"tvg-id="ERiTV1.er@SD"tvg-logo="https://i.imgur.com/bTR0Huw.png"group-title="Arabic",ERi-TV 1 (576p)
 https://jmc-live.ercdn.net/eritreatv/eritreatv.m3u8
-#EXTINF:-1 tvg-name="Fairuz (1080p)"tvg-id="Fairuz.sa@HD"tvg-logo="https://shahid.mbc.net/mediaObject/f809d51c-e83d-43c9-8236-78731c2216ad?type=png"group-title="Music",Fairuz (1080p)
-https://shls-live-enc.edgenextcdn.net/out/v1/bba3ef00b71b470fa955d93a9ca8c277/index.m3u8
-#EXTINF:-1 tvg-name="Falastini TV (1080p)"tvg-id="FalastiniTV.ps@SD"tvg-logo="https://i.imgur.com/6B3Cims.png"group-title="Music",Falastini TV (1080p)
-https://rp.tactivemedia.com/palestiniantv_source/live/playlist.m3u8
-#EXTINF:-1 tvg-name="France 24 Arabic (1080p)"tvg-id="France24.fr@Arabic"tvg-logo="https://i.postimg.cc/wvbm21St/france24.png"group-title="Arabic",France 24 Arabic (1080p)
-https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-name="Fujairah TV (720p)"tvg-id="FujairahTV.ae@SD"tvg-logo="https://i.postimg.cc/6TxTbnzQ/fujairahtv.png"group-title="Arabic",Fujairah TV (720p)
 https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Hala London (1080p)"tvg-id="HalaLondon.uk@SD"tvg-logo="https://i.imgur.com/bM4VZDH.png"group-title="Arabic",Hala London (1080p)
 https://halalondon-live.ercdn.net/halalondon/halalondon.m3u8
 #EXTINF:-1 tvg-name="Hala TV (1080p) [Not 24/7]"tvg-id="HalaTV.il@SD"tvg-logo="https://i.imgur.com/028M4Ew.png"group-title="Arabic",Hala TV (1080p) [Not 24/7]
 https://stream.panet.com/edge/halaTV/playlist.m3u8
-#EXTINF:-1 tvg-name="I24 News Arabic (720p)"tvg-id="i24NEWSArabic.il@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png"group-title="Arabic",I24 News Arabic (720p)
-https://bcovlive-a.akamaihd.net/95116e8d79524d87bf3ac20ba04241e3/eu-central-1/5377161796001/playlist.m3u8
-#EXTINF:-1 tvg-name="iNEWS TV (1080p)"tvg-id="INews.iq@SD"tvg-logo="https://i.postimg.cc/sfHXNBwm/inews.png"group-title="Arabic",iNEWS TV (1080p)
-https://live.i-news.tv/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Iraq Future"tvg-id="IraqFuture.iq@SD"tvg-logo="https://i.imgur.com/Z7woTe5.png"group-title="Arabic",Iraq Future
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_040/Stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Jordan Archive (1080p)"tvg-id="JordanArchive.jo@SD"tvg-logo="https://i.imgur.com/8UrCl4k.png"group-title="Arabic",Jordan Archive (1080p)
@@ -535,10 +227,70 @@ https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-name="Kurdistan TV (720p) [Not 24/7]"tvg-id="KurdistanTV.iq@SD"tvg-logo="https://i.postimg.cc/MTmv3dXr/kurdistantv.png"group-title="Arabic",Kurdistan TV (720p) [Not 24/7]
 https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Kurdsat News (1080p)"tvg-id="KurdsatNews.iq@SD"tvg-logo="https://i.postimg.cc/Kj94xjPP/kurdsatnews.png"group-title="Arabic",Kurdsat News (1080p)
-https://iko-streamline-live1.akamaized.net/KurdsatNews/master.m3u8
 #EXTINF:-1 tvg-name="Maraya (1080p)"tvg-id="Maraya.sa@HD"tvg-logo="https://shahid.mbc.net/mediaObject/d089a559-4f41-4def-a786-f98fcfbf0464?height=auto&width=288&croppingPoint=&version=1&type=png"group-title="Arabic",Maraya (1080p)
 https://shls-live-enc.edgenextcdn.net/out/v1/a4a39d8e92e34b0780ca602270a59512/index.m3u8
+#EXTINF:-1 tvg-name="Mekameleen TV (1080p)"tvg-id="MekameleenTV.tr@SD"tvg-logo="https://i.postimg.cc/85dghYss/mekameleentv.png"group-title="Arabic",Mekameleen TV (1080p)
+https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Miracle Channel (576p)"tvg-id="MiracleChannel.se@SD"tvg-logo="https://i.imgur.com/yrt7Rw9.png"group-title="Arabic",Miracle Channel (576p)
+https://miracle.stream.boxigy.com/hls/miracle1.m3u8
+#EXTINF:-1 tvg-name="MTV (1080p)"tvg-id="MTV.lb@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Murr_tv.png"group-title="Arabic",MTV (1080p)
+https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8
+#EXTINF:-1 tvg-name="like Gecko) Chrome/92.0.4515.131 Safari/537.36"tvg-id="MusawaChannel.ps@SD"tvg-logo="https://i.imgur.com/GB2Q9kl.png"group-title="Arabic",MusawaChannel (1080p) [Not 24/7]
+https://pbc.furrera.ps/musawahd/index.m3u8
+#EXTINF:-1 tvg-name="Pulse95 Radio (1080p)"tvg-id="Pulse95Radio.ae@SD"tvg-logo="https://maraya.faulio.com/storage/mediagallery/60/26/fullhd_d5c3c81b0562a76bc63f073a5e0947f309b0215b.png"group-title="Arabic",Pulse95 Radio (1080p)
+https://svs.itworkscdn.net/pulse95live/pulse96/playlist.m3u8
+#EXTINF:-1 tvg-name="Qaf TV (1080p)"tvg-id="QafTV.tr@SD"tvg-logo="https://i.postimg.cc/JhZwbhhR/qaftv.png"group-title="Arabic",Qaf TV (1080p)
+https://customer-9vqui33qma2rownb.cloudflarestream.com/7792e558fe54e23bdd4b462ec275cdba/manifest/video.m3u8
+#EXTINF:-1 tvg-name="Qatar Television (1080p)"tvg-id="QatarTelevision.qa@SD"tvg-logo="https://i.imgur.com/N5RB4sp.png"group-title="Arabic",Qatar Television (1080p)
+https://live.kwikmotion.com/qtv1live/qtv1.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Qatar Television 2 (1080p)"tvg-id="QatarTelevision2.qa@SD"tvg-logo="https://i.imgur.com/iWJxDUm.png"group-title="Arabic",Qatar Television 2 (1080p)
+https://live.kwikmotion.com/qtv2live/qtv2.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Quran Radio (1080p)"tvg-id="QuranRadio.sa@SD"tvg-logo="https://i.imgur.com/ut0kr4x.png"group-title="Arabic",Quran Radio (1080p)
+https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8
+#EXTINF:-1 tvg-name="Radio Albalad TV (720p)"tvg-id="RadioAlbaladTV.ps@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Nothing_whitespace_blank.png"group-title="Arabic",Radio Albalad TV (720p)
+http://streaming.zaytonatube.com:8080/radioalbalad/radioalbalad/playlist.m3u8
+#EXTINF:-1 tvg-name="Radio Fann Jordan Studio (1080p) [Not 24/7]"tvg-id="RadioFannJordanStudio.jo@SD"tvg-logo="https://cdn-profiles.tunein.com/s142626/images/logod.jpg"group-title="Arabic",Radio Fann Jordan Studio (1080p) [Not 24/7]
+http://45.63.116.205/hls2/stream1.m3u8
+#EXTINF:-1 tvg-name="Radio Yaqeen Jordan City View (1080p) [Not 24/7]"tvg-id="RadioYaqeenJordanCityView.jo@SD"tvg-logo="https://i.imgur.com/wHOQU0R.png"group-title="Arabic",Radio Yaqeen Jordan City View (1080p) [Not 24/7]
+http://45.63.116.205/hls4/stream1.m3u8
+#EXTINF:-1 tvg-name="Rajeen TV (1080p) [Not 24/7]"tvg-id="RajeenTV.ps@SD"tvg-logo="https://i.imgur.com/6Cx22ya.png"group-title="Arabic",Rajeen TV (1080p) [Not 24/7]
+https://mn-nl.mncdn.com/palabroad/live/playlist.m3u8
+#EXTINF:-1 tvg-name="Red TV Lebanon (1080p)"tvg-id="RedTVLebanon.lb@HD"tvg-logo="https://i.imgur.com/bWwY885.png"group-title="Arabic",Red TV Lebanon (1080p)
+https://live.kwikmotion.com/redtvlive/redtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Shabab FM (720p) [Not 24/7]"tvg-id="ShababFM.ps@SD"tvg-logo="https://i.imgur.com/4Cyz4Bn.png"group-title="Arabic",Shabab FM (720p) [Not 24/7]
+https://streaming.zaytonatube.com:8081/ShababFM/shabab/index.m3u8
+#EXTINF:-1 tvg-name="Shams TV (1080p)"tvg-id="ShamsTV.iq@SD"tvg-logo="https://i.postimg.cc/PJdsTyx8/shamstv.png"group-title="Arabic",Shams TV (1080p)
+https://stream.shams.tv/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Sharjah Radio (1080p)"tvg-id="SharjahRadio.ae@SD"tvg-logo="https://i.imgur.com/q7GGALe.png"group-title="Arabic",Sharjah Radio (1080p)
+https://svs.itworkscdn.net/smcradiolive/smcradiolive/playlist.m3u8
+#EXTINF:-1 tvg-name="Sharjah Sports (1080p) [Geo-blocked]"tvg-id="SharjahSports.ae@SD"tvg-logo="https://i.imgur.com/CsEElsJ.png"group-title="Arabic",Sharjah Sports (1080p) [Geo-blocked]
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Sky News Arabia (Portrait) (1280p) [Not 24/7]"tvg-id="SkyNewsArabiaVertical.ae@SD"tvg-logo="https://i.imgur.com/FjtzQQs.png"group-title="Arabic",Sky News Arabia (Portrait) (1280p) [Not 24/7]
+https://stream.skynewsarabia.com/vertical/vertical.m3u8
+#EXTINF:-1 tvg-name="Sudan TV (360p)"tvg-id="SudanTV.sd@SD"tvg-logo="https://i.imgur.com/XUPAYAA.png"group-title="Arabic",Sudan TV (360p)
+https://cdn-globecast.akamaized.net/live/eds/sudan_tv/hls_roku/index.m3u8
+#EXTINF:-1 tvg-name="Tanasuh TV (1080p)"tvg-id="TanasuhTV.ly@HD"tvg-logo="https://i.imgur.com/iBAhM2v.png"group-title="Arabic",Tanasuh TV (1080p)
+https://kilolink.pulsarstarsolutions.com/live/smil:tanasuhtv.smil/manifest.m3u8
+#EXTINF:-1 tvg-name="Voice of Lebanon (1080p)"tvg-id="VoiceofLebanon.lb@SD"tvg-logo="https://i.imgur.com/f8WcqRY.png"group-title="Arabic",Voice of Lebanon (1080p)
+https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Wanasah (1080p)"tvg-id="Wanasah.ae@SD"tvg-logo="https://i.imgur.com/nLtiXNf.png"group-title="Arabic",Wanasah (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b26e8a41f173d/index.m3u8
+#EXTINF:-1 tvg-name="Watan TV (1080p)"tvg-id="WatanTV.eg@SD"tvg-logo="https://i.postimg.cc/5y57gQw5/watantv.png"group-title="Arabic",Watan TV (1080p)
+https://rp.tactivemedia.com/watantv_source/live/playlist.m3u8
+#EXTINF:-1 tvg-name="Watar Radio (1080p)"tvg-id="WatarRadio.ae@SD"tvg-logo="https://sbauae.faulio.com/storage/mediagallery/d2/ad/fullhd_48adf2291d08266c05ed1b0c24f326c86b1095b7.png"group-title="Arabic",Watar Radio (1080p)
+https://svs.itworkscdn.net/smcwatarlive/smcwatar/playlist.m3u8
+#EXTINF:-1 tvg-name="Welat TV (1080i)"tvg-id="WelatTV.sy@HD"tvg-logo="https://avatars.githubusercontent.com/u/213803648?s=400&u=e27c09d39f813b9698de9c6559cbf7f196bf6fce&v=4"group-title="Arabic",Welat TV (1080i)
+https://stream.badinan.xyz/welat/tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Yemen Today TV (480p)"tvg-id="YemenTodayTV.ye@SD"tvg-logo="https://i.imgur.com/8TzcJu5.png"group-title="Arabic",Yemen Today TV (480p)
+https://video.yementdy.tv/hls/yementoday.m3u8
+#EXTINF:-1 tvg-name="Zagros (720p) [Not 24/7]"tvg-id="ZagrosTV.iq@SD"tvg-logo="https://i.imgur.com/9Mspf32.png"group-title="Arabic",Zagros (720p) [Not 24/7]
+https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Zarin TV"tvg-id="ZarinTV.us@SD"tvg-logo="https://www.lyngsat.com/logo/tv/zz/zarin_tv.png"group-title="Arabic",Zarin TV
+https://fl1002.bozztv.com/gf-zarintv/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="2M.ma@SD"tvg-logo="https://i.imgur.com/PJYTfHi.png"group-title="Arabic",2M
+http://185.9.2.18/chid_218/index.m3u8
+#EXTINF:-1 tvg-name="Aflam (1080p)"tvg-id="Aflam.sa@SD"tvg-logo="https://i.imgur.com/cTLj7Yt.png"group-title="Movies",Aflam (1080p)
+https://shls-live-enc.edgenextcdn.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index.m3u8
 #EXTINF:-1 tvg-name="Marina TV (1080p)"tvg-id="MarinaTV.kw@SD"tvg-logo="https://i.imgur.com/F2PzEaw.png"group-title="Movies",Marina TV (1080p)
 https://ffs.gulfsat.com/Marina-TV-HD/index.m3u8
 #EXTINF:-1 tvg-name="MBC 1 (1080p)"tvg-id="MBC1.ae@SD"tvg-logo="https://i.imgur.com/CiA3plN.png"group-title="Movies",MBC 1 (1080p)
@@ -569,106 +321,56 @@ https://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a41339b8010c882410307/in
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-usa/cd8d40acdab28aac0582faa3bd3983f1/index.m3u8
 #EXTINF:-1 tvg-name="MBC+ Drama (1080p)"tvg-id="MBCPlusDrama.sa@SD"tvg-logo="https://i.imgur.com/lxWdjXG.png"group-title="Movies",MBC+ Drama (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8
-#EXTINF:-1 tvg-name="Mekameleen TV (1080p)"tvg-id="MekameleenTV.tr@SD"tvg-logo="https://i.postimg.cc/85dghYss/mekameleentv.png"group-title="Arabic",Mekameleen TV (1080p)
-https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Miracle Channel (576p)"tvg-id="MiracleChannel.se@SD"tvg-logo="https://i.imgur.com/yrt7Rw9.png"group-title="Arabic",Miracle Channel (576p)
-https://miracle.stream.boxigy.com/hls/miracle1.m3u8
-#EXTINF:-1 tvg-name="Mohammed Abdo (1080p)"tvg-id="MohammedAbdo.sa@SD"tvg-logo="https://assets.mbcmood.com/channels/1720184012Mohammed%20Abdo%20banner.png"group-title="Music",Mohammed Abdo (1080p)
-https://d2ow8h651gs7dx.cloudfront.net/out/v1/371fb663da604e659a2fb99bf89d92d4/index.m3u8
 #EXTINF:-1 tvg-name="Movies Action (1080p)"tvg-id="MoviesAction.sa@SD"tvg-logo="https://i.imgur.com/NIVhISa.png"group-title="Movies",Movies Action (1080p)
 https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
 #EXTINF:-1 tvg-name="Movies Thriller (1080p)"tvg-id="MoviesThriller.sa@SD"tvg-logo="https://i.imgur.com/JWihdcl.png"group-title="Movies",Movies Thriller (1080p)
 https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
-#EXTINF:-1 tvg-name="MTV (1080p)"tvg-id="MTV.lb@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Murr_tv.png"group-title="Arabic",MTV (1080p)
-https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8
-#EXTINF:-1 tvg-name="like Gecko) Chrome/92.0.4515.131 Safari/537.36"tvg-id="MusawaChannel.ps@SD"tvg-logo="https://i.imgur.com/GB2Q9kl.png"group-title="Arabic",MusawaChannel (1080p) [Not 24/7]
-https://pbc.furrera.ps/musawahd/index.m3u8
-#EXTINF:-1 tvg-name="like Gecko) Chrome/92.0.4515.131 Safari/537.36"tvg-id="PalestineMubasher.ps@SD"tvg-logo="https://i.imgur.com/68llVTZ.png"group-title="Arabic",Palestine Mubasher (1080p)
-https://pbc.furrera.ps/palestinelivehd/index.m3u8
-#EXTINF:-1 tvg-name="like Gecko) Chrome/92.0.4515.131 Safari/537.36"tvg-id="PalestineSatelliteChannel.ps@SD"tvg-logo="https://i.imgur.com/4B5FvmX.png"group-title="Arabic",Palestine Satellite Channel (1080p)
-https://pbc.furrera.ps/palestinehd/index.m3u8
-#EXTINF:-1 tvg-name="Panorama FM (1080p)"tvg-id="PanoramaFM.sa@SD"tvg-logo="https://i.imgur.com/JkDD3bK.png"group-title="Music",Panorama FM (1080p)
-https://d6izdil55uftn.cloudfront.net/out/v1/0a06d1d6377c47edbd48721ed724bd08/index.m3u8
-#EXTINF:-1 tvg-name="Pulse95 Radio (1080p)"tvg-id="Pulse95Radio.ae@SD"tvg-logo="https://maraya.faulio.com/storage/mediagallery/60/26/fullhd_d5c3c81b0562a76bc63f073a5e0947f309b0215b.png"group-title="Arabic",Pulse95 Radio (1080p)
-https://svs.itworkscdn.net/pulse95live/pulse96/playlist.m3u8
-#EXTINF:-1 tvg-name="Qaf TV (1080p)"tvg-id="QafTV.tr@SD"tvg-logo="https://i.postimg.cc/JhZwbhhR/qaftv.png"group-title="Arabic",Qaf TV (1080p)
-https://customer-9vqui33qma2rownb.cloudflarestream.com/7792e558fe54e23bdd4b462ec275cdba/manifest/video.m3u8
-#EXTINF:-1 tvg-name="Qatar Television (1080p)"tvg-id="QatarTelevision.qa@SD"tvg-logo="https://i.imgur.com/N5RB4sp.png"group-title="Arabic",Qatar Television (1080p)
-https://live.kwikmotion.com/qtv1live/qtv1.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Qatar Television 2 (1080p)"tvg-id="QatarTelevision2.qa@SD"tvg-logo="https://i.imgur.com/iWJxDUm.png"group-title="Arabic",Qatar Television 2 (1080p)
-https://live.kwikmotion.com/qtv2live/qtv2.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Quran Radio (1080p)"tvg-id="QuranRadio.sa@SD"tvg-logo="https://i.imgur.com/ut0kr4x.png"group-title="Arabic",Quran Radio (1080p)
-https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8
-#EXTINF:-1 tvg-name="Rabeh Saqer (1080p)"tvg-id="RabehSaqer.sa@HD"tvg-logo="https://shahid.mbc.net/mediaObject/b98b0635-c8ed-4a7c-9efa-5856e278f54b?type=png"group-title="Music",Rabeh Saqer (1080p)
-https://shls-live-enc.edgenextcdn.net/out/v1/ea4275b6dc0840c198c17f6dc6f1ec49/index.m3u8
-#EXTINF:-1 tvg-name="Radio Albalad TV (720p)"tvg-id="RadioAlbaladTV.ps@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Nothing_whitespace_blank.png"group-title="Arabic",Radio Albalad TV (720p)
-http://streaming.zaytonatube.com:8080/radioalbalad/radioalbalad/playlist.m3u8
-#EXTINF:-1 tvg-name="Radio Fann Jordan Studio (1080p) [Not 24/7]"tvg-id="RadioFannJordanStudio.jo@SD"tvg-logo="https://cdn-profiles.tunein.com/s142626/images/logod.jpg"group-title="Arabic",Radio Fann Jordan Studio (1080p) [Not 24/7]
-http://45.63.116.205/hls2/stream1.m3u8
-#EXTINF:-1 tvg-name="Radio Yaqeen Jordan City View (1080p) [Not 24/7]"tvg-id="RadioYaqeenJordanCityView.jo@SD"tvg-logo="https://i.imgur.com/wHOQU0R.png"group-title="Arabic",Radio Yaqeen Jordan City View (1080p) [Not 24/7]
-http://45.63.116.205/hls4/stream1.m3u8
-#EXTINF:-1 tvg-name="Rajeen TV (1080p) [Not 24/7]"tvg-id="RajeenTV.ps@SD"tvg-logo="https://i.imgur.com/6Cx22ya.png"group-title="Arabic",Rajeen TV (1080p) [Not 24/7]
-https://mn-nl.mncdn.com/palabroad/live/playlist.m3u8
-#EXTINF:-1 tvg-name="Rashid AlMajed (1080p)"tvg-id="RashidAlMajed.sa@SD"tvg-logo="https://assets.mbcmood.com/channels/1720177618Rashid%20AlMajed.webp"group-title="Music",Rashid AlMajed (1080p)
-https://dphwv2ufgnfsq.cloudfront.net/out/v1/59cd80dfe93a479eb8b4d79bc6f225ca/index.m3u8
-#EXTINF:-1 tvg-name="Red TV Lebanon (1080p)"tvg-id="RedTVLebanon.lb@HD"tvg-logo="https://i.imgur.com/bWwY885.png"group-title="Arabic",Red TV Lebanon (1080p)
-https://live.kwikmotion.com/redtvlive/redtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Rotana Radio Jordan Studio (1080p) [Not 24/7]"tvg-id="RotanaRadioJordanStudio.jo@SD"tvg-logo="https://i.imgur.com/xGDjlp5.png"group-title="Movies",Rotana Radio Jordan Studio (1080p) [Not 24/7]
 http://45.63.116.205/hls/stream1.m3u8
 #EXTINF:-1 tvg-name="Rotana Tarab Jordan City View (720p) [Not 24/7]"tvg-id="RotanaTarabJordanCityView.jo@SD"tvg-logo="https://i.imgur.com/NjgOBts.png"group-title="Movies",Rotana Tarab Jordan City View (720p) [Not 24/7]
 http://45.63.116.205/hls3/stream1.m3u8
-#EXTINF:-1 tvg-name="Shabab FM (720p) [Not 24/7]"tvg-id="ShababFM.ps@SD"tvg-logo="https://i.imgur.com/4Cyz4Bn.png"group-title="Arabic",Shabab FM (720p) [Not 24/7]
-https://streaming.zaytonatube.com:8081/ShababFM/shabab/index.m3u8
-#EXTINF:-1 tvg-name="Shams TV (1080p)"tvg-id="ShamsTV.iq@SD"tvg-logo="https://i.postimg.cc/PJdsTyx8/shamstv.png"group-title="Arabic",Shams TV (1080p)
-https://stream.shams.tv/hls/stream.m3u8
-#EXTINF:-1 tvg-name="Sharjah Radio (1080p)"tvg-id="SharjahRadio.ae@SD"tvg-logo="https://i.imgur.com/q7GGALe.png"group-title="Arabic",Sharjah Radio (1080p)
-https://svs.itworkscdn.net/smcradiolive/smcradiolive/playlist.m3u8
-#EXTINF:-1 tvg-name="Sharjah Sports (1080p) [Geo-blocked]"tvg-id="SharjahSports.ae@SD"tvg-logo="https://i.imgur.com/CsEElsJ.png"group-title="Arabic",Sharjah Sports (1080p) [Geo-blocked]
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Sky News Arabia (1080p) [Not 24/7]"tvg-id="SkyNewsArabia.ae@SD"tvg-logo="https://i.imgur.com/SvjU4h6.png"group-title="Arabic",Sky News Arabia (1080p) [Not 24/7]
-https://stream.skynewsarabia.com/ott/ott.m3u8
-#EXTINF:-1 tvg-name="Sky News Arabia (Portrait) (1280p) [Not 24/7]"tvg-id="SkyNewsArabiaVertical.ae@SD"tvg-logo="https://i.imgur.com/FjtzQQs.png"group-title="Arabic",Sky News Arabia (Portrait) (1280p) [Not 24/7]
-https://stream.skynewsarabia.com/vertical/vertical.m3u8
-#EXTINF:-1 tvg-name="Sudan TV (360p)"tvg-id="SudanTV.sd@SD"tvg-logo="https://i.imgur.com/XUPAYAA.png"group-title="Arabic",Sudan TV (360p)
-https://cdn-globecast.akamaized.net/live/eds/sudan_tv/hls_roku/index.m3u8
-#EXTINF:-1 tvg-name="Syria TV (1080p)"tvg-id="SyriaTV.sy@SD"tvg-logo="https://i.postimg.cc/5thv6b7c/syriatv.png"group-title="Arabic",Syria TV (1080p)
-https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8
-#EXTINF:-1 tvg-name="Tanasuh TV (1080p)"tvg-id="TanasuhTV.ly@HD"tvg-logo="https://i.imgur.com/iBAhM2v.png"group-title="Arabic",Tanasuh TV (1080p)
-https://kilolink.pulsarstarsolutions.com/live/smil:tanasuhtv.smil/manifest.m3u8
+#EXTINF:-1 tvg-name="Afra Film"tvg-id="AfraFilm.ir@SD"tvg-logo="https://i.postimg.cc/vZWdM86g/afra-film.jpg"group-title="Movies",Afra Film
+https://afrafhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="GEM Pixel"tvg-id="GEMPixel.tr@SD"tvg-logo="https://i.ibb.co/Q3tkbPrn/icon-27.png"group-title="Movies",GEM Pixel
+https://glserver1.tamashaland.com/live/aBCH96886YznRbGOiqTnnQ__/stream_0.m3u8
+#EXTINF:-1 tvg-name="Gold Star"tvg-id="GoldStar.ir@SD"tvg-logo="https://i.postimg.cc/KvsfL3sM/goldstar.jpg"group-title="Movies",Gold Star
+https://moviethls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Grand Cinema"tvg-id="GrandCinema.tr@SD"tvg-logo="https://www.lyngsat.com/logo/tv/gg/grand-cinema.png"group-title="Movies",Grand Cinema
+https://gcinemahls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="ICC Plus (1080p)"tvg-id="ICCplus.us@SD"tvg-logo="https://www.lyngsat.com/logo/tv/ii/iccplus-us.png"group-title="Movies",ICC Plus (1080p)
+https://icchls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Arabica TV (720p)"tvg-id="ArabicaTV.lb@SD"tvg-logo="https://i.imgur.com/sTOoDy1.png"group-title="Music",Arabica TV (720p)
+http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
+#EXTINF:-1 tvg-name="Fairuz (1080p)"tvg-id="Fairuz.sa@HD"tvg-logo="https://shahid.mbc.net/mediaObject/f809d51c-e83d-43c9-8236-78731c2216ad?type=png"group-title="Music",Fairuz (1080p)
+https://shls-live-enc.edgenextcdn.net/out/v1/bba3ef00b71b470fa955d93a9ca8c277/index.m3u8
+#EXTINF:-1 tvg-name="Falastini TV (1080p)"tvg-id="FalastiniTV.ps@SD"tvg-logo="https://i.imgur.com/6B3Cims.png"group-title="Music",Falastini TV (1080p)
+https://rp.tactivemedia.com/palestiniantv_source/live/playlist.m3u8
+#EXTINF:-1 tvg-name="Mohammed Abdo (1080p)"tvg-id="MohammedAbdo.sa@SD"tvg-logo="https://assets.mbcmood.com/channels/1720184012Mohammed%20Abdo%20banner.png"group-title="Music",Mohammed Abdo (1080p)
+https://d2ow8h651gs7dx.cloudfront.net/out/v1/371fb663da604e659a2fb99bf89d92d4/index.m3u8
+#EXTINF:-1 tvg-name="Panorama FM (1080p)"tvg-id="PanoramaFM.sa@SD"tvg-logo="https://i.imgur.com/JkDD3bK.png"group-title="Music",Panorama FM (1080p)
+https://d6izdil55uftn.cloudfront.net/out/v1/0a06d1d6377c47edbd48721ed724bd08/index.m3u8
+#EXTINF:-1 tvg-name="Rabeh Saqer (1080p)"tvg-id="RabehSaqer.sa@HD"tvg-logo="https://shahid.mbc.net/mediaObject/b98b0635-c8ed-4a7c-9efa-5856e278f54b?type=png"group-title="Music",Rabeh Saqer (1080p)
+https://shls-live-enc.edgenextcdn.net/out/v1/ea4275b6dc0840c198c17f6dc6f1ec49/index.m3u8
+#EXTINF:-1 tvg-name="Rashid AlMajed (1080p)"tvg-id="RashidAlMajed.sa@SD"tvg-logo="https://assets.mbcmood.com/channels/1720177618Rashid%20AlMajed.webp"group-title="Music",Rashid AlMajed (1080p)
+https://dphwv2ufgnfsq.cloudfront.net/out/v1/59cd80dfe93a479eb8b4d79bc6f225ca/index.m3u8
 #EXTINF:-1 tvg-name="Tarab (1080p)"tvg-id="Tarab.sa@SD"tvg-logo="https://assets.mbcmood.com/channels/1738059679TARAB_Logo.png"group-title="Music",Tarab (1080p)
 https://shls-live-enc.edgenextcdn.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8
-#EXTINF:-1 tvg-name="Voice of Lebanon (1080p)"tvg-id="VoiceofLebanon.lb@SD"tvg-logo="https://i.imgur.com/f8WcqRY.png"group-title="Arabic",Voice of Lebanon (1080p)
-https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Wanasah (1080p)"tvg-id="Wanasah.ae@SD"tvg-logo="https://i.imgur.com/nLtiXNf.png"group-title="Arabic",Wanasah (1080p)
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b26e8a41f173d/index.m3u8
-#EXTINF:-1 tvg-name="Watan TV (1080p)"tvg-id="WatanTV.eg@SD"tvg-logo="https://i.postimg.cc/5y57gQw5/watantv.png"group-title="Arabic",Watan TV (1080p)
-https://rp.tactivemedia.com/watantv_source/live/playlist.m3u8
-#EXTINF:-1 tvg-name="Watar Radio (1080p)"tvg-id="WatarRadio.ae@SD"tvg-logo="https://sbauae.faulio.com/storage/mediagallery/d2/ad/fullhd_48adf2291d08266c05ed1b0c24f326c86b1095b7.png"group-title="Arabic",Watar Radio (1080p)
-https://svs.itworkscdn.net/smcwatarlive/smcwatar/playlist.m3u8
-#EXTINF:-1 tvg-name="Welat TV (1080i)"tvg-id="WelatTV.sy@HD"tvg-logo="https://avatars.githubusercontent.com/u/213803648?s=400&u=e27c09d39f813b9698de9c6559cbf7f196bf6fce&v=4"group-title="Arabic",Welat TV (1080i)
-https://stream.badinan.xyz/welat/tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Yemen Today TV (480p)"tvg-id="YemenTodayTV.ye@SD"tvg-logo="https://i.imgur.com/8TzcJu5.png"group-title="Arabic",Yemen Today TV (480p)
-https://video.yementdy.tv/hls/yementoday.m3u8
-#EXTINF:-1 tvg-name="Zagros (720p) [Not 24/7]"tvg-id="ZagrosTV.iq@SD"tvg-logo="https://i.imgur.com/9Mspf32.png"group-title="Arabic",Zagros (720p) [Not 24/7]
-https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Zarin TV"tvg-id="ZarinTV.us@SD"tvg-logo="https://www.lyngsat.com/logo/tv/zz/zarin_tv.png"group-title="Arabic",Zarin TV
-https://fl1002.bozztv.com/gf-zarintv/index.m3u8
-#EXTINF:-1 tvg-name="Iran International (720p)"tvg-id="IranInternational.uk"tvg-logo="https://i.imgur.com/55RpaF3.png"group-title="Pers",Iran International (720p)
-https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
 #EXTINF:-1 tvg-name="Persiana 4Kurd"tvg-id="4Kurd.fr"tvg-logo="https://i.imgur.com/xy7W0wD.png"group-title="Music",Persiana 4Kurd
 https://4kuhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Persiana Music"tvg-id="PersianaMusic.fr"tvg-logo="https://i.imgur.com/SHxxi5I.png"group-title="Music",Persiana Music
 https://musichls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="4 Kurd"tvg-id="4Kurd.fr@SD"tvg-logo="https://www.aparatchi.com/images/chanells-logo/4kurd.svg"group-title="Music",4 Kurd
 https://4kuhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-name="4U TV (720p)"tvg-id="4UTV.tr@SD"tvg-logo="https://i.imgur.com/PexhKwp.png"group-title="Pers",4U TV (720p)
-https://hls.4utv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="AFN TV"tvg-id="AFNTV.ir@SD"tvg-logo="https://i.imgur.com/LctanF8.png"group-title="Music",AFN TV
 https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
-#EXTINF:-1 tvg-name="Afra Film"tvg-id="AfraFilm.ir@SD"tvg-logo="https://i.postimg.cc/vZWdM86g/afra-film.jpg"group-title="Movies",Afra Film
-https://afrafhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-name="Al Alam (360p)"tvg-id="AlAlam.ir@SD"tvg-logo="https://i.imgur.com/Zdi31dy.png"group-title="Pers",Al Alam (360p)
-https://live2.alalam.ir/alalam.m3u8
+#EXTINF:-1 tvg-name="Avang TV (1080p)"tvg-id="AvangTV.us@SD"tvg-logo="https://i.postimg.cc/qMJNKMP2/avangtv.png"group-title="Music",Avang TV (1080p)
+https://hls.avang.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="High Vision (1080p)"tvg-id="HighVisionTV.us@SD"tvg-logo="https://i.imgur.com/zhCgoru.png"group-title="Music",High Vision (1080p)
+https://streamer1.connectto.com/HIGHVISION_WEB_1205/index.m3u8
+#EXTINF:-1 tvg-name="Iran International (720p)"tvg-id="IranInternational.uk"tvg-logo="https://i.imgur.com/55RpaF3.png"group-title="Pers",Iran International (720p)
+https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
+#EXTINF:-1 tvg-name="4U TV (720p)"tvg-id="4UTV.tr@SD"tvg-logo="https://i.imgur.com/PexhKwp.png"group-title="Pers",4U TV (720p)
+https://hls.4utv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Al Wilayah"tvg-id="AlWilayah.ir@SD"tvg-logo="https://i.imgur.com/OI1HQv5.png"group-title="Pers",Al Wilayah
 https://nl.livekadeh.com/hls2/alwilayah_tv.m3u8
 #EXTINF:-1 tvg-name="Arax TV"tvg-id="AraxTV.ir@SD"tvg-logo="https://i.postimg.cc/0QqcjgXX/araxtv.png"group-title="Pers",Arax TV
@@ -677,12 +379,8 @@ https://araxhls.wns.live/hls/stream.m3u8
 https://arkhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Arvan TV"tvg-id="ArvanTV.ir@SD"tvg-logo="https://i.postimg.cc/9z3M5pQ9/arvan.png"group-title="Pers",Arvan TV
 https://arvhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-name="Asil TV"tvg-id="AsilTV.ir@SD"tvg-logo="https://i.postimg.cc/WbG7N3Mr/asiltv.png"group-title="Pers",Asil TV
-https://live.asil.tv/asiltv/index.m3u8
 #EXTINF:-1 tvg-name="AVA Series"tvg-id="AVASeries.ir@SD"tvg-logo="https://i.imgur.com/8AfAfZE.png"group-title="Pers",AVA Series
 https://avaserieshls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-name="Avang TV (1080p)"tvg-id="AvangTV.us@SD"tvg-logo="https://i.postimg.cc/qMJNKMP2/avangtv.png"group-title="Music",Avang TV (1080p)
-https://hls.avang.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Classic TV"tvg-id="ClassicTV.ir@SD"tvg-logo="https://i.postimg.cc/0NnRMtn9/classic-tv.jpg"group-title="Pers",Classic TV
 https://clshls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Datis TV"tvg-id="DatisTV.ir@SD"tvg-logo="https://i.postimg.cc/GtXQX4L6/datistv.png"group-title="Pers",Datis TV
@@ -693,76 +391,234 @@ https://hls.erfanhalgheh.live/hls/stream.m3u8
 https://fxtvhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="FX TV 2"tvg-id="FX2.ir@SD"tvg-logo="https://www.lyngsat.com/logo/tv/ff/fx-two-fr.png"group-title="Pers",FX TV 2
 https://toonixhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-name="GEM Pixel"tvg-id="GEMPixel.tr@SD"tvg-logo="https://i.ibb.co/Q3tkbPrn/icon-27.png"group-title="Movies",GEM Pixel
-https://glserver1.tamashaland.com/live/aBCH96886YznRbGOiqTnnQ__/stream_0.m3u8
-#EXTINF:-1 tvg-name="Gold Star"tvg-id="GoldStar.ir@SD"tvg-logo="https://i.postimg.cc/KvsfL3sM/goldstar.jpg"group-title="Movies",Gold Star
-https://moviethls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-name="Grand Cinema"tvg-id="GrandCinema.tr@SD"tvg-logo="https://www.lyngsat.com/logo/tv/gg/grand-cinema.png"group-title="Movies",Grand Cinema
-https://gcinemahls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-name="High Vision (1080p)"tvg-id="HighVisionTV.us@SD"tvg-logo="https://i.imgur.com/zhCgoru.png"group-title="Music",High Vision (1080p)
-https://streamer1.connectto.com/HIGHVISION_WEB_1205/index.m3u8
-#EXTINF:-1 tvg-name="ICC Plus (1080p)"tvg-id="ICCplus.us@SD"tvg-logo="https://www.lyngsat.com/logo/tv/ii/iccplus-us.png"group-title="Movies",ICC Plus (1080p)
-https://icchls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="icnet 2"tvg-id="ICnet2.ca@SD"tvg-logo="https://i.imgur.com/Ke5xn4E.png"group-title="Pers",icnet 2
 https://icnet2hls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="icnet 3"tvg-id="icnet3.ca@SD"tvg-logo="https://i.postimg.cc/RVqQMVVV/icnet3.png"group-title="Pers",icnet 3
 https://ic3hls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="BloombergHT.tr@SD"tvg-id="BloombergHT.tr@SD"tvg-logo="https://i.imgur.com/bmkXfIE.png"group-title="Business",BloombergHT (720p)
+https://ciner-live.daioncdn.net/bloomberght/bloomberght.m3u8
+#EXTINF:-1 tvg-name="TRT Kurdî"tvg-id="TRTKurdi.tr"tvg-logo="https://i.imgur.com/6BpymfB.png"group-title="Kurd",TRT Kurdî
+https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="Abdulmajeed Abdullah (1080p)"tvg-id="AbdulmajeedAbdullah.sa"tvg-logo="https://assets.mbcmood.com/channels/1720184087Abdullah%20Majeed%20Abdullah%20banner.png"group-title="Music",Abdulmajeed Abdullah (1080p)
+https://d2hng5r56zpsbw.cloudfront.net/out/v1/9c4c990f44bb4767bb46271f326dd574/index.m3u8
+#EXTINF:-1 tvg-name="Number 1 Ask (720p)"tvg-id="Number1Ask.tr@SD"tvg-logo="https://i.imgur.com/slwbux7.png"group-title="Music",Number 1 Ask (720p)
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
+#EXTINF:-1 tvg-name="Number 1 Damar (720p)"tvg-id="Number1Damar.tr@SD"tvg-logo="https://i.imgur.com/rYtbAGZ.png"group-title="Music",Number 1 Damar (720p)
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
+#EXTINF:-1 tvg-name="Number 1 Dance (720p)"tvg-id="Number1Dance.tr@SD"tvg-logo="https://i.imgur.com/ZM4PSyq.png"group-title="Music",Number 1 Dance (720p)
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
+#EXTINF:-1 tvg-name="Number 1 TV (720p)"tvg-id="Number1TV.tr@SD"tvg-logo="https://i.imgur.com/02cDIBi.png"group-title="Music",Number 1 TV (720p)
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Power Dance (1080p)"tvg-id="PowerDance.tr@SD"tvg-logo="https://i.imgur.com/QpPteBO.png"group-title="Music",Power Dance (1080p)
+https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Power Love (1080p)"tvg-id="PowerLove.tr@SD"tvg-logo="https://i.imgur.com/0RzUswR.png"group-title="Music",Power Love (1080p)
+https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Power Turk (1080p) [Not 24/7]"tvg-id="PowerTurkTV.tr@SD"tvg-logo="https://i.imgur.com/9OPoXQG.png"group-title="Music",Power Turk (1080p) [Not 24/7]
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Power Türk Akustik (1080p)"tvg-id="PowerTurkAkustik.tr@SD"tvg-logo="https://i.imgur.com/driabBO.png"group-title="Music",Power Türk Akustik (1080p)
+https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Power Türk Slow (1080p)"tvg-id="PowerTurkSlow.tr@SD"tvg-logo="https://i.imgur.com/tQSoQXW.png"group-title="Music",Power Türk Slow (1080p)
+https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Power Türk Taptaze (1080p)"tvg-id="PowerTurkTaptaze.tr@SD"tvg-logo="https://i.imgur.com/a5nW3HU.png"group-title="Music",Power Türk Taptaze (1080p)
+https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="TRT Müzik (720p)"tvg-id="TRTMuzik.tr@SD"tvg-logo="https://i.imgur.com/JgUzRH8.png"group-title="Music",TRT Müzik (720p)
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="Haber61 TV (720p) [Not 24/7]"tvg-id="Haber61TV.tr"tvg-logo="https://i.imgur.com/2a2XUKl.png"group-title="Turkye",Haber61 TV (720p) [Not 24/7]
+https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/index.m3u8
+#EXTINF:-1 tvg-name="Halk TV (1080p)"tvg-id="HalkTV.tr"tvg-logo="https://i.imgur.com/xM0HA30.png"group-title="Turkye",Halk TV (1080p)
+https://halktv-live.daioncdn.net/halktv/halktv.m3u8
+#EXTINF:-1 tvg-name="I24 News English (720p)"tvg-id="i24NEWSEnglishWorld.il"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png"group-title="Turkye",I24 News English (720p)
+https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8
+#EXTINF:-1 tvg-name="TGRT Haber (720p)"tvg-id="TGRTHaber.tr"tvg-logo="https://i.imgur.com/PrxwKDw.png"group-title="Turkye",TGRT Haber (720p)
+https://canli.tgrthaber.com/tgrt.m3u8
+#EXTINF:-1 tvg-name="habar global"tvg-id="habar global"tvg-logo="https://www.lyngsat.com/logo/tv/hh/haber-global-tr.svg"group-title="Turkye",habar global
+https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
+#EXTINF:-1 tvg-name="TRT Haber"tvg-id="TRTHaber.tr"tvg-logo="https://i.imgur.com/OVfo8Ab.png"group-title="Turkye",TRT Haber
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="BENGUTURK TV"tvg-id="BenguturkTV.tr"tvg-logo="https://i.ibb.co/CHWhMvQ/bengu-turk.png"group-title="Turkye",BENGU TURK
+https://tv.ensonhaber.com/benguturk/benguturk_720p.m3u8
+#EXTINF:-1 tvg-name="TGRT HABER HD"tvg-id="TGRTHaber.tr"tvg-logo="https://i.ibb.co/K5frjVY/tgrt-haber.png"group-title="Turkye",TGRT HABER HD
+https://canli.tgrthaber.com/tgrt.m3u8
+#EXTINF:-1 tvg-name="TRT HABER"tvg-id="TRTHaber.tr"tvg-logo="https://i.ibb.co/NCvRHC3/trt-haber.png"group-title="Turkye",TRT HABER
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-name="NTV"tvg-id="NTV.tr"tvg-logo="https://i.ibb.co/gRR1zpm/ntv.png"group-title="Turkye",NTV
+https://dogus.daioncdn.net/ntv/ntv_720p.m3u8
+#EXTINF:-1 tvg-name="HALK TV"tvg-id="HalkTV.tr"tvg-logo="https://i.ibb.co/DYhmg6k/halk-tv.png"group-title="Turkye",HALK TV
+https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8?app=c86957d3-74a7-44da-9ad2-dc358c769609
+#EXTINF:-1 tvg-name="HABER GLOBAL"tvg-id="HaberGlobal.tr"tvg-logo="https://i.ibb.co/4ZpZWkf/haber-global.png"group-title="Turkye",HABER GLOBAL
+https://tv.ensonhaber.com/haberglobal/haberglobal_720p.m3u8
+#EXTINF:-1 tvg-name="TRT Arabi"tvg-id="TRTArabi.tr"tvg-logo="https://i.imgur.com/yyhWOZs.png"group-title="Turkye",TRT Arabi
+https://tv-trtarabi.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="TRT World"tvg-id="TRTWorld.tr"tvg-logo="https://i.imgur.com/JEA2xpv.png"group-title="Turkye",TRT World
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="TRT Türk"tvg-id="TRTTurk.tr"tvg-logo="https://i.imgur.com/OSTOQNw.png"group-title="Turkye",TRT Türk
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="EURO D"tvg-id="EuroD.tr"tvg-logo="https://i.ibb.co/jMQTJmh/euro-d.png"group-title="Turkye",EURO D
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
+#EXTINF:-1 tvg-name="SHOW MAX"tvg-id="ShowMax.tr"tvg-logo="https://i.ibb.co/qJnvXJQ/show-max.png"group-title="Turkye",SHOW MAX
+https://raw.githubusercontent.com/rideordie16/YouTube/main/ch/showmax.m3u8
+#EXTINF:-1 tvg-name="TRT Turk"tvg-id="TRTTurk.tr"tvg-logo="https://i.ibb.co/zN1BK38/trt-turk.png"group-title="Turkye",TRT TURK
+https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-name="TEVE2"tvg-id="Teve2.tr"tvg-logo="https://i.ibb.co/JRpJc2P/teve2.png"group-title="Turkye",TEVE 2
+https://live.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
+#EXTINF:-1 tvg-name="360"tvg-id="360.tr"tvg-logo="https://i.ibb.co/s3gJCGL/360.png"group-title="Turkye",360
+https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
+#EXTINF:-1 tvg-name="4U TV (720p)"tvg-id="4UTV.tr@SD"tvg-logo="https://i.imgur.com/PexhKwp.png"group-title="Turkye",4U TV (720p)
+https://hls.4utv.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="360 TV (720p) [Not 24/7]"tvg-id="360.tr@SD"tvg-logo="https://i.imgur.com/agn47sQ.png"group-title="Turkye",360 TV (720p) [Not 24/7]
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+#EXTINF:-1 tvg-name="Aksu TV (720p)"tvg-id="AksuTV.tr@SD"tvg-logo="https://i.postimg.cc/3w6VHNTp/aksutv.png"group-title="Turkye",Aksu TV (720p)
+https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8
+#EXTINF:-1 tvg-name="Al-Zahra TV Turkic (720p) [Not 24/7]"tvg-id="AlZahraTVTurkic.tr@SD"tvg-logo="https://i.imgur.com/QEHKGnG.png"group-title="Turkye",Al-Zahra TV Turkic (720p) [Not 24/7]
+https://live.al-zahratv.com/live/playlist.m3u8
+#EXTINF:-1 tvg-name="Alanya Posta TV (1080p)"tvg-id="AlanyaPostaTV.tr@SD"tvg-logo="https://i.imgur.com/a3w9eFe.png"group-title="Turkye",Alanya Posta TV (1080p)
+https://api-tv3.yayin.com.tr/postatv/postatv/playlist.m3u8
+#EXTINF:-1 tvg-name="Almahriah TV (576p)"tvg-id="AlmahriahTV.tr@SD"tvg-logo="https://i.imgur.com/GgEeTNr.png"group-title="Turkye",Almahriah TV (576p)
+https://starmenajo.com/hls/almahriah/index.m3u8
+#EXTINF:-1 tvg-name="Altas TV (1080p)"tvg-id="AltasTV.tr@SD"tvg-logo="https://i.postimg.cc/Vkzdjs2j/altastv.png"group-title="Turkye",Altas TV (1080p)
+https://edge1.socialsmart.tv/altastv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-name="Anadolu Net TV (1080p)"tvg-id="AnadoluNetTV.tr@SD"tvg-logo="https://www.anadolunettv.com/d/r/logo.png"group-title="Turkye",Anadolu Net TV (1080p)
+https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8
+#EXTINF:-1 tvg-name="Bloomberg HT (720p) [Not 24/7]"tvg-id="BloombergHT.tr@SD"tvg-logo="https://i.imgur.com/bmkXfIE.png"group-title="Turkye",Bloomberg HT (720p) [Not 24/7]
+https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8
+#EXTINF:-1 tvg-name="BRTV (720p) [Geo-blocked]"tvg-id="BRTV.tr@SD"tvg-logo="https://i.postimg.cc/Ls9qt4Yc/brtv.png"group-title="Turkye",BRTV (720p) [Geo-blocked]
+https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8
+#EXTINF:-1 tvg-name="Bursa AS TV (900p)"tvg-id="ASTV.tr@SD"tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_13.png"group-title="Turkye",Bursa AS TV (900p)
+https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8
+#EXTINF:-1 tvg-name="Cay TV (720p)"tvg-id="CayTV.tr@SD"tvg-logo="https://i.imgur.com/ndupxwu.png"group-title="Turkye",Cay TV (720p)
+https://edge1.socialsmart.tv/caytv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-name="Deniz Postası TV (720p) [Not 24/7]"tvg-id="DenizPostasiTV.tr@SD"tvg-logo="https://i.imgur.com/Mm8hdfx.png"group-title="Turkye",Deniz Postası TV (720p) [Not 24/7]
+https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
+#EXTINF:-1 tvg-name="DHA (720p) [Not 24/7]"tvg-id="DHA.tr@SD"tvg-logo="https://i.postimg.cc/HxbHLRd6/dha.png"group-title="Turkye",DHA (720p) [Not 24/7]
+https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
+#EXTINF:-1 tvg-name="DİM TV (720p) [Geo-blocked]"tvg-id="DimTV.tr@SD"tvg-logo="https://i.imgur.com/X4QFDhk.png"group-title="Turkye",DİM TV (720p) [Geo-blocked]
+https://live.artidijitalmedya.com/artidijital_dimtv/dimtv/playlist.m3u8
+#EXTINF:-1 tvg-name="Diyanet TV (1080p)"tvg-id="DiyanetTV.tr@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Diyanet_TV_logo.svg/512px-Diyanet_TV_logo.svg.png"group-title="Turkye",Diyanet TV (1080p)
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Diyar TV (720p)"tvg-id="DiyarTV.tr@SD"tvg-logo="https://i.imgur.com/qWkHjRA.png"group-title="Turkye",Diyar TV (720p)
+https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/playlist.m3u8
+#EXTINF:-1 tvg-name="Dost TV (576p)"tvg-id="DostTV.tr@SD"tvg-logo="https://dosttv.com/wp-content/uploads/2022/02/dost_logo.png"group-title="Turkye",Dost TV (576p)
+https://dost.stream.emsal.im/tv/live.m3u8
+#EXTINF:-1 tvg-name="Dream Türk (720p)"tvg-id="DreamTurk.tr@SD"tvg-logo="https://i.imgur.com/vJ8VaZi.png"group-title="Turkye",Dream Türk (720p)
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+#EXTINF:-1 tvg-name="Er TV (1080p) [Geo-blocked]"tvg-id="ERTV.tr@SD"tvg-logo="https://i.postimg.cc/VLKFTNnF/ertv.png"group-title="Turkye",Er TV (1080p) [Geo-blocked]
+https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/playlist.m3u8
+#EXTINF:-1 tvg-name="Erzurum Web TV (720p)"tvg-id="ErzurumWebTV.tr@SD"tvg-logo="https://i.imgur.com/HF7N4Li.png"group-title="Turkye",Erzurum Web TV (720p)
+https://win29.yayin.com.tr/erzurumwebtv/erzurumwebtv/iptvdelisi.m3u8
+#EXTINF:-1 tvg-name="ES TV (720p)"tvg-id="ESTV.tr@SD"tvg-logo="https://i.imgur.com/epAEBrp.png"group-title="Turkye",ES TV (720p)
+https://live.artidijitalmedya.com/artidijital_estv/estv/playlist.m3u8
+#EXTINF:-1 tvg-name="ETV Kayseri (720p)"tvg-id="ETVKayseri.tr@SD"tvg-logo="https://i.postimg.cc/zBpLByJt/etvkayseri.png"group-title="Turkye",ETV Kayseri (720p)
+https://live.artidijitalmedya.com/artidijital_etv/etv/playlist.m3u8
+#EXTINF:-1 tvg-name="ETV Manisa (1080p) [Not 24/7]"tvg-id="ETVManisa.tr@SD"tvg-logo="https://i.ibb.co/QKXtdkz/sOd3INg.png"group-title="Turkye",ETV Manisa (1080p) [Not 24/7]
+https://edge1.socialsmart.tv/manisaetv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-name="FB TV"tvg-id="FBTV.tr@SD"tvg-logo="https://i.imgur.com/qBVqtYd.png"group-title="Turkye",FB TV
+http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Finans Turk TV (720p)"tvg-id="FinansTurkTV.tr@SD"tvg-logo="https://i.ibb.co/wBwmB1T/iY0osc7.png"group-title="Turkye",Finans Turk TV (720p)
+https://yayin30.haber100.com/live/finansturk/playlist.m3u8
+#EXTINF:-1 tvg-name="Guneydogu TV (720p)"tvg-id="GuneydoguTV.tr@SD"tvg-logo="https://i.imgur.com/JT5pp3Y.png"group-title="Turkye",Guneydogu TV (720p)
+https://edge1.socialsmart.tv/gtv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-name="Haber Global (720p) [Not 24/7]"tvg-id="HaberGlobal.tr@SD"tvg-logo="https://i.postimg.cc/fbQQPsGB/haberglobal.png"group-title="Turkye",Haber Global (720p) [Not 24/7]
+https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
+#EXTINF:-1 tvg-name="Hunat TV (720p) [Geo-blocked]"tvg-id="HunatTV.tr@SD"tvg-logo="https://i.imgur.com/NrxHGnb.png"group-title="Turkye",Hunat TV (720p) [Geo-blocked]
+https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/playlist.m3u8
+#EXTINF:-1 tvg-name="Kanal 3 (1080p) [Not 24/7]"tvg-id="Kanal3.tr@SD"tvg-logo="https://i.imgur.com/eXErSv0.png"group-title="Turkye",Kanal 3 (1080p) [Not 24/7]
+https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/playlist.m3u8
+#EXTINF:-1 tvg-name="Kanal 7 (1080p) [Not 24/7]"tvg-id="Kanal7.tr@SD"tvg-logo="https://i.imgur.com/0gq9xOm.png"group-title="Turkye",Kanal 7 (1080p) [Not 24/7]
+https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
+#EXTINF:-1 tvg-name="Kanal 7 Avrupa (720p) [Not 24/7]"tvg-id="Kanal7Avrupa.tr@SD"tvg-logo="https://i.imgur.com/wlfyj5l.png"group-title="Turkye",Kanal 7 Avrupa (720p) [Not 24/7]
+https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
+#EXTINF:-1 tvg-name="Kanal 12 (720p)"tvg-id="Kanal12.tr@SD"tvg-logo="https://i.imgur.com/51xCkXG.png"group-title="Turkye",Kanal 12 (720p)
+https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/playlist.m3u8
+#EXTINF:-1 tvg-name="Kanal 23 (720p) [Not 24/7]"tvg-id="Kanal23.tr@SD"tvg-logo="https://i.imgur.com/3br8RCq.png"group-title="Turkye",Kanal 23 (720p) [Not 24/7]
+https://live.artidijitalmedya.com/artidijital_kanal23/kanal23/playlist.m3u8
+#EXTINF:-1 tvg-name="Kanal 26 (720p) [Not 24/7]"tvg-id="Kanal26.tr@SD"tvg-logo="https://i.postimg.cc/T2sbWHMT/kanal26.png"group-title="Turkye",Kanal 26 (720p) [Not 24/7]
+https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/playlist.m3u8
+#EXTINF:-1 tvg-name="Kanal 32 (720p) [Not 24/7]"tvg-id="Kanal32.tr@SD"tvg-logo="https://www.lyngsat.com/logo/tv/kk/kanal-32-tr.png"group-title="Turkye",Kanal 32 (720p) [Not 24/7]
+https://edge1.socialsmart.tv/kanal32/bant1/playlist.m3u8
+#EXTINF:-1 tvg-name="Kanal Firat (720p) [Not 24/7]"tvg-id="KanalFirat.tr@SD"tvg-logo="https://i.postimg.cc/v8Czdmm7/kanalfirat.png"group-title="Turkye",Kanal Firat (720p) [Not 24/7]
+https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u8
+#EXTINF:-1 tvg-name="Kanal Hayat (1080p)"tvg-id="KanalHayat.tr@SD"tvg-logo="https://i.postimg.cc/qMnGBdtP/kanalhayat.png"group-title="Turkye",Kanal Hayat (1080p)
+https://tbn02a.ltnschedule.com/hls/nx21i.m3u8
+#EXTINF:-1 tvg-name="Kanal V (720p) [Not 24/7]"tvg-id="KanalV.tr@SD"tvg-logo="https://i.imgur.com/7RNjTno.png"group-title="Turkye",Kanal V (720p) [Not 24/7]
+https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/playlist.m3u8
+#EXTINF:-1 tvg-name="Kardelen TV (1080p)"tvg-id="KardelenTV.tr@SD"tvg-logo="https://i.postimg.cc/1Rc2QbqW/kardelentv.png"group-title="Turkye",Kardelen TV (1080p)
+https://edge1.socialsmart.tv/kardelentv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-name="Kent Türk TV (1080p) [Not 24/7]"tvg-id="KentTurk.tr@SD"tvg-logo="https://i.postimg.cc/KYxf8Wbf/kentturk.png"group-title="Turkye",Kent Türk TV (1080p) [Not 24/7]
+https://live.artidijitalmedya.com/artidijital_kentturktv/kentturktv/playlist.m3u8
+#EXTINF:-1 tvg-name="Konya Olay TV (720p)"tvg-id="KonyaOlayTV.tr@SD"tvg-logo="https://www.konyaolaytv.com/upload/tema/20230307__5154687762.jpg"group-title="Turkye",Konya Olay TV (720p)
+https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/playlist.m3u8
+#EXTINF:-1 tvg-name="KRAL Pop TV (720p)"tvg-id="KralPopTV.tr@SD"tvg-logo="https://i.imgur.com/ch365lh.png"group-title="Turkye",KRAL Pop TV (720p)
+https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
+#EXTINF:-1 tvg-name="Lalegul TV (1080p)"tvg-id="LalegulTV.tr@SD"tvg-logo="https://i.imgur.com/wwCysFs.png"group-title="Turkye",Lalegul TV (1080p)
+https://lbl.netmedya.net/hls/lalegultv.m3u8
+#EXTINF:-1 tvg-name="Line TV (720p) [Not 24/7]"tvg-id="LineTV.tr@SD"tvg-logo="https://i.imgur.com/6GNp7f8.png"group-title="Turkye",Line TV (720p) [Not 24/7]
+https://edge1.socialsmart.tv/linetv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-name="MaviKaradeniz (1080p) [Not 24/7]"tvg-id="MaviKaradenizTV.tr@SD"tvg-logo="https://i.imgur.com/wyWappU.png"group-title="Turkye",MaviKaradeniz (1080p) [Not 24/7]
+https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
+#EXTINF:-1 tvg-name="Med Muzik (1080p)"tvg-id="MedMuzik.tr@SD"tvg-logo="https://i.postimg.cc/05d9mzJZ/medmuzik.png"group-title="Turkye",Med Muzik (1080p)
+http://54.36.110.140/live3/live3.m3u8
+#EXTINF:-1 tvg-name="Mekameleen TV (1080p)"tvg-id="MekameleenTV.tr@SD"tvg-logo="https://i.postimg.cc/85dghYss/mekameleentv.png"group-title="Turkye",Mekameleen TV (1080p)
+https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Mercan TV (576p) [Not 24/7]"tvg-id="MercanTV.tr@SD"tvg-logo="https://i.imgur.com/3CWV8bS.png"group-title="Turkye",Mercan TV (576p) [Not 24/7]
+https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/playlist.m3u8
+#EXTINF:-1 tvg-name="MTürk TV (1080p)"tvg-id="MTurkTV.tr@SD"tvg-logo="https://i.postimg.cc/BnTWzRNB/mturktv.png"group-title="Turkye",MTürk TV (1080p)
+https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8
+#EXTINF:-1 tvg-name="Power TV (1080p)"tvg-id="PowerTV.tr@SD"tvg-logo="https://i.postimg.cc/RZmwMsnG/powertv.png"group-title="Turkye",Power TV (1080p)
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Qaf TV (1080p)"tvg-id="QafTV.tr@SD"tvg-logo="https://i.postimg.cc/JhZwbhhR/qaftv.png"group-title="Turkye",Qaf TV (1080p)
+https://customer-9vqui33qma2rownb.cloudflarestream.com/7792e558fe54e23bdd4b462ec275cdba/manifest/video.m3u8
+#EXTINF:-1 tvg-name="Sat 7 Türk (720p)"tvg-id="Sat7Turk.cy@SD"tvg-logo="https://i.imgur.com/cKQIK4i.png"group-title="Turkye",Sat 7 Türk (720p)
+https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-name="Satranç TV (480p) [Not 24/7]"tvg-id="BricveSatrancTV.tr@SD"tvg-logo="https://i.imgur.com/TXDV1ty.png"group-title="Turkye",Satranç TV (480p) [Not 24/7]
+http://139.162.182.79/live/test/index.m3u8
+#EXTINF:-1 tvg-name="Semerkand TV (1080p) [Not 24/7]"tvg-id="SemerkandTV.tr@SD"tvg-logo="https://i.imgur.com/UVGGrQd.png"group-title="Turkye",Semerkand TV (1080p) [Not 24/7]
+https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Tarim TV (1080p)"tvg-id="TarimTV.tr@SD"tvg-logo="https://i.imgur.com/q30sFms.png"group-title="Turkye",Tarim TV (1080p)
+https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/master.m3u8
+#EXTINF:-1 tvg-name="Tele 1 (1080p)"tvg-id="Tele1.tr@SD"tvg-logo="https://i.postimg.cc/ZY7bcVmn/tele1.png"group-title="Turkye",Tele 1 (1080p)
+https://tele1-live.ercdn.net/tele1/tele1.m3u8
+#EXTINF:-1 tvg-name="Tempo TV (720p)"tvg-id="TempoTV.tr@SD"tvg-logo="https://i.imgur.com/tZpx32y.png"group-title="Turkye",Tempo TV (720p)
+https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8
+#EXTINF:-1 tvg-name="TGRT Belgesel TV (576p) [Not 24/7]"tvg-id="TGRTBelgesel.tr@SD"tvg-logo="https://i.imgur.com/VwWTnf0.png"group-title="Turkye",TGRT Belgesel TV (576p) [Not 24/7]
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="TJK TV (1080p)"tvg-id="TJKTV.tr@SD"tvg-logo="https://i.imgur.com/3zHdkYG.png"group-title="Turkye",TJK TV (1080p)
+https://tjktv-live.tjk.org/tjktv.m3u8
+#EXTINF:-1 tvg-name="Ton TV (720p) [Not 24/7]"tvg-id="TonTV.tr@SD"tvg-logo="https://i.imgur.com/f0Soeob.png"group-title="Turkye",Ton TV (720p) [Not 24/7]
+https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
+#EXTINF:-1 tvg-name="TRT 3"tvg-id="TRT3.tr@SD"tvg-logo="https://i.imgur.com/JrWFwBd.png"group-title="Turkye",TRT 3
+https://tv-trt3.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="TRT EBA Ilkokul (720p)"tvg-id="TRTEBAIlkokul.tr@SD"tvg-logo="https://i.imgur.com/CRBfZi4.png"group-title="Turkye",TRT EBA Ilkokul (720p)
+https://tv-e-okul00.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="TRT Haber (720p)"tvg-id="TRTHaber.tr@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TRT_Haber_Eyl%C3%BCl_2020_Logo.svg/512px-TRT_Haber_Eyl%C3%BCl_2020_Logo.svg.png"group-title="Turkye",TRT Haber (720p)
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="TRT Kurdî (720p)"tvg-id="TRTKurdi.tr@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TRT_Kurd%C3%AE_logo.svg/512px-TRT_Kurd%C3%AE_logo.svg.png"group-title="Turkye",TRT Kurdî (720p)
+https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="TV 1 (720p)"tvg-id="TV1.tr@SD"tvg-logo="https://i.imgur.com/8CtrYVb.png"group-title="Turkye",TV 1 (720p)
+https://edge1.socialsmart.tv/tv1/bant1/playlist.m3u8
+#EXTINF:-1 tvg-name="TV 264 (1080p)"tvg-id="TV264.tr@SD"tvg-logo="https://i.postimg.cc/CxCZNX4D/tv264.png"group-title="Turkye",TV 264 (1080p)
+https://b01c02nl.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Urfa Natik TV (720p)"tvg-id="UrfaNatikTV.tr@SD"tvg-logo="https://i.imgur.com/8KO0uxn.png"group-title="Turkye",Urfa Natik TV (720p)
+https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8
+#EXTINF:-1 tvg-name="Zarok TV (720p)"tvg-id="ZarokTV.tr@SD"tvg-logo="https://i.imgur.com/o0eevnb.png"group-title="Turkye",Zarok TV (720p)
+https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Iran International (720p)"tvg-id="IranInternational.uk@SD"tvg-logo="https://i.imgur.com/55RpaF3.png"group-title="Pers",Iran International (720p)
 https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
-#EXTINF:-1 tvg-name="Iran Jewish TV"tvg-id="IranJewishTV.ir@SD"tvg-logo="https://i.ibb.co/JWXs7csN/en.png"group-title="Pers",Iran Jewish TV
-http://iran620.com:1935/live/IranJewishTv/playlist.m3u8
-#EXTINF:-1 tvg-name="Kanal Jadid"tvg-id="KanalJadid.uk@SD"tvg-logo="https://i.postimg.cc/rpyG90hT/kanaljadid.png"group-title="Pers",Kanal Jadid
-https://kjhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Maah TV (720p)"tvg-id="MaahTV.my@SD"tvg-logo="https://i.postimg.cc/rshG38zb/maahtv.png"group-title="Movies",Maah TV (720p)
 https://hls.maahtv.live/hls/stream.m3u8
-#EXTINF:-1 tvg-name="Manoto TV"tvg-id="Manoto.uk@SD"tvg-logo="https://i.imgur.com/8wE1Lbp.png"group-title="Pers",Manoto TV
-https://late-sky-0e1a.zahsytwdtjgjhasxby.workers.dev/?url=https://m3u.iranvids.com/manoto/output.m3u8
-#EXTINF:-1 tvg-name="Meta Film TV"tvg-id="MetaFilmTV.ir@SD"tvg-logo="https://www.lyngsat.com/logo/tv/mm/meta-film-tv.png"group-title="Pers",Meta Film TV
-https://metafilmhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-name="Mihan TV"tvg-id="MihanTV.ir@SD"tvg-logo="https://i.imgur.com/XEMsM7w.png"group-title="Pers",Mihan TV
-https://iptv.mihantv.com/mihantv/playlist.m3u8
 #EXTINF:-1 tvg-name="Mohabat TV (540p)"tvg-id="MohabatTV.ir@SD"tvg-logo="https://i.imgur.com/Ig0SPev.png"group-title="Pers",Mohabat TV (540p)
 http://204.11.235.251:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-name="Omide Iran"tvg-id="OmideIranTV.us@SD"tvg-logo="https://i.imgur.com/CeMf68L.png"group-title="Pers",Omide Iran
-https://oitnhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-name="OXIR TV"tvg-id="OXIRTV.ir@SD"tvg-logo="https://i.postimg.cc/sxMw4Qgx/oxirtv.png"group-title="Pers",OXIR TV
-https://hls.oxir.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Pars TV"tvg-id="ParsTV.us@SD"tvg-logo="https://i.imgur.com/RQ5DzEE.png"group-title="Pers",Pars TV
 https://parshls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-name="Payam Javan TV (720p) [Not 24/7]"tvg-id="PayamJavanTV.us@SD"tvg-logo="https://i.imgur.com/GYfsHh9.png"group-title="Pers",Payam Javan TV (720p) [Not 24/7]
-https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Payvand TV [Not 24/7]"tvg-id="PayvandTV.ir@SD"tvg-logo="https://i.imgur.com/o2Ww77N.png"group-title="Pers",Payvand TV [Not 24/7]
-https://uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8
-#EXTINF:-1 tvg-name="PBC Tapesh TV (720p)"tvg-id="PBCTapeshTV.us@SD"tvg-logo="https://i.imgur.com/50JzsmH.png"group-title="Pers",PBC Tapesh TV (720p)
-https://iptv.tapesh.tv/tapesh/playlist.m3u8
-#EXTINF:-1 tvg-name="Persiana Cinema"tvg-id="PersianaCinema.fr@SD"tvg-logo="https://i.imgur.com/hgIro9r.png"group-title="Pers",Persiana Cinema
-https://cinehls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-name="Persiana Comedy"tvg-id="PersianaComedy.fr@SD"tvg-logo="https://i.imgur.com/DBZ3Pi5.png"group-title="Pers",Persiana Comedy
-https://comedyhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-name="Persiana Docs"tvg-id="PersianaDocs.fr@HD"tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-docs-fr.png"group-title="Pers",Persiana Docs
-https://scihls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-name="Persiana Family"tvg-id="PersianaFamily.fr@SD"tvg-logo="https://i.imgur.com/lMZsuWi.png"group-title="Movies",Persiana Family
-https://familyhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-name="Persiana Fight"tvg-id="PersianaFight.fr@HD"tvg-logo="https://i.postimg.cc/qqz57Dkv/persiana-fight.jpg"group-title="Pers",Persiana Fight
-https://fighthls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-name="Persiana Folk"tvg-id="PersianaFolk.fr@HD"tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-folk-fr.png"group-title="Music",Persiana Folk
-https://sonhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Persiana Iranian"tvg-id="PersianaIranian.fr@SD"tvg-logo="https://i.imgur.com/vqrrpBi.png"group-title="Movies",Persiana Iranian
 https://irhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Persiana Korea"tvg-id="PersianaKorea.fr@SD"tvg-logo="https://i.imgur.com/si2ZnIA.png"group-title="Movies",Persiana Korea
 https://korhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-name="Persiana Medical"tvg-id="PersianaMedical.fr@SD"tvg-logo="https://i.postimg.cc/9FPhHF94/persiana-medical.jpg"group-title="Pers",Persiana Medical
-https://phd2hls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Persiana Music"tvg-id="PersianaMusic.fr@SD"tvg-logo="https://i.imgur.com/SHxxi5I.png"group-title="Music",Persiana Music
 https://musichls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Persiana Nostalgia"tvg-id="PersianaNostalgia.fr@SD"tvg-logo="https://i.imgur.com/SWO9CKA.png"group-title="Music",Persiana Nostalgia
 https://noshls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-name="Persiana Plus"tvg-id="PersianaPlus.fr@SD"tvg-logo="https://i.imgur.com/0xttibX.png"group-title="Movies",Persiana Plus
-https://euhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Persiana Series"tvg-id="PersianaSeries.fr@HD"tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-series-fr.png"group-title="Pers",Persiana Series
 https://onehls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-name="Persiana Turkiye"tvg-id="PersianaTurkiye.fr@SD"tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-Turkiye-fr.png"group-title="Pers",Persiana Turkiye
-https://turkhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Persiana Vibe"tvg-id="PersianaVibe.fr@HD"tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-vibe-fr.png"group-title="Music",Persiana Vibe
 https://raphls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Press TV French (1080p)"tvg-id="PressTVFrench.ir@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Press_TV_logo.svg/250px-Press_TV_logo.svg.png"group-title="Pers",Press TV French (1080p)
@@ -785,6 +641,274 @@ https://hls.tmtv.live/hls/stream.m3u8
 https://hls.yourtime.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Aflam (1080p)"tvg-id="Aflam.sa"tvg-logo="https://i.imgur.com/cTLj7Yt.png"group-title="Movies",Aflam (1080p)
 https://shls-live-enc.edgenextcdn.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="4Kurd.fr@SD"tvg-logo="https://www.aparatchi.com/images/chanells-logo/4kurd.svg"group-title="Music",4 Kurd
+https://4kuhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="7thHeaven.se@SE"tvg-logo="https://images.pluto.tv/channels/6728c9c85534bb0008b320a4/colorLogoPNG.png"group-title="swed",7th Heaven
+https://jmp2.uk/plu-6728cab6e482950008b76d8c.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="AmericasNextTopModel.se@SE"tvg-logo="https://images.pluto.tv/channels/6464cc595a0cd500088c7749/colorLogoPNG.png"group-title="swed",America's Next Top Model
+https://jmp2.uk/plu-6464cdcaee6a2f000822a7a8.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="AreYouTheOne.se@SE"tvg-logo="https://images.pluto.tv/channels/61c091c39863900007ac9e8f/colorLogoPNG.png"group-title="swed",Are You The One?
+https://jmp2.uk/plu-61c0ac242bb0cf0007015f89.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="ATGLive.se@SD"tvg-logo="https://i.imgur.com/bPWFXkL.png"group-title="swed",ATG Live (720p)
+https://kanal75xto-llhls.akamaized.net/live/Data/atg-kanal-15-02a-rr/HLS-Legacy-HL/atg-kanal-15-02a-rr.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="AuctionHunters.se@SE"tvg-logo="https://images.pluto.tv/channels/62da73c4ec46c000070f4cb1/colorLogoPNG.png"group-title="swed",Auction Hunters
+https://jmp2.uk/plu-62da7380478a5b0007e610d9.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="BeavisandButtHead.se@SE"tvg-logo="https://images.pluto.tv/channels/6486e8984cfc2c0008b6844e/colorLogoPNG.png"group-title="swed",Beavis and Butt-Head
+https://jmp2.uk/plu-6486e8b48e3c0a0008e56914.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Becker.se@SE"tvg-logo="https://images.pluto.tv/channels/672e157d7d5da5000812872d/colorLogoPNG-1731073515797.png"group-title="swed",Becker
+https://jmp2.uk/plu-672e16f5daad7f0008929a0d.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="BestofMTV.se@SE"tvg-logo="https://images.pluto.tv/channels/632aff5e44111b00076ad9b1/colorLogoPNG_1767773210944.png"group-title="swed",Best of MTV
+https://jmp2.uk/plu-632afdf820e83e000710ea12.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="BestofParadiseHotelFinalveckan.se@SE"tvg-logo="https://images.pluto.tv/channels/65e97d41f7f0af0008da2543/colorLogoPNG.png"group-title="swed",Best of Paradise Hotel: Finalveckan
+https://jmp2.uk/plu-65e97d41f7f0af0008da2543.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="BestofParadiseHotelKyssarkarlek.se@SE"tvg-logo="https://images.pluto.tv/channels/65b1077e0d9ab40008245b20/colorLogoPNG.png"group-title="swed",Best of Paradise Hotel: Kyssar & kärlek
+https://jmp2.uk/plu-65b1077e0d9ab40008245b20.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="BestofParadiseHotelPandorasAsk.se@SE"tvg-logo="https://images.pluto.tv/channels/65e97d760d456100082da660/colorLogoPNG.png"group-title="swed",Best of Paradise Hotel: Pandoras Ask
+https://jmp2.uk/plu-65e97d760d456100082da660.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="BestofParadiseHotelSkolveckan.se@SE"tvg-logo="https://images.pluto.tv/channels/65e97cd118036500082ed0ce/colorLogoPNG.png"group-title="swed",Best of Paradise Hotel: Skolveckan
+https://jmp2.uk/plu-65e97cd118036500082ed0ce.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="BestofTheDrewBarrymoreShow.se@SE"tvg-logo="https://images.pluto.tv/channels/62beb692cda2b10007d5fd76/colorLogoPNG.png"group-title="swed",Best of The Drew Barrymore Show
+https://jmp2.uk/plu-630483153a21200007f1920f.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="BET.se@SE"tvg-logo="https://images.pluto.tv/channels/61c1939b8929e40007ff6382/colorLogoPNG.png"group-title="swed",BET
+https://jmp2.uk/plu-61c187ef1efe1b0007571711.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="BondiRescue.se@SE"tvg-logo="https://images.pluto.tv/channels/660d66be7bcd8600087cfee5/colorLogoPNG.png"group-title="swed",Bondi Rescue (720p)
+https://jmp2.uk/plu-660d67eec8311c0008b8c3f7.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="BritainsNextTopModel.se@SE"tvg-logo="https://images.pluto.tv/channels/67a09ddc21af380008088dc3/colorLogoPNG.png"group-title="swed",Britain's Next Top Model
+https://jmp2.uk/plu-67a09e5921af38000808900a.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="BroadCity.se@SE"tvg-logo="https://images.pluto.tv/channels/65cba73611ced700082123bc/colorLogoPNG.png"group-title="swed",Broad City
+https://jmp2.uk/plu-65cba7b1ec452d0008acbed8.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Bull.se@SE"tvg-logo="https://images.pluto.tv/channels/6964b982ca459f9b939da8e6/colorLogoPNG_1770900947317.png"group-title="swed",Bull
+https://jmp2.uk/plu-6964b9e19bf57be1537fc7d7.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="BuyingBlindDenmark.se@SE"tvg-logo="https://images.pluto.tv/channels/63c6a7544faf1c0007b496d7/colorLogoPNG.png"group-title="swed",Buying Blind Denmark
+https://jmp2.uk/plu-63c6a7544faf1c0007b496d7.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="CampKulinaris.se@SE"tvg-logo="https://images.pluto.tv/channels/61c1dce2fb9ae40007d0ac15/colorLogoPNG.png"group-title="swed",Camp Kulinaris
+https://jmp2.uk/plu-6400bf66dff38e00083f4ee8.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="CarChase.se@SE"tvg-logo="https://images.pluto.tv/channels/65a93b0607e03a000895abda/colorLogoPNG.png"group-title="swed",Car Chase (720p)
+https://jmp2.uk/plu-65a93be02fac9c00083cbac4.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="CarolineintheCity.se@SE"tvg-logo="https://images.pluto.tv/channels/66a7aa44cd0d31000843942b/colorLogoPNG.png"group-title="swed",Caroline in the City
+https://jmp2.uk/plu-66a7ab4dcd0d3100084395b4.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="ChappellesShow.se@SE"tvg-logo="https://images.pluto.tv/channels/65e976ad0d456100082d9b74/colorLogoPNG.png"group-title="swed",Chappelle's Show
+https://jmp2.uk/plu-65e9783b0d456100082d9e05.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="ComedyCentral.se@SE"tvg-logo="https://images.pluto.tv/channels/61c0989431084d0007eab12d/colorLogoPNG.png"group-title="swed",Comedy Central
+https://jmp2.uk/plu-61c0b550e0d3a700072b6a2a.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="CrazyExGirlfriend.se@SE"tvg-logo="https://images.pluto.tv/channels/693ae5660eedebc8d5db6579/colorLogoPNG_1770039249880.png"group-title="swed",Crazy Ex-Girlfriend
+https://jmp2.uk/plu-693ae5b792fad2e93412a2c7.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="DallasCowboysCheerleaders.se@SE"tvg-logo="https://images.pluto.tv/channels/64e87c6b28cec700088ceb55/colorLogoPNG.png"group-title="swed",Dallas Cowboys Cheerleaders
+https://jmp2.uk/plu-64e7715c4c5ed800081230e4.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="DatingNakedUK.se@SE"tvg-logo="https://images.pluto.tv/channels/692edc78d52ea9e4858cf78f/colorLogoPNG_1768226003744.png"group-title="swed",Dating Naked UK
+https://jmp2.uk/plu-692edd6bdb8695f63e14f3b9.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="DiTV.se@SD"tvg-logo="https://i.imgur.com/zApTDWn.png"group-title="swed",Di TV (1080p)
+https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx4/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="DiagnosisMurder.se@SE"tvg-logo="https://images.pluto.tv/channels/668bf7dd74f5ec000817e6d1/colorLogoPNG.png"group-title="swed",Diagnosis Murder
+https://jmp2.uk/plu-668bf9be0642e5000815102d.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="DocMartin.se@SE"tvg-logo="https://images.pluto.tv/channels/62724ae034f5190007b63424/colorLogoPNG.png"group-title="swed",Doc Martin
+https://jmp2.uk/plu-62b1e5e77d15410007f798c6.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="EbS.be@SD"tvg-logo="https://i.imgur.com/DIIRPNN.png"group-title="swed",EBS (1080p)
+https://streams.prd.commavservices.eu/live/ebs/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="EbSPlus.be@SD"tvg-logo="https://i.imgur.com/7V012zQ.png"group-title="swed",EBS Plus (1080p)
+https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="EverybodyHatesChris.se@SE"tvg-logo="https://images.pluto.tv/channels/63a1cab19ab2df0007bf1c8b/colorLogoPNG.png"group-title="swed",Everybody Hates Chris
+https://jmp2.uk/plu-697b5be36dc3c71eb14d728a.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="MTVExOnTheBeach.se@SE"tvg-logo="https://images.pluto.tv/channels/61c0909b872c650008ed42e4/colorLogoPNG.png"group-title="swed",Ex On The Beach
+https://jmp2.uk/plu-61c09072a09bbe00078f5692.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="ExpressenTV.se@SD"tvg-logo="https://i.imgur.com/ai0BIci.png"group-title="swed",Expressen TV (1080p)
+https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx2/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="FamilyTies.se@SE"tvg-logo="https://images.pluto.tv/channels/654a4a3ef91d250008ac089b/colorLogoPNG.png"group-title="swed",Family Ties
+https://jmp2.uk/plu-654a510d986ad20008a45874.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="FrusnaVagar.se@SE"tvg-logo="https://images.pluto.tv/channels/61c19099bf8c520007a93cff/colorLogoPNG.png"group-title="swed",Frusna Vägar
+https://jmp2.uk/plu-61c19099bf8c520007a93cff.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="GeordieShore.se@SE"tvg-logo="https://images.pluto.tv/channels/6442512cee6a2f0008d3351f/colorLogoPNG.png"group-title="swed",Geordie Shore
+https://jmp2.uk/plu-64424be3e94c380008d0a66d.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="HappyDays.se@SE"tvg-logo="https://images.pluto.tv/channels/654a4e29ab05240008a18625/colorLogoPNG.png"group-title="swed",Happy Days
+https://jmp2.uk/plu-654a52254d6d8f00084eacfc.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="HimlenTV7.fi@SD"tvg-logo="https://i.imgur.com/k8a7KNn.png"group-title="swed",Himlen TV7 (720p)
+https://vod.tv7.fi/tv7-se/smil:tv7-se.smil/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Hogspanning.se@SE"tvg-logo="https://images.pluto.tv/channels/6537abf42cf1310008441686/colorLogoPNG.png"group-title="swed",Högspänning
+https://jmp2.uk/plu-6537abf42cf1310008441686.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="HouseofLies.se@SE"tvg-logo="https://images.pluto.tv/channels/693ae62a43fe00a023e76e0d/colorLogoPNG_1769415649672.png"group-title="swed",House of Lies
+https://jmp2.uk/plu-693ae6bf0ddf7d2a40b7fd35.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="iCarly.se@SE"tvg-logo="https://images.pluto.tv/channels/61c0b9aab7facb0007913908/colorLogoPNG.png"group-title="swed",iCarly
+https://jmp2.uk/plu-61c185049e0bde0007820039.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="JAG.se@SE"tvg-logo="https://images.pluto.tv/channels/654a4ab92c1d330008657ae5/colorLogoPNG.png"group-title="swed",JAG
+https://jmp2.uk/plu-654a515f986ad20008a4593b.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="JerseyShore.se@SE"tvg-logo="https://images.pluto.tv/channels/6442508e5a0cd500083edd3c/colorLogoPNG.png"group-title="swed",Jersey Shore
+https://jmp2.uk/plu-64424c1be94c380008d0a98c.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="JerseyShoreFamilyVacation.se@SE"tvg-logo="https://images.pluto.tv/channels/6728c831c7626f0008b28127/colorLogoPNG.png"group-title="swed",Jersey Shore Family Vacation
+https://jmp2.uk/plu-6728c8b45534bb0008b31f35.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="JudgeJudy.se@SE"tvg-logo="https://images.pluto.tv/channels/6380c36389eccc000858c50f/colorLogoPNG.png"group-title="swed",Judge Judy
+https://jmp2.uk/plu-6380c4ab81c8d2000790fbf3.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="KeyPeele.se@SE"tvg-logo="https://images.pluto.tv/channels/65cba715dc10a40008034917/colorLogoPNG.png"group-title="swed",Key & Peele
+https://jmp2.uk/plu-65cba798d77d450008d056e5.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Klovn.se@SE"tvg-logo="https://images.pluto.tv/channels/65a63ff00d9ab400080b101c/colorLogoPNG.png"group-title="swed",Klovn
+https://jmp2.uk/plu-65a63ff00d9ab400080b101c.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Kunskapskanalen.se@HD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Kunskapskanalen_2017.svg/960px-Kunskapskanalen_2017.svg.png"group-title="swed",Kunskapskanalen (1080p) [Geo-blocked]
+https://svt-live-channel.akamaized.net/l6/se/svtk/master-fmp4.m3u8?defaultSubLang=1&format=hls
+#EXTINF:-1 tvg-name=""tvg-id="Lyxfallan.se@SE"tvg-logo="https://images.pluto.tv/channels/61c18f62f5acaf0007f83135/colorLogoPNG.png"group-title="swed",Lyxfällan
+https://jmp2.uk/plu-61c18f62f5acaf0007f83135.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="LyxfallanDanmark.se@SE"tvg-logo="https://images.pluto.tv/channels/61c19165decece0007e9b2f3/colorLogoPNG.png"group-title="swed",Lyxfällan Danmark
+https://jmp2.uk/plu-61c19165decece0007e9b2f3.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="LyxfallanNorge.se@SE"tvg-logo="https://images.pluto.tv/channels/67f7d328efc5473b6b4ac5f4/colorLogoPNG_1745915912635.png"group-title="swed",Lyxfällan Norge
+https://jmp2.uk/plu-67f7d328efc5473b6b4ac5f4.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="MacGyver.se@SE"tvg-logo="https://images.pluto.tv/channels/654a59742c1d33000865a797/colorLogoPNG.png"group-title="swed",MacGyver
+https://jmp2.uk/plu-63a19eceb3d0eb0007439c34.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="ManwithaPlan.se@SE"tvg-logo="https://images.pluto.tv/channels/678f88bb272ded16b1558c5e/colorLogoPNG.png"group-title="swed",Man with a Plan
+https://jmp2.uk/plu-6825efbb9eed174f7ffbe5b0.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Matlock.se@SE"tvg-logo="https://images.pluto.tv/channels/66290a779e68c20008a18cf3/colorLogoPNG.png"group-title="swed",Matlock
+https://jmp2.uk/plu-66290c12801af8000850c1a9.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Medium.se@SE"tvg-logo="https://images.pluto.tv/channels/68f0f54ca362b63a8df4d5a9/colorLogoPNG_1760622009795.png"group-title="swed",Medium
+https://jmp2.uk/plu-68f0f642a25ba0aab3e64e66.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="MerryChristmasfromViafree.se@SE"tvg-logo="https://images.pluto.tv/channels/63048147b09fd60007847a08/colorLogoPNG.png"group-title="swed",Merry Christmas from Viafree
+https://jmp2.uk/plu-6304854ac6073d0007259fe1.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="MissionImpossible.se@SE"tvg-logo="https://images.pluto.tv/channels/6478a9e4f77b61000817034b/colorLogoPNG.png"group-title="swed",Mission Impossible
+https://jmp2.uk/plu-639b4f14be012600070fe1be.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="MTVCatfish.se@SE"tvg-logo="https://images.pluto.tv/channels/6177fe76691b2e000702c7fc/colorLogoPNG_1750864554364.png"group-title="swed",MTV Catfish (720p)
+https://jmp2.uk/plu-61780d4267bf4d00077ddd73.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="MTVDating.se@SE"tvg-logo="https://images.pluto.tv/channels/6851407c21f49d1b9d177493/colorLogoPNG_1750843393149.png"group-title="swed",MTV Dating (720p)
+https://jmp2.uk/plu-685140f121f49d1b9d178249.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="MTVReality.se@SE"tvg-logo="https://images.pluto.tv/channels/685137f4a1e091e16f2dd471/colorLogoPNG_1780301718240.png"group-title="swed",MTV Reality (720p)
+https://jmp2.uk/plu-685139b0f7d8b74b62f41c96.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="MTVRidiculousness.se@SE"tvg-logo="https://images.pluto.tv/channels/62cd9641393d8400076f34db/colorLogoPNG_1762770639864.png"group-title="swed",MTV Ridiculousness (720p)
+https://jmp2.uk/plu-62cda0dfddc1040008fccacc.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="MTVTeenMom.se@SE"tvg-logo="https://images.pluto.tv/channels/61c092157e1b8b0007372a35/colorLogoPNG_1748001686588.png"group-title="swed",MTV Teen Mom (720p)
+https://jmp2.uk/plu-61c09342b3a6230007a45119.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="NarTV.fi@SD"tvg-logo="https://i.imgur.com/Ht5yePq.png"group-title="swed",NärTV (360p)
+https://streaming.nartv.fi/live/ngrp:NAR_TV.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="NonStopKungFu.se@SE"tvg-logo="https://images.pluto.tv/channels/6728d2be529ac9000830dc15/colorLogoPNG_1732110461260.png"group-title="swed",NonStop Kung Fu
+https://jmp2.uk/plu-6728d33f030a2c0008edf4be.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Numb3rs.se@SE"tvg-logo="https://images.pluto.tv/channels/642e94c1af2bd90008852697/colorLogoPNG_1756716763207.png"group-title="swed",Numb3rs
+https://jmp2.uk/plu-63dbe8a1c111bc0008dec8b8.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Paradise.se@SE"tvg-logo="https://images.pluto.tv/channels/629e095e511d4b00070c9f44/colorLogoPNG.png"group-title="swed",Paradise
+https://jmp2.uk/plu-6380c73f76e43f000721f73b.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="ParadiseHotel.se@SE"tvg-logo="https://images.pluto.tv/channels/61c19af83fae0a00078c8918/colorLogoPNG.png"group-title="swed",Paradise Hotel
+https://jmp2.uk/plu-61c18e1e0cd4cc00076bc4b3.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="PimpMyRide.se@SE"tvg-logo="https://images.pluto.tv/channels/61c091343bf4940007803e03/colorLogoPNG.png"group-title="swed",Pimp My Ride
+https://jmp2.uk/plu-61c09a3894aa450007814aea.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="PlutoTVAction.se@SE"tvg-logo="https://images.pluto.tv/channels/61c095861782bd000780e0ba/colorLogoPNG.png"group-title="swed",Pluto TV Action
+https://jmp2.uk/plu-61c0b0688a80a4000703fbcb.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="PlutoTVBudTerence.se@SE"tvg-logo="https://images.pluto.tv/channels/64be7398e4391c0008cdedfe/colorLogoPNG_1776936976930.png"group-title="swed",Pluto TV Bud & Terence
+https://jmp2.uk/plu-65b917720d9ab4000833f323.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="PlutoTVBuskis.se@SE"tvg-logo="https://images.pluto.tv/channels/660d5f2a635c75000828855f/colorLogoPNG.png"group-title="swed",Pluto TV Buskis
+https://jmp2.uk/plu-660d5f2a635c75000828855f.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="PlutoTVDokumentar.se@SE"tvg-logo="https://images.pluto.tv/channels/62b30b0060a9ca0007d628b4/colorLogoPNG.png"group-title="swed",Pluto TV Dokumentär
+https://jmp2.uk/plu-62b1e2498261390007f25c98.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="PlutoTVFilm.se@SE"tvg-logo="https://images.pluto.tv/channels/61c09515fbb4b50007d221f5/colorLogoPNG.png"group-title="swed",Pluto TV Film
+https://jmp2.uk/plu-61c0afa0a09bbe00078f8378.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="PlutoTVHandbollHighlights.se@SE"tvg-logo="https://images.pluto.tv/channels/68dfa3e2cc3c6cd904052c41/colorLogoPNG_1761838923264.png"group-title="swed",Pluto TV Handboll Highlights
+https://jmp2.uk/plu-68dfa3e2cc3c6cd904052c41.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="PlutoTVHandbollLive.se@SE"tvg-logo="https://images.pluto.tv/channels/686faf533ffa5e0c912688e7/colorLogoPNG_1762169254016.png"group-title="swed",Pluto TV Handboll Live
+https://jmp2.uk/plu-686faf533ffa5e0c912688e7.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="PlutoTVHarlequin.se@SE"tvg-logo="https://images.pluto.tv/channels/68c01afa3efb41cd9759dafb/colorLogoPNG_1770018342774.png"group-title="swed",Pluto TV Harlequin
+https://jmp2.uk/plu-68c01bed508ba507f0d0dd60.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="PlutoTVHorror.se@SE"tvg-logo="https://images.pluto.tv/channels/63a1c9790cc44a0007dc8857/colorLogoPNG.png"group-title="swed",Pluto TV Horror
+https://jmp2.uk/plu-63a19e1b9ab2df0007bef7a7.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="PlutoTVJohnWayne.se@SE"tvg-logo="https://images.pluto.tv/channels/655ca7aa635c3c000855d655/colorLogoPNG.png"group-title="swed",Pluto TV John Wayne
+https://jmp2.uk/plu-655caaaac0fc8800086f5d99.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="PlutoTVJuniorklubben.se@SE"tvg-logo="https://images.pluto.tv/channels/61c09a78bd194c0008decc28/colorLogoPNG_1748329348443.png"group-title="swed",Pluto TV Juniorklubben (720p)
+https://jmp2.uk/plu-61c0b7eb8929e40007ff5125.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="PlutoTVKomedi.se@SE"tvg-logo="https://images.pluto.tv/channels/61c0b36d18447e000717d686/colorLogoPNG.png"group-title="swed",Pluto TV Komedi
+https://jmp2.uk/plu-61c0b36d18447e000717d686.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="PlutoTVKultfilmer.se@SE"tvg-logo="https://images.pluto.tv/channels/63dbe80f60bc8f0008aa7c78/colorLogoPNG.png"group-title="swed",Pluto TV Kultfilmer
+https://jmp2.uk/plu-63dbe8c8a9957100087798a3.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="PlutoTVMotor.se@SE"tvg-logo="https://images.pluto.tv/channels/68ac51dede4a734954b5a67a/colorLogoPNG_1761126157471.png"group-title="swed",Pluto TV Motor
+https://jmp2.uk/plu-68ac52fac9b5923e0585578b.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="PlutoTVParanormal.se@SE"tvg-logo="https://images.pluto.tv/channels/62b30beb81f89900071fc7b9/colorLogoPNG.png"group-title="swed",Pluto TV Paranormal
+https://jmp2.uk/plu-62b1e4189f5db20007ff03be.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="PlutoTVRomantik.se@SE"tvg-logo="https://images.pluto.tv/channels/63a1c954d3897300079fcb12/colorLogoPNG_1767773445743.png"group-title="swed",Pluto TV Romantik
+https://jmp2.uk/plu-63a19da6847a090007f230da.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="PlutoTVSciFi.se@SE"tvg-logo="https://images.pluto.tv/channels/60ed498c4248a400077c0b9d/colorLogoPNG.png"group-title="swed",Pluto TV Sci-Fi
+https://jmp2.uk/plu-61f9597e78607000074f6c2a.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="PlutoTVSnooker900.se@SE"tvg-logo="https://images.pluto.tv/channels/68ac5543a1ac0c90f2c8943e/colorLogoPNG_1760517341343.png"group-title="swed",Pluto TV Snooker 900 (720p)
+https://jmp2.uk/plu-68ac56363efb41cd979a8005.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="PlutoTVSport.se@SE"tvg-logo="https://images.pluto.tv/channels/6357f3de3643ba0007bc0b50/colorLogoPNG_1746816938506.png"group-title="swed",Pluto TV Sport
+https://jmp2.uk/plu-62cd74e38f6f0d000798cd93.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="PlutoTVTecknadeklassiker.se@SE"tvg-logo="https://images.pluto.tv/channels/67f5095a3481170e6843d95d/colorLogoPNG_1748955339418.png"group-title="swed",Pluto TV Tecknade klassiker (720p)
+https://jmp2.uk/plu-67f5095a3481170e6843d95d.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="PlutoTVTecknat.se@SE"tvg-logo="https://images.pluto.tv/channels/61c0b6f028e94c000782684a/colorLogoPNG_1749627909756.png"group-title="swed",Pluto TV Tecknat (720p)
+https://jmp2.uk/plu-61c0b6f028e94c000782684a.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="PlutoTVTrueCrime.se@SE"tvg-logo="https://images.pluto.tv/channels/615333098185f00008715a56/colorLogoPNG.png"group-title="swed",Pluto TV True Crime
+https://jmp2.uk/plu-61c0b438244e50000758083b.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="PlutoTVUngdomsserier.se@SE"tvg-logo="https://images.pluto.tv/channels/67f3fb1cdea1c5e0d588ac1b/colorLogoPNG_1748270797322.png"group-title="swed",Pluto TV Ungdomsserier (720p)
+https://jmp2.uk/plu-67f3fc1707d2ba4121bd34a8.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="PlutoTVVarldskrigen.se@SE"tvg-logo="https://images.pluto.tv/channels/677d3ad04bd63600082f7c54/colorLogoPNG_1759445391825.png"group-title="swed",Pluto TV Världskrigen
+https://jmp2.uk/plu-677d3ad04bd63600082f7c54.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="PlutoTVWildWest.se@SE"tvg-logo="https://images.pluto.tv/channels/68c01732b3900870ec74766f/colorLogoPNG_1761917904777.png"group-title="swed",Pluto TV Wild West
+https://jmp2.uk/plu-68c017bf337652ee75db201f.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Rawhide.se@SE"tvg-logo="https://images.pluto.tv/channels/6964ba787e92438c2754e924/colorLogoPNG_1768209194548.png"group-title="swed",Rawhide
+https://jmp2.uk/plu-6964bb3640c8de392514a0c6.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Reno911.se@SE"tvg-logo="https://images.pluto.tv/channels/65e9766eec9fda0008cb418a/colorLogoPNG.png"group-title="swed",Reno 911
+https://jmp2.uk/plu-65e9781a2873090008b48d8a.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="RidiculousnessNyaavsnitt.se@SE"tvg-logo="https://images.pluto.tv/channels/68dfa1e7fae18f8db6218703/colorLogoPNG_1762543429004.png"group-title="swed",Ridiculousness Nya avsnitt
+https://jmp2.uk/plu-68dfa1e7fae18f8db6218703.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="SabrinatheTeenageWitch.se@SE"tvg-logo="https://images.pluto.tv/channels/6512ecf63a0d700008db506a/colorLogoPNG.png"group-title="swed",Sabrina the Teenage Witch
+https://jmp2.uk/plu-6512d72b473a540008592be5.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Scorpion.se@SE"tvg-logo="https://images.pluto.tv/channels/63a1caefc8d285000799e8af/colorLogoPNG.png"group-title="swed",Scorpion
+https://jmp2.uk/plu-63a1c9c2847a090007f248da.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="SkonhetsfallanDanmark.se@SE"tvg-logo="https://images.pluto.tv/channels/643808dce0789d00084797f6/colorLogoPNG.png"group-title="swed",Skönhetsfällan Danmark
+https://jmp2.uk/plu-643808dce0789d00084797f6.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="SmithsonianChannelSelects.se@SE"tvg-logo="https://images.pluto.tv/channels/61fb988e032c0100077d5252/colorLogoPNG.png"group-title="swed",Smithsonian Channel Selects
+https://jmp2.uk/plu-61fb9907b1b78d000717ed9f.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="SouthPark.se@SE"tvg-logo="https://images.pluto.tv/channels/61c098df897b9d00070375c8/colorLogoPNG_1754471522651.png"group-title="swed",South Park
+https://jmp2.uk/plu-61c0b627e3ed94000793c18a.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="SouthParkArmageddon.se@SE"tvg-logo="https://images.pluto.tv/channels/660bff28516d260008479e23/colorLogoPNG.png"group-title="swed",South Park Armageddon
+https://jmp2.uk/plu-660bff7dc8311c0008b4bdb4.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="SouthParkRockinOut.se@SE"tvg-logo="https://images.pluto.tv/channels/664f132c8ea5560008ce4d86/colorLogoPNG.png"group-title="swed",South Park Rockin' Out
+https://jmp2.uk/plu-664f13aff9992200084a3532.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="SouthParkButtersCollection.se@SE"tvg-logo="https://images.pluto.tv/channels/65d87a66ec9fda0008a5ac11/colorLogoPNG.png"group-title="swed",South Park: Butters Collection
+https://jmp2.uk/plu-65d881d566eec8000887f6bb.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="SouthParkCartmanCollection.se@SE"tvg-logo="https://images.pluto.tv/channels/65d87a058145cb0008265c2e/colorLogoPNG.png"group-title="swed",South Park: Cartman Collection
+https://jmp2.uk/plu-65d881b1332fec000833a122.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="SouthParkIntotheStars.se@SE"tvg-logo="https://images.pluto.tv/channels/664f0eaa8ce31100088036bd/colorLogoPNG.png"group-title="swed",South Park: Into the Stars
+https://jmp2.uk/plu-664f0eea0120f40008bf97d6.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="SouthParkKennyCollection.se@SE"tvg-logo="https://images.pluto.tv/channels/65d879bd0d4561000805d190/colorLogoPNG.png"group-title="swed",South Park: Kenny Collection
+https://jmp2.uk/plu-65d880cea25d5e0008315b0a.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="SouthParkKyleCollection.se@SE"tvg-logo="https://images.pluto.tv/channels/65d87a908145cb0008265c6d/colorLogoPNG.png"group-title="swed",South Park: Kyle Collection
+https://jmp2.uk/plu-65d882394e01740008a36768.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="SouthParkStanCollection.se@SE"tvg-logo="https://images.pluto.tv/channels/65d879e266eec8000887e91b/colorLogoPNG.png"group-title="swed",South Park: Stan Collection
+https://jmp2.uk/plu-65d881914e01740008a36603.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="StarTrekMovies.se@SE"tvg-logo="https://images.pluto.tv/channels/6400c281dff38e00083f59da/colorLogoPNG.png"group-title="swed",Star Trek Movies
+https://jmp2.uk/plu-6400c2a6cb41a40008dbe5bc.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="StarTrekTheOriginalSeries.se@SE"tvg-logo="https://images.pluto.tv/channels/693add137e308621c051e733/colorLogoPNG_1765465486347.png"group-title="swed",Star Trek: The Original Series
+https://jmp2.uk/plu-693ade4d569386f93f235bb6.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="StugfixarnaNorge.se@SE"tvg-logo="https://images.pluto.tv/channels/61c18ec6ac860c0007684981/colorLogoPNG.png"group-title="swed",Stugfixarna Norge
+https://jmp2.uk/plu-61c18ec6ac860c0007684981.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="SvampBobFyrkant.se@SE"tvg-logo="https://images.pluto.tv/channels/61c0ba0816e2fd00086cb6b1/colorLogoPNG.png"group-title="swed",SvampBob Fyrkant (720p)
+https://jmp2.uk/plu-61c0ba0816e2fd00086cb6b1.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="SvenskaHollywoodfruar.se@SE"tvg-logo="https://images.pluto.tv/channels/61c1921610d254000727eebd/colorLogoPNG.png"group-title="swed",Svenska Hollywoodfruar
+https://jmp2.uk/plu-61c1921610d254000727eebd.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="SvenskaTruckers.se@SE"tvg-logo="https://images.pluto.tv/channels/61f128f68a1dfc00086470af/colorLogoPNG.png"group-title="swed",Svenska Truckers
+https://jmp2.uk/plu-61f128f68a1dfc00086470af.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="SVT1.se@HD"tvg-logo="https://i.imgur.com/j6KusQX.png"group-title="swed",SVT1 (1080p) [Geo-blocked]
+https://svt-live-channel.akamaized.net/l4/se/svt1/master-fmp4.m3u8?defaultSubLang=1&format=hls
+#EXTINF:-1 tvg-name=""tvg-id="SVT2.se@HD"tvg-logo="https://i.imgur.com/pGWvCxp.png"group-title="swed",SVT2 (1080p) [Geo-blocked]
+https://svt-live-channel.akamaized.net/l6/se/svt2/master-fmp4.m3u8?defaultSubLang=1&format=hls
+#EXTINF:-1 tvg-name=""tvg-id="TheDailyShow.se@SE"tvg-logo="https://images.pluto.tv/channels/65c096d23ba51e0008305a75/colorLogoPNG.png"group-title="swed",The Daily Show
+https://jmp2.uk/plu-65c0978360eb870008bc9d5b.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="MTVTheHills.se@SE"tvg-logo="https://images.pluto.tv/channels/61c09039ebd75200072587f9/colorLogoPNG.png"group-title="swed",The Hills
+https://jmp2.uk/plu-61c08d7c73bdb800070eef0a.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="TheLWord.se@SE"tvg-logo="https://images.pluto.tv/channels/693ae48864476d678e9b6235/colorLogoPNG_1768226798170.png"group-title="swed",The L Word
+https://jmp2.uk/plu-693ae4ee25e9a6646b198fb0.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="TheMillers.se@SE"tvg-logo="https://images.pluto.tv/channels/69afeefa0a7f2095e768401c/colorLogoPNG_1776168453662.png"group-title="swed",The Millers
+https://jmp2.uk/plu-69afef4b0306b277744de1e4.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="TheNewDetectives.se@SE"tvg-logo="https://images.pluto.tv/channels/618147d2a814250007b42916/colorLogoPNG.png"group-title="swed",The New Detectives
+https://jmp2.uk/plu-61814dd68a368d0007d78c53.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="TheTwilightZone.se@SE"tvg-logo="https://images.pluto.tv/channels/6512ec9f3a0d700008db4f0c/colorLogoPNG.png"group-title="swed",The Twilight Zone
+https://jmp2.uk/plu-6512d6c92ce8e40008bd5c81.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="TheWildWildWest.se@SE"tvg-logo="https://images.pluto.tv/channels/6964bc3806d76f50db3e315e/colorLogoPNG_1768230352673.png"group-title="swed",The Wild Wild West
+https://jmp2.uk/plu-6964bcf9ae33e24d911d7e1c.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Tosh0.se@SE"tvg-logo="https://images.pluto.tv/channels/65e977042873090008b48be9/colorLogoPNG.png"group-title="swed",Tosh.0
+https://jmp2.uk/plu-65e97856ec9fda0008cb453c.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="TotallyTurtles.se@SE"tvg-logo="https://images.pluto.tv/channels/61c0bbd95df1da0007bed5a0/colorLogoPNG.png"group-title="swed",Totally Turtles (720p)
+https://jmp2.uk/plu-61c185e36faf920007f04b6e.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="TruecrimefranViaplay.se@SE"tvg-logo="https://images.pluto.tv/channels/645cb7857cb4b1000859c57c/colorLogoPNG.png"group-title="swed",True crime från Viaplay
+https://jmp2.uk/plu-645cb7857cb4b1000859c57c.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="UngaMammor.se@SE"tvg-logo="https://images.pluto.tv/channels/61c1e1c445b45d0007aad03e/colorLogoPNG.png"group-title="swed",Unga Mammor
+https://jmp2.uk/plu-61c1900995f417000731a002.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="VSportGolf.se@SD"tvg-logo="https://i.imgur.com/wCw8Pmz.png"group-title="swed",V Sport Golf [Not 24/7]
+http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12077/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="ViafreeMovies.se@SE"tvg-logo="https://images.pluto.tv/channels/62bebc3459624e00078209c3/colorLogoPNG.png"group-title="swed",Viafree Movies
+https://jmp2.uk/plu-62f64ec9eb1045000728cad6.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Wildfire.se@SE"tvg-logo="https://images.pluto.tv/channels/62b9b63d3bbe9000073c0a2d/colorLogoPNG.png"group-title="swed",Wildfire
+https://jmp2.uk/plu-62beb0de371e6c000775930c.m3u8
 #EXTINF:-1 tvg-name="Jordan Comedy (1080p)"tvg-id="JordanComedy.jo"tvg-logo="https://i.imgur.com/DuwwoO2.png"group-title="Movies",Jordan Comedy (1080p)
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Comedy/playlist.m3u8
 #EXTINF:-1 tvg-name="Majid Al Mohandis (1080p)"tvg-id="MajidAlMohandis.sa"tvg-logo="https://i.discogs.com/Fk9Bm8gTYJYeVXIJKX-EOGmYQ90sVQPtkIW5ZK4fydo/rs:fit/g:sm/q:90/h:372/w:412/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE2OTY4/MzMtMTU2ODk0NjI5/MC01Njk2LmpwZWc.jpeg"group-title="Music",Majid Al Mohandis (1080p)
@@ -857,8 +981,6 @@ https://afrafhls.wns.live/hls/stream.m3u8
 http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
 #EXTINF:-1 tvg-name="Artflix Movie Classics (720p)"tvg-id="ARTFLIXMovieClassics.us@SD"tvg-logo="https://i.imgur.com/5pOZQB4.png"group-title="Movies2",Artflix Movie Classics (720p)
 https://amogonetworx-artflix-1-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Aurora Media Films (720p)"tvg-id="AuroraMediaFilms.gt@SD"tvg-logo="https://i.imgur.com/DVC5w6H.png"group-title="Movies2",Aurora Media Films (720p)
-https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 #EXTINF:-1 tvg-name="B4U Bhojpuri (1080p)"tvg-id="B4UBhojpuri.in@SD"tvg-logo="https://i.imgur.com/NwOQUDp.png"group-title="Movies2",B4U Bhojpuri (1080p)
 https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
 #EXTINF:-1 tvg-name="Bhojpuri Cinema (720p)"tvg-id="BhojpuriCinema.in@SD"tvg-logo="https://i.imgur.com/ABxIO7r.jpg"group-title="Movies2",Bhojpuri Cinema (720p)
@@ -913,16 +1035,10 @@ https://icchls.wns.live/hls/stream.m3u8
 https://hls.maahtv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="MBC+ Drama (1080p)"tvg-id="MBCPlusDrama.sa@SD"tvg-logo="https://i.imgur.com/lxWdjXG.png"group-title="Movies2",MBC+ Drama (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8
-#EXTINF:-1 tvg-name="Meta Film TV"tvg-id="MetaFilmTV.ir@SD"tvg-logo="https://www.lyngsat.com/logo/tv/mm/meta-film-tv.png"group-title="Movies2",Meta Film TV
-https://metafilmhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Movies Action (1080p)"tvg-id="MoviesAction.sa@SD"tvg-logo="https://i.imgur.com/NIVhISa.png"group-title="Movies2",Movies Action (1080p)
 https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
 #EXTINF:-1 tvg-name="Movies Thriller (1080p)"tvg-id="MoviesThriller.sa@SD"tvg-logo="https://i.imgur.com/JWihdcl.png"group-title="Movies2",Movies Thriller (1080p)
 https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
-#EXTINF:-1 tvg-name="Persiana Cinema"tvg-id="PersianaCinema.fr@SD"tvg-logo="https://i.imgur.com/hgIro9r.png"group-title="Movies2",Persiana Cinema
-https://cinehls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-name="Persiana Family"tvg-id="PersianaFamily.fr@SD"tvg-logo="https://i.imgur.com/lMZsuWi.png"group-title="Movies2",Persiana Family
-https://familyhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Persiana Iranian"tvg-id="PersianaIranian.fr@SD"tvg-logo="https://i.imgur.com/vqrrpBi.png"group-title="Movies2",Persiana Iranian
 https://irhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Persiana Korea"tvg-id="PersianaKorea.fr@SD"tvg-logo="https://i.imgur.com/si2ZnIA.png"group-title="Movies2",Persiana Korea
