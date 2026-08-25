@@ -395,8 +395,6 @@ https://toonixhls.wns.live/hls/stream.m3u8
 https://icnet2hls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="icnet 3"tvg-id="icnet3.ca@SD"tvg-logo="https://i.postimg.cc/RVqQMVVV/icnet3.png"group-title="Pers",icnet 3
 https://ic3hls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-name="BloombergHT.tr@SD"tvg-id="BloombergHT.tr@SD"tvg-logo="https://i.imgur.com/bmkXfIE.png"group-title="Business",BloombergHT (720p)
-https://ciner-live.daioncdn.net/bloomberght/bloomberght.m3u8
 #EXTINF:-1 tvg-name="TRT Kurdî"tvg-id="TRTKurdi.tr"tvg-logo="https://i.imgur.com/6BpymfB.png"group-title="Kurd",TRT Kurdî
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="Abdulmajeed Abdullah (1080p)"tvg-id="AbdulmajeedAbdullah.sa"tvg-logo="https://assets.mbcmood.com/channels/1720184087Abdullah%20Majeed%20Abdullah%20banner.png"group-title="Music",Abdulmajeed Abdullah (1080p)
